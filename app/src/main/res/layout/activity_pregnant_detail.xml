@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/page1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:paddingRight="10dp"
+            android:text="1. Hafta"
+            android:textSize="20sp"
+            android:layout_marginTop="100dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:id="@+id/bebek1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView"
+            android:text="Bebeginizin su an ki boyutu"
+            android:layout_alignParentLeft="true"/>
+
+        <TextView
+            android:id="@+id/image1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/bebek1"
+            android:text="Hashas Tohumu"
+            />
+
+        <TextView
+            android:id="@+id/IlkhaftaDetay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hamileliğin ilk haftasında yaşananlar: \n \n
+Hamileliğin ilk haftasını anlamak için bir uzmandan destek almak daha kesin sonuçlara ulaşmanızı sağlayacaktır. Hamileliğin kesin olmayan belirtileri ile ilk haftanın nasıl geçtiğini anlayabilirsiniz. Başlıca ilk belirtiler: adet gecikmesi, mide bulantısı, kusma, baş ağrısı, kramp, iştah değişikliği, ruhsal değişikliktir.
+
+\n \n İlk hafta ile birlikte gaz, kabızlık, yorgunluk ve hormonal değişiklikler de kendini gösterecektir. Bazı uzmanlara göre gebelikte adetin gecikmesi ile başlayan hafta ilk kabul edilmeyerek ikinci hafta kabul edilmektedir. Bunun sebebi de döllenmenin ikinci hafta itibari ile gerçekleşmesidir. Uzmanlara göre ikinci hafta ile birlikte gebeliğin başladığı söylenmektedir.
+
+\n \n Hamileliğin ilk haftalarında bebek gelişimi \n \n
+
+Hamileliğin ilk haftasında yumurta, yumurtalıktan ayrılarak fallop tüpüne doğru bir yolculuğa çıkar. Bebeğinizle ilgili ilk haftalarda yaşanan en büyük gelişim de budur. Yumurtanın döllenmesi işlemi de gerçekleştiğinde fetus gelişerek büyümeye devam edecektir.Hamilelik hesaplaması yaparken doktorlar, son adet döneminizi soracaktır. Son adet döneminin ilk günü bebeğinizin gelişinin ilk günü olarak takvim hesaplamasına başlanmaktadır. Son adetin üzerinden 40 hafta sayarak bebeğin doğacağı hafta planlanmış olur.
+    "
+            android:layout_below="@id/page1"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="300dp"/>
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="122dp"
+            android:layout_height="180dp"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/poppy_seeds"
+            app:srcCompat="@drawable/poppy_seeds"
+
+            />
+    </RelativeLayout>
+</ScrollView>
