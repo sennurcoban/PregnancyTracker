@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -22,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private Button button;
     private Integer selectedWeek;
     private Integer selectedDay;
+
 
     ArrayList<Integer> week = new ArrayList<>();
     ArrayList<Integer> day = new ArrayList<>();
@@ -124,9 +126,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private void openPregnantActivity(){
+
         Intent intent = new Intent(this,PregnanDetailActivity.class);
         intent.putExtra("selectedDay",selectedDay);
         startActivity(intent);
+        overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right);
     }
 
 }

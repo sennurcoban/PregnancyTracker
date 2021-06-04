@@ -21,6 +21,7 @@
             android:layout_alignParentEnd="true"
             android:paddingRight="10dp"
             android:text="1. Hafta"
+            android:textStyle="bold"
             android:textSize="20sp"
             android:layout_marginTop="100dp"
             android:layout_alignParentTop="true"
@@ -32,15 +33,18 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/imageView"
-            android:text="Bebeginizin su an ki boyutu"
-            android:layout_alignParentLeft="true"/>
+            android:text="Bebeğinizin şu an ki boyutu"
+            android:layout_alignParentLeft="true"
+            android:textStyle="italic|bold"
+            />
 
         <TextView
             android:id="@+id/image1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/bebek1"
-            android:text="Hashas Tohumu"
+            android:text="Haşhaş Tohumu"
+            android:textStyle="bold"
             />
 
         <TextView
@@ -56,6 +60,7 @@ Hamileliğin ilk haftasını anlamak için bir uzmandan destek almak daha kesin 
 
 Hamileliğin ilk haftasında yumurta, yumurtalıktan ayrılarak fallop tüpüne doğru bir yolculuğa çıkar. Bebeğinizle ilgili ilk haftalarda yaşanan en büyük gelişim de budur. Yumurtanın döllenmesi işlemi de gerçekleştiğinde fetus gelişerek büyümeye devam edecektir.Hamilelik hesaplaması yaparken doktorlar, son adet döneminizi soracaktır. Son adet döneminin ilk günü bebeğinizin gelişinin ilk günü olarak takvim hesaplamasına başlanmaktadır. Son adetin üzerinden 40 hafta sayarak bebeğin doğacağı hafta planlanmış olur.
     "
+            android:textStyle="italic|bold"
             android:layout_below="@id/page1"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
@@ -67,7 +72,17 @@ Hamileliğin ilk haftasında yumurta, yumurtalıktan ayrılarak fallop tüpüne 
             android:layout_alignParentStart="true"
             android:src="@drawable/poppy_seeds"
             app:srcCompat="@drawable/poppy_seeds"
+            android:layout_below="@id/buttonactivity"
+
 
             />
+
+        <Button
+            android:id="@+id/buttonactivity"
+            android:layout_width="40dp"
+            android:layout_height="38dp"
+            android:text="+"
+            app:backgroundTint="#BC9C27B0"
+            android:textStyle="bold"/>
     </RelativeLayout>
 </ScrollView>
