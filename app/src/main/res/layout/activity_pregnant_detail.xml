@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
+<androidx.drawerlayout.widget.DrawerLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:id="@+id/drawer_layout"
     android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/main_toolbar"/>
+
+    </LinearLayout>
 
 
     <RelativeLayout
 
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="">
 
 
         <TextView
@@ -22,6 +33,7 @@
             android:paddingRight="10dp"
             android:text="1. Hafta"
             android:textStyle="bold"
+            android:textColor="#B9C60D92"
             android:textSize="20sp"
             android:layout_marginTop="100dp"
             android:layout_alignParentTop="true"
@@ -33,10 +45,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/imageView"
-            android:text="Bebeğinizin şu an ki boyutu"
             android:layout_alignParentLeft="true"
-            android:textStyle="italic|bold"
-            />
+            android:text="Bebeğinizin şu an ki boyutu"
+            android:textColor="#B9C60D92"
+            android:textStyle="italic|bold" />
 
         <TextView
             android:id="@+id/image1"
@@ -45,7 +57,7 @@
             android:layout_below="@id/bebek1"
             android:text="Haşhaş Tohumu"
             android:textStyle="bold"
-            />
+            android:textColor="#B9C60D92"/>
 
         <TextView
             android:id="@+id/IlkhaftaDetay"
@@ -69,20 +81,11 @@ Hamileliğin ilk haftasında yumurta, yumurtalıktan ayrılarak fallop tüpüne 
             android:id="@+id/imageView"
             android:layout_width="122dp"
             android:layout_height="180dp"
+            android:paddingTop="20dp"
             android:layout_alignParentStart="true"
             android:src="@drawable/poppy_seeds"
-            app:srcCompat="@drawable/poppy_seeds"
-            android:layout_below="@id/buttonactivity"
+            app:srcCompat="@drawable/poppy_seeds" />
 
 
-            />
-
-        <Button
-            android:id="@+id/buttonactivity"
-            android:layout_width="40dp"
-            android:layout_height="38dp"
-            android:text="+"
-            app:backgroundTint="#BC9C27B0"
-            android:textStyle="bold"/>
     </RelativeLayout>
-</ScrollView>
+</androidx.drawerlayout.widget.DrawerLayout>

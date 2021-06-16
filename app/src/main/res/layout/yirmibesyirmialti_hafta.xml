@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="25.Hafta Hamilelik \n\n Bebeğiniz kendisini dış dünya için hazırlamaya devam ediyor; boyu yaklaşık 34 cm uzunluğunda ve 670 gr ağırlığında.
+Saçları uzuyor. Vücudu yağ tutmaya başlıyor. Cildi buruş buruş ve yumuşacık.
+Göbek bağı artık daha kalın ve güçlü. Besinleri ve oksijeni bebeğinize aktarıp artıkları dönüştürülmesi için vücudunuza iletiyor.
+Bebeğinizin koordinasyon duygusu gelişiyor. Artık ellerini sıkabiliyor ve ayaklarına uzanabiliyor hatta hıçkırıyor. Üstelik siz bunların hepsini hissedebiliyorsunuz.
+Ciğerleri ilk solunumuna hazırlanıyor.
+Ağzının etrafındaki sinirler gelişiyor. Bu duyu, bebeğinize meme uçlarınızı bulmasında yardımcı olacak.
+Bu aşamada, bebeğinizin işitme yeteneği babasının sesini tanıyacak, bazı ses ve müzikleri duyduğunda rahatlayacak kadar gelişti.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bebeğinizin saçları uzarken sizin saçlarınız da daha dolgun görünmeye başladı. Saçlarınızın çoğaldığını zannediyor olabilirsiniz. Ama aslında saçlarınız çoğalmıyor, sadece, artık dökülmüyor. Bu durumun olabildiğince tadını çıkarmaya bakın çünkü doğumdan sonra saçlarınız tekrar dökülmeye başlayacak.
+Hareketleriniz kısıtlanmaya başladı ama doktorunuza danışarak egzersizlerinize devam etmenizde bir sakınca yok.\n\n 3 adımda son doktor kontrolleri
+Doktorunuz bu aşamada size:
+
+     1. Fiziksel ve duygusal olarak nasıl hissettiğinizi,
+
+               Kasılmaların, vajinal kanama veya akıntı olup olmadığını,
+
+               Baş ağrılarınızın olup olmadığını,
+
+               Korku, kaygı yaşayıp yaşamadığınızı soracak.
+
+       2. Tansiyonunuzu,
+
+               İdrarınızın ağırlığını ve içeriğini
+
+               Eklem yerlerinizdeki şişkinlikleri
+
+               Bebeğinizin kalp atışlarını ve karnınızı
+
+               Bebeğinizin büyüklüğünü ve pozisyonunu
+
+               Kaşık kemiğiniz ile göbek deliğiniz arasındaki mesafeyi ölçüp bebeğinizin gelişim hızını
+
+                ve rahim boynunuzu kontrol edecek.
+
+       3. Erken doğum semptomları gibi dikkat etmeniz gereken durumları anlatacak.
+
+               Doğum tarihiniz yaklaştıkça da doğum başlangıcı semptomları hakkında bilgi verecek.\n\n Son kontrollerde yapılacak testler
+Doktorunuz durumunuza göre aşağıdaki testleri yapılabilir:
+
+Hematokrit/Hemoglobin: Anemiyi tespit eden bu test gebeliğin son üç ayında tekrarlanır.
+
+Diyabet testi: 24 ile 28. hafta arasında yapılır.
+
+Rh Antikor Testi: Eğer Rh-negatif iseniz antikor testi tekrarlanır. Bebeğinizin kanının sizinkine karışması durumunda (Bu düşük bir ihtimal olsa da) kanınızın antikor üretimi engellenebilir. Bu durum bebeğiniz için tehlike yaratır. Fakat eğer bebeğinizin babasının kan grubu da Rh-negatif ise bu işlem gerekmeyecektir.
+
+Cinsel yolla bulaşan hastalıklara karşı yapılan testler: Klamidya, bel soğukluğu, sifilis gibi rahatsızlıklar için yapılan testlerdir. Bu aşamada HIV testini tekrarlamak faydalı olabilir çünkü HIV’nin erken tespiti bebeğe geçme riskini azaltabilir.
+
+''Grup B Strep'' Testi: 35. ile 37. hafta arasında yapılacak rektal ve vajinal testlerle B streptokok olup olmadığınız tespit edilir. Fakat test pozitif olsa da, tedavi süreci hemen başlatılamaz. Çünkü erken müdahale bakterilerin geri dönüşünü tam olarak engelleyemez.
+
+Biyofiziksel Profil Testi: Bu test eğer belli hamilelik sorunları yaşadıysanız veya doğum tarihini geçtiyseniz yapılır.
+
+Hemoroitler: Bu dönemde hamile kadınların yarısından fazlası, rektal bölgede şiş ve kaşınma hissediyor. Bu durum büyüyen rahimin yarattığı baskı ile o bölgede azalan kan dolaşımından kaynaklanıyor.
+
+Hemoroit tehlikeli olmasa da, acı verici olabilir hatta rektal kanamaya yol açabilir.
+
+Bunun yanı sıra kabızlık da hemoroitleri tetikleyebilir. Bu yüzden yeterince lif ve sıvı tükettiğinizden emin olun.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 26.Hafta Hamilelik \n\n 26 haftalık gebelik sürecinde bebeğiniz gelişimini sürdürüyor. En önemlisi de ciğerleri gelişiyor ve kendini dış dünyaya hazırlıyor.
+
+Şuan bebeğinizin boyu 36 cm ve ağırlığı 670 gr.
+Omurgası gittikçe güçleniyor.
+Ciğerleri gelişiyor, dışarıda da nefes almaya hazırlanıyor.\n\n Bedeninizde adım adım neler oluyor?\n\n Hamileliğinizin bu zamanlarında tansiyonunuz biraz yüksek olabilir. Preeklampsi yüksek tansiyondan kaynaklanan bir durumdur ve çoğunlukla 37. haftada görülür. Fakat daha erken de belirebilir. Bu nedenle semptomlarını bilmenizde fayda var:
+Eğer yüzünüzde ve gözlerinizde, eklem yerlerinizde ve ayaklarınızda aşırı şişlik görüyorsanız   doktorunuzu aramanızı öneririz.Bunun yanı sıra daha şiddetli Preeklampsi ile birlikte farklı semptomlar da yaşıyor olabilirsiniz.
+Eğer başınız yoğun ve sürekli bir şekilde ağrıyorsa, çift veya bulanık görmek gibi sorunlarınız varsa, karın bölgenizde gerginlik veya ağrı hissediyorsanız veya istifra ediyorsanız doktorunuza hemen bildiriniz.
+Hamileliğinizin bu zamanlarında ne kadar aktif olursanız, değişen vücudunuza adapte olmanız, doğum esnasında ihtiyacınız olacak güce kavuşmanız, eski kilonuza dönmeniz daha kolay olur.
+Bu anlamda vücudunuzun limitleri içerisinde sağlıklı ve güvenli egzersizler yapmanız önemlidir.
+Günlük basit egzersizler, yürümek, yüzmek ya da suda yapılan sporlar sizi iyi hissettirebilir. Fakat eğer grup içerisinde spor yapıyorsanız, eğitmeninize hamile olduğunuzu söylemeyi ihmal etmeyin. Yaptığınız egzersizin güvenilir olduğundan emin değilseniz doktorunuza danışın.
+\n\n Hamilelik diyabeti\n\n Hamilelik diyabeti hamile kadınların %5’ini etkiler ve vücudun elde ettiği glikozun verimli kullanılmamasından kaynaklanır. Bu durum en çok hamileliğin son üç ayında görülür. Ama doktorunuz diyabet kontrolünüzü hamileliğinizin 28. Haftası civarı yapacak.
+Hamilelik diyabeti genelde sağlıklı diyet ve egzersizle kontrol altına alınabilir; çoğu zaman doğumdan sonra kaybolur.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

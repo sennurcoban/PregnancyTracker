@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="13. Hafta Hamilelik \n\n Şu an bebeğiniz yaklaşık olarak 25 gr ağırlığında ve 8 cm boyunda. Önümüzdeki haftalarda bebeğinizin oranları dengelenecek. Şu an kafası vücudunun 1/3’ü kadar.
+Uyanıkken çok aktif; esniyor, tekmeliyor, dönüyor, küçük parmaklarını oynatıyor.
+Cildinde ince yumuşak tüyler belirmeye başladı.
+Emme ve yutma refleksleri güçleniyor.
+Cinsel organları; yumurtalıklar, testisler gelişti.
+Karaciğeri çalışmaya başladı ve pankreası insülin üretmeye başlayacak.\n\n Bedeninizde adım adım neler oluyor?\n\n Bebeğinizin doğumuna aylar olsa da göğüsleriniz ve süt kanallarınız emzirmeye hazırlanıyor. Yakında “Kolostrum adı verilen sıvıyı üretmeye başlayacaklar. Bu sıvı besinlerle dolu ve bebeğinizi ilk besleyecek süt.
+Göğüsleriniz büyüdükçe ağırlaşıyor ve sertleşiyor. Telli sutyenlerin zararları kanıtlanmış olmasa da, göğüslerinizin doğal değişimini engelleyebileceği, gelişen süt kanallarına zarar verebileceği için birçok uzman, bu sıralarda telsiz sutyen kullanmanızı öneriyor.
+Gelecek hafta ikinci trimestrin ilk haftası başlayacak ve ilk hamilelik belirtileriniz hafifleyecek.
+Vajinal akıntınızın arttığını gözlemlemiş olabilirsiniz. Bu tamamen normal bir durum ve hamileliğiniz boyunca artarak devam edecek. Bu akıntı östrojen artışından ve pelik bölgedeki kan dolaşımının hızlanmış olmasından kaynaklanıyor. Önemli bir amacı var: Doğum kanallarını enfeksiyonlardan korumak ve sağlıklı bakteri sayısını dengelemek.
+Bu dönemde libidonuzun yükselme ihtimali yüksek. Hamileliğiniz süresince cinsellik anlamında gel-gitler yaşayacaksınız. Zaman zaman istekli, zaman zaman isteksiz olabilirsiniz. En iyisi bu konuyu akışına bırakın ve bedeninizin isteklerini dinlemeye çalışın.\n\n
+Lif takviyesi zamanı \n\n Hamilelikte dengeli ve besleyici besin tüketmeniz hem sizin hem de bebeğiniz için önemlidir. Lif ise sindiriminize çok faydalı olacak besinlerden biridir.
+
+İki çeşit lif vardır. Çözünmez lif organlardan parçalanmadan ve erimeden geçer; diğer besinlerin de geçmesini sağlar. Diğer lif türü ise çözünebilirdir. Bağırsakların fermente olmasını sağlar ve böylece sağlıklı bağırsak bakterileri için iyi bir besin kaynağı oluşturur.
+
+Lif sadece bitkisel gıdalardan alınır. Çözünür ve çözünemez lifler genelde bir arada bulunur. Bu bağlamda çeşitli lif kaynaklarından beslenmek iki türün dengelenmesini sağlayabilir.\n\n
+\n\n İyi çözünebilir lif kaynakları
+Çavdar, yulaf, arpa
+Fasulye ve bakliyat
+Meyve ve sebzeler
+Çözünemez lif kaynakları
+Buğday kepeği
+Tam tahıllı gevrek ve ekmek
+Kahverengi (Kepekli) pirinç
+Meyve ve sebzeler
+Tohumlar \n\n
+Lif tüketimini arttıran 2 yemek önerisi \n\n Portakal suyu yerine tam portakal yiyin.
+Sebze çorbası yerine sebzeli fasulye çorbası için.\n\n
+14.Hafta Hamilelik \n\n Bebeğiniz şu an 8,5 cm uzunluğunda.
+Böbrekleri çalışır vaziyette hatta içinde yüzdüğü amniyotik sıvıyı yutup, idrar yoluyla çıkartıyor.
+Göz kapakları gelişiyor ve küçük ince tırnakları beliriyor.
+Boynu gelişmeye başlıyor.
+Saçları dışında, “Languo” denen tüm vücudunu kaplayacak ve onu sıcak tutacak tüyleri uzuyor. Hamileliğinizin ilerleyen zamanlarında bu tüyler, oluşan yağ tabakası ile değiştirilecek.
+\n\n Bedeninizde adım adım neler oluyor? \n\n İkinci trimestıra hoş geldiniz! Bu dönem neredeyse tüm hamile kadınların en sevdiği dönem.
+İlk dönemin rahatsızlıkları hafifliyor ve enerjiniz geri geliyor.
+Sabah bulantılarınız ve tuvalete gitme ihtiyacınız azalıyor.
+Hamilelik kıyafetlerinizi almaya başlayabilirsiniz çünkü artık bir bebek beklediğiniz belli. \n\n 3 adımda Round Ligament ağrısı \n\n Rahminizin büyümesinin muhtemel yan etkisi olarak gözlemlenen “Round Ligament” ağrısı; karnınızın sağ ve sol bölgesinde hissedilir.
+Şuan rahminiz kalın bağlar tarafından desteklenip yerinde tutuluyor. Rahminiz büyüdükçe, bağlarınız da uyum sağlamak ve ağırlığı taşımak için uzar ve incelir. Uzayan ve çekilen bağlarınız da karnınızda hissettiğiniz keskin acıya neden olur.
+Pozisyonunuzu değiştirdiğinizde, öksürdüğünüzde veya aniden yerinizden kalktığınızda bu ağrıyı daha çok hissediyor olabilirsiniz. Bu ağrıyı hafifletmek için ayaklarınızı vücudunuzdan daha yüksekte tutabileceğiniz rahat bir oturma pozisyonunda dinlenmenizi öneririz.
+\n\n K Vitamini takviyesi zamanı \n\n K Vitamini kan pıhtılaşması ve kemik sağlığı için önemlidir. Vücudunuz fazla K Vitamini rezervlerini karaciğerde muhafaza eder bu nedenle az miktarda tüketilmesi gerekir. Fakat eğer bebek anne karnındayken yeterli K Vitamini alamıyorsa, doğumdan sonra nadir görülen bir kanama bozukluğu meydana gelebilir. Sentetik K Vitamini toksik olabileceğinden takviyeler yerine, K Vitamini içeren besinler tüketmeniz önerilir.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız. \n\n K vitamini içeren besinler
+Brokoli, ıspanak, lahana gibi yeşil yapraklı sebzeler
+Sebze yağları, soya yağı
+Yumurta
+Yağsız et
+Süt ürünleri \n\n
+K Vitamini içeren atıştırmalık tarif önerileri
+Ispanak ve peynirli dürüm
+Lahana salatası
+Izgara tavuklu ıspanak salatası
+Süt bazlı, bir kaşık yoğurt içeren meyveli içecek
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+
+"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

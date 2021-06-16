@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="27 haftalık gebelik sürecinde bebeğinizin karakteristik özellikleri oturmaya başladı. Vücut fonksiyonları çalışırken gelişmeye devam ediyor.
+
+Şuan bebeğiniz 37 cm boyunda ve 900 gr ağırlığında.
+Yüzünün karakteristik özellikleri tamamen oturdu.
+Ciğerleri, karaciğeri ve bağışıklık sistemi çalışıyor ama gelişmeye devam ediyor.
+Hamileliğinizin son 3 ayında, plasentanız bebeğinizin bağışıklık sistemini antikorlar sunarak güçlendiriyor. Doğumdan sonra, vücudunuz anne sütü yolu ile bebeğinize antikorlar iletmeye devam edecek.
+Bebeğinizin duyuları da gelişiyor. Retina ile birlikte, bebeğinizin gözleri ışığa karşı hassaslaşıyor. Tat algısı artık o kadar hassas ki, amniyotik sıvıya yansıyan tatları bile ayırabiliyor.
+Bebeğiniz düzenli bir uyku uyanıklık döngüsüne sahip. Gözlerini açıp kapatıyor; hatta parmaklarını emebiliyor. Beyin dokusu geliştikçe, beyin aktivitesi de artıyor.\n\n
+Bedeninizde adım adım neler oluyor?\n\n İşte 27. hafta gebelik boyunca yaşanan ve dikkat etmeniz gerekenler..
+
+Son 3 aylık dönemden geçerken, bebeğiniz hızlıca gelişiyor. Tekmeleri ve hareketleri güçlendi. Vücudunuz size birçok ağrı ve sızı yaşatarak bebeğinize uyum sağlamaya çalışıyor.
+Günlük hayatınızda aktif olmanız, vücudunuzun geçirdiği değişim ile baş etmenizi sağlayabilir. Eğer uyku düzeniniz bozulduysa gün içerisinde daha sık uyku molaları verebilirsiniz.
+Bu sıralar mide yanması yaşıyor olabilirsiniz. Bu, mide sıvısının yemek borusuna doğru bastırılmasından kaynaklanıyor. Bebeğiniz büyüdükçe, organlarının alanları kısıtlanıyor. Ve bu kısıtlama sizde mide yanmasına neden oluyor.\n\n Mide yanmasını hafifletmek için öneriler
+\n\n Uyurken vücudunuzun üst kısmını biraz daha yüksekte olmasına dikkat edin.
+Gün içerisinde sık ve küçük öğünler yiyin.
+Sık sık su için.
+Uyumadan önce vücudunuzun yediklerinizi öğütmesi için zaman tanıyın.
+Doktorunuza danışmadan herhangi bir ilaç almayın.\n\n Mide yanmasını engellemek için uzak durulması gereken besinler
+\n\n Kafein içeren içecekler
+Asidik yiyecek ve içecekler
+Acı ve yağlı yemekler
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 28.Hafta Hamilelik \n\n Şuan bebeğiniz 900 gr’ın biraz üzerinde ve 38 cm boyuna ulaştı.
+Gözlerini kırpabiliyor ve karnınızın dışındaki ışığı algılayabiliyor.
+Beyninde milyonlarca nöron gelişiyor ve vücudu dış dünyaya hazırlanmak yağ bağlıyor.
+Kalbi dakikada 140 kere atıyor ve eğer eşiniz kulağını karnınıza dayarsa bu kalp atışlarını rahatlıkla duyabilir. Bebeğinizin büyümesiyle karnınızdaki alan daralıyor ve böylece siz onun her hareketini hissedebiliyorsunuz.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Hamileliğinizin son 3 aylık dönemi başlıyor. Bundan sonra haftada yarım kilo almaya başlayacaksınız.
+Artık doktorunuzu iki haftada bir kere ziyaret edeceksiniz. Ve doğuma bir ay kala her hafta kontrol edilmeye başlayacaksınız. Doktorunuz risk faktörlerinize göre cinsel yol ile bulaşan hastalıkları tespit etmek için tahliller yapacak.
+Bazı anne adayları hemen hemen bu zamanlarda, bacaklarının alt kısmında rahatsız edici bir karıncalanma hissi yaşıyor. Bu durum rahatsız edici olduğu için bacakların hareketsiz kalmasını engelliyor. Eğer bu karıncalanma hissi siz bacaklarınızı hareket ettirdiğinizde geçiyorsa, Huzursuz Bacak Sendromu yaşıyor olabilirsiniz.
+Sindirim sisteminiz hamileliğin son 3 ayında daha yavaş çalışıyor olabilir. Hamilelik hormonları ile büyüyen bebeğinizin yarattığı baskı, şişkinlik ve hazımsızlık yaratabilir.
+              Bu durumu hafifletmek için:
+
+              *Daha az fakat sık yemek tüketin.
+
+              *Yemek yerken ve yedikten sonra bir süre dik oturun.
+
+              *Kızarmış yağlı ürünler, meyve suları ve baharatlı yemekler gibi vücudunuzun kolayca sindiremeyeceği besinlerden uzak durun.
+\n\n 3 adımda Preeklampsi\n\n Preeklampsi, hamile kadınların %5’ini etkileyen ciddi bir rahatsızlıktır. Teşhisi hamileliğin 20. Haftasında, yüksek tansiyon dışında en az bir belirti daha varsa konulur. Bu belirtiler arasında idrarda protein bulunması, ciğer veya böbrek anormallikleri de olabilir.
+
+Çoğu kadında doğuma yakın hafif Preeklampsi semptomları oluşur ama doğru tedavi ile ne anne adayı ne de bebek sorun yaşar. Eğer Preeklampsi şiddetli ise, birçok organı etkileyebilir ve ciddi hasarlar yaratabilir\n\n Preeklampsi semptomları
+\n\n Preeklampsi aniden oluşabilir, bu yüzden semptomlarını bilmek önemlidir. Eğer aşağıdaki semptomlar görülüyorsa bir an önce doktorunuzla iletişime geçmenizi öneririz.
+
+Yüzünüzde ve gözlerinizde, eklem yerlerinizde ve ayaklarınızda aşırı şişlik
+Ani ve hızlı kilo alımı (Haftada 2-2,5 kilo)
+Şiddetli ve sürekli baş ağrısı
+Görüşünüzde çift ya da bulanık görme gibi sorunlar
+Karın bölgenizde gerginlik veya ağrı
+Sürekli kusma, gibi semptomlar yaşıyorsanız hemen doktorunuzu aramanızı öneririz.
+Preeklampsi’nin çok belirgin semptomlar yaşamıyor olsanız da oluşma ihtimali vardır. Yani Preeklampsi olup olmadığınızı doğum öncesi kontrolünüze kadar anlayamayabilirsiniz. Bu yüzden kontrollerinizi ihmal etmemelisiniz.\n\n Preeklampsi risk faktörleri
+\n\n Preeklampsi ilk hamileliklerde daha sık görülür. Yine de, eğer bir kez Preeklampsi yaşadıysanız büyük ihtimalle tekrarlamayacaktır.
+
+\n\n Diğer risk faktörleri\n\n
+Yüksek tansiyon
+Diyabet
+Böbrek hastalıkları
+Lupus
+Ailede daha önce görüldüyse
+Yüksek kilo
+Birden fazla bebek bekliyorsanız
+40 yaşın üzerindeyseniz\n\n Preeklampsi’yi önlemenin bir yolu var mı?\n\n Preeklampsi’nin nasıl engelleneceği henüz bilinmemekle beraber bu alandaki araştırmalar devam ediyor. Bazı risk faktörü taşıyan kadınların düşük dozajlı aspirinden yararlanabildikleri biliniyor. Fakat doktorunuz onaylamadan aspirin dahi olsa hiçbir ilacı kullanmayın.
+
+Doktor kontrollerinizi ihmal etmeyin.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+
+"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

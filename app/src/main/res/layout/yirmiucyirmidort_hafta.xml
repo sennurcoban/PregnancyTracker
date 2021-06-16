@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="23. Hafta Hamilelik \n\n Bebeğiniz şuan yaklaşık 28 cm boyunda ve 500 gr ağırlığında. Hareketlerini ve kıvranmasını karnınızın yüzeyinde görebilirsiniz.
+Şuanda stetoskop ile bebeğinizin kalbini duyabilirsiniz.
+Ciğerlerindeki damarlar gelişiyor; dış dünyada nefes almaya hazırlanıyor.
+İşitme duyusu hassaslaştı. Köpeğinizin havlaması veya süpürgenin uğultusu gibi yüksek sesler artık ona tanıdık geliyor. Büyük ihtimalle doğduğunda o tip sesler artık onu telaşlandırmayacak.
+Bu hafta bebeğiniz hızlıca kilo almaya başlayacak. Gelecek 4 hafta içerisinde kilosu ikiye katlanacak.
+Bebeğinizin kemikleri ve organları 23. haftalık olmasına rağmen şeffaf cildinden görünebiliyor. Ama yağ bağlamaya başladıktan sonra bu şeffaflığı kaybedecek.
+Radyoyu açın ve müzik eşliğinde dans edin. Çünkü bebeğiniz şimdiye kadar gelişen hareket duyusuyla dans ettiğinizi bile hissedebilir.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Ayaklarınızın ve bileklerinizin şişkin olduğunu fark etmiş olabilirsiniz. Hele bir de yaz aylarındaysanız… Vücudunuzdaki kan dolaşımı yavaşladığı için bacaklarınız ödem tutuyor. Bunu tetikleyen bir başka unsur da değişen vücut kimyanız. Ama merak etmeyin, vücudunuz bu fazla sıvılardan doğumdan sonra kurtulacak.
+Her fırsatta bacaklarınızı uzatarak dinlenin. Uzun süre ayakta kalmaktan ve oturmaktan kaçının.
+Gün içinde zaman zaman bacaklarınızı esnetmeye çalışın.
+Rahat ayakkabılar ve destekleyici çoraplar giymeye dikkat edin.
+Düzenli egzersiz yapmaya çalışın ve şişkinlikler canınızı sıksa dahi su tüketimini azaltmayın.
+Eğer bacaklarınızın, ellerinizin, yüzünüzün ve gözlerinizin aniden ve aşırı şiştiğini fark ederseniz hemen doktorunuza danışın.\n\n Kalsiyum takviyesi zamanı
+\n\n Hamilelikte kalsiyum ihtiyacı artmamakla birlikte tüketim kapasiteniz arttığı için kalsiyum tüketiminize dikkat etmeniz gerekir. Kalsiyum hem bebeğinizin kemik ve diş gelişimi için hem de sizin kaslarınız ve sinir sisteminiz için çok önemlidir.\n\n
+Kalsiyum tüketiminiz için besin önerileri\n\n Yağsız süt, krem peynir ve süzme yoğurt
+Konserve somon veya sardalya
+Yeşil yapraklı sebzeler (Brokoli, ıspanak vs.)
+Badem vb. çerezler
+Susam vb. tohumlar
+Fasulye
+Kuru incir ve kayısı
+Kalsiyum takviyeli kahvaltılık gevrek, ekmek veya içecekler\n\n 24.Hafta Hamilelik\n\n Bebeğiniz şuan yaklaşık 30 cm boyunda ve 600 gr ağırlığında.
+
+Artık tam olarak küçük bir bebek gibi görünüyor; oranları doğru, yüzü tüm detaylarıyla oluştu.
+Bebeğinizin ciğerlerinin içindeki baloncuklar ve damarlar gelişmeye devam ediyor. Fakat bebeğiniz bu hafta doğsa, ciğerleri suni destek ile çalışmaya başlayabilecek kadar hazır.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Karnınız gittikçe büyüyor ve bu sırt ağrılarına neden oluyor.
+Eklem yerlerinizi rahatlatmak için düz ve rahat ayakkabılar seçmeye dikkat edin. Her fırsatta bacaklarınızı uzatarak dinlenin.
+Bu aşamadaki hormon dengesizliğiniz size duygusal dengesizlik olarak yansıyor. Heyecan, endişe, korku veya benzeri duygular içinde kayboluyor olabilirsiniz. Eğer bunlarla baş edemiyorsanız endişelerinizi bir yakınınızla paylaşabilir, bebek sahibi olan arkadaşlarınıza danışabilirsiniz. Daha tecrübeli anneler ile iletişim kurmak sizi rahatlatacaktır.
+Geçtiğiniz birkaç hafta içerisinde, rahminiz göbek deliğinizin üstüne doğru ilerledi ve artık bir futbol topu büyüklüğünde.
+Birçok kadının bu hafta ile 28. hafta arası glikoz değerleri ölçülür. Bu GCT olarak bilinen test, kan şekerini ölçüp şeker hastalığının olup olmadığını kontrol etmek amaçlıdır. Diyabet tedavi edilmediği takdirde bebeğin fazla büyümesine neden olur ve bu da vajinal doğumu zorlaştırabilir. Hatta sezeryana dahi neden olabilir. Bu nedenle bu değerlerin ölçülmesi ekstra önem taşır.\n\n
+3 adımda erken doğum ve bilinmesi gerekenler\n\n Genital enfeksiyon, plasentada sorunlar veya rahim boyu yetmezliği gibi bazı erken doğum risk faktörleri bilinse de, birçok erken doğumun tam olarak neden kaynaklandığı bilinmiyor. Bu yüzden tüm hamile kadınlar, erken doğum belirtilerini ve nasıl davranmaları gerektiğini bilmeliler.\n\n
+Erken doğum belirtileri\n\n Vajinal akıntının çoğalması.
+Vajinal akıntıda değişiklik (Aşırı sıvı, mukus veya kanlı -sadece pembe veya hafif kanlı görünse de- vajinal kanama).
+Ağrı, adet ağrısı gibi sancılar veya saatte dört kereden daha fazla kasılma (Sancılı olmasa da).
+Pelvik bölgesinde basınç (Bebeğinizin basınç uygulaması).
+Bel bölgesinde daha önce hissetmediğiniz ağrılar
+Bu semptomlar, özellikle pelvik bölgesindeki baskı veya bel ağrısı, zaman zaman yanıltıcı olabilir. Çünkü normal gebelikte de görülürler. Fakat erken müdahale, geç müdahaleden her zaman daha iyidir, bu yüzden bu semptomları yaşarsanız doktorunuzu aramayı ihmal etmeyin.\n\n
+Erken doğum ihtimali durumunda yapılacaklar\n\n Eğer erken doğum belirtileri yaşıyorsanız hemen doktorunuza bildirin. O sizi büyük ihtimalle hastaneye yönlendirecektir. Oraya vardığınızda, sağlık ekibi kasılmalarınızı, bebeğin kalp ritmini, rahminizi, vajinanızı ve idrarınızı enfeksiyonlara karşı test edecektir.\n\n
+Erken doğum ve zorlukları\n\n Bebeğiniz normal doğum tarihine ne kadar yakın doğarsa, o kadar iyidir.
+
+34. ile 37. hafta arasında doğan bebekler genelde sorun yaşamaz. Fakat geçici ve kalıcı sorunlar için daha fazla risk taşırlar. Diğer tarafta aşırı erken doğan bebekler, erken doğan bebekler için tasarlanmış yaşam destek cihazları ile hayatta kalabilirler. Yoğun tıbbi bakıma ihtiyaçları vardır ve ileride kalıcı sorunlar yaşayabilirler.
+
+Yapabileceğiniz en iyi şey, bebeğiniz için tehlike oluşturacak faktörlerden kaçınmak olacaktır. Sigara, alkol, uyuşturucu tüketiminden uzak durmak; sağlıklı beslenmek, doğum öncesi kontrollerinizi düzenli bir şekilde yaptırmak ve yaşadığınız tüm semptomları/problemleri doktorunuza bildirerek erken doğum riskini düşürebilirsiniz.\n\n 3 adımda Karpal Tünel Sendromu
+ Eğer bileklerinizde ve parmaklarınızda uyuşukluklar hissediyorsanız, bu Karpal Tünel Sendromu olabilir. Bu uyuşukluk hissi genelde sürekli tekrarlanan hareketlerin yarattığı bir sorun ile anlamlandırılır. Fakat Karpal Tünel Sendromu’nu sürekli tekrarlanan hareketler tetiklese de hamile kadınlarda daha farklı nedenlerden dolayı da yaşanıyor olabilir.
+Hamilelikte bileklerde ve bacaklarda çokça görülen şişlikler, bileklerinizdeki sinirlere baskı uygular. Bu durum bileklerde ve parmaklarda uyuşukluk, karıncalanma, acı hissetmenize neden olur.
+Uyurken kollarınızı bir yastık desteği ile yukarda tutarak bu ağrıları hafifletebilirsiniz.\n\n 4 adımda kaşınan kırmızı avuç içleri
+\n\n Kaşınan kırmızı avuç içleri ve zaman zaman ayak tabanları, hamileliğin rahatsız edici ve ancak doğumla ortadan kaybolan semptomlarından biridir.
+Normal ve zararsız bir semptom olmakla bilinmekle beraber yaygın bir komplikasyonu da işaret ediyor olabileceği için, rastlarsanız doktorunuza danışmanız önerilir.
+Ağızda metalik bir tat, artan tükürük salgılama, görüş algısında değişimler diğer garip görünen semptomlar gibi, bu semptomun da nedeni değişen hormonlarınızdır.
+Bu semptomlar ancak doğumdan sonra geçeceği için o zamanda kadar vücudunuzda kızarıklığa neden olabilecek aşırı sıcağa maruz kalmak, uzun süreli sıcak banyo yapmak, fazla dar eldiven ya da çorap giymek gibi hareketlerden kaçınmanız önerilir.\n\n İyot takviyesi zamanı
+\n\n İyot bebeğinizin bilişsel fonksiyonlarını destekler. Ayrıca sizin metabolizma ve hücreleriniz için önemlidir. Bu yüzden iyot, dengeli hamilelik diyetinizin vazgeçilmez bir parçasıdır.
+\n\n İyot içeren besinler\n\n Süt ve süt ürünleri
+Deniz ürünleri
+İyot takviyeli tuz
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

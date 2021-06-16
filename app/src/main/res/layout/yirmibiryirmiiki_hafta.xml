@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="21. Hafta Hamilelik \n\n Şuan bebeğinizin boyu yaklaşık 26 cm, ağırlığı 310 gr.
+İşitme yeteneği geliştiği için sizi konuşurken, şarkı söylerken ve gülerken duyabiliyor.
+Bebeğinizin organları artık, tükettiği sıvıdaki şekerleri az da olsa absorbe edebiliyor. Bu şeker bağırsaklarına ulaşıp dışkı olarak vücudundan çıkıyor. Böbrekleri artıkları artık daha verimli bir şekilde dönüştürebiliyor.
+\n\n Bedeninizde adım adım neler oluyor?\n\n Yüksek ihtimalle şuan gayet rahat hissediyorsunuz. Hamileliğin ilk aylarının rahatsız edici semptomlarından kurtuldunuz. Eğer iyi hissediyorsanız, rahatlayın ve keyfini çıkarın. Çünkü hamileliğinizin son üç ayı yeni zorluklarla gelebilir. Fakat ufak tefek sıkıntılar yaşıyor olabilirsiniz. Mesela cildinizin yağlanması, akne oluşumunu destekleyebilir. Eğer bu oluyorsa cildinizi doğal bir temizleyici ile günde iki defa temizleyin. Kullandığınız kremlerin yağsız olmasına dikkat edin. Ağızdan alınan akne ilaçları kullanmayın.
+Varisleriniz artık daha belirgin. Hatta ailenizde varis sorunu yaşayanlar olduysa muhtemelen bunun için daha yatkın olabilirsiniz. Ve bu durum yaşınız ilerledikçe, tüm hamileliklerinizde daha da belirgin olmaya devam edecek. Varislerinizi azaltmak için devamlı egzersiz yapın ve elinize geçen tüm fırsatları ayaklarınızı yukarı kaldırıp dinlenmek için değerlendirin. Bunun yanı sıra varis çorapları giymek ve sol tarafınızda uyumak da yararlı olacaktır.
+Bileklerinizde, bacaklarınızda ve yüzünüzde kırmızımsı ince, ağ görünümlü varis damarcıkları görebilirsiniz. Bu damarcıklar rahatsızlık vermemekle birlikte doğumdan sonra da kaybolurlar.
+\n\n Omega 3 takviyesi zamanı\n\n LCP olarak da bilinen bu yağların bebeğinizin gelişimi, özellikle beyin ve göz gelişimi için varoluşsal bir önemi var. Yakın zamanda yapılan araştırmalar, Omega 3’ün erken doğumu önlediğini ve bebeklerin daha kilolu doğduğunu gösteriyor.\n\n
+Omega 3’ün faydaları\n\n Göz gelişimini destekler.
+Bebeğinizin ilk aylarındaki hareket kabiliyetini geliştirir.
+Doğumdan sonra ki süreçte, sağlıklı anne sütünün önemli bir öğesidir.\n\n Sağlıklı Omega 3 alımı için besin önerileri
+\n\n Uskumru, somon ve diğer yağlı balıklar (Balık iyi bir Omega 3 kaynağı olsa da, sınırlı tüketilmesi tavsiye ediliyor.)
+Keten tohumu, siyah ve kırmızı fasulye
+Ceviz, fındık, fıstık
+Koyu yeşil sebzeler
+Tam tahıllı ürünler\n\n 3 Omega 3 içeren atıştırmalık önerisi\n\n Tam tahıllı tost ekmeği üzeri uskumru pate
+Buharda pişirilmiş sebzeler yanında ızgara somon
+Bir çanak tam tahıllı kahvaltılık gevrek
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+22. Hafta Hamilelik\n\n Şuan bebeğinizin boyu yaklaşık 27 cm ve ağırlığı 450 gr.
+Bebeğiniz sizi duyabiliyor, tanıyabiliyor ve sesinize tepki verebiliyor. Hatta sesinizi duymak onu rahatlatıyor ve sakinleştiriyor. Onunla sık sık konuşun ya da şarkı söyleyin. Böylece doğumdan sonra, sesinizi duyduğu anda sakinleşmesini sağlayabilirsiniz.
+Düzenli bir uyku ve uyanıklık döngüsü rutini var
+Nefes alıp vermeyi deniyor ama ciğerleri henüz tam anlamıyla çalışmıyor, bu yüzden doğumuna kadar ihtiyacı olan oksijeni plasentadan alacak.\n\n Bedeninizde adım adım neler oluyor?\n\n
+C Vitamini hala dengeli hamilelik diyetinizin önemli bir içeriği. Bebeğinizin kemikleri, dişleri, kasları ve cildi için gereken kolajen oluşumunda önemli rol taşıyor.
+Hamileliğiniz boyunca vücudunuzun her zaman fazladan sıvıya ihtiyacı olacak. Bu ihtiyaç vücudunuzun kan yoğunluğunu arttırmak, fetüsün kolay dolaşımını sağlamak ve amniyotik sıvının ideal değerlere sahip olmasını sağlamak için oluşuyor. Bu süreç boyunca günde en az iki litre su içmeniz gerekiyor. Eğer bu tüketim miktarı gece tuvalet ihtiyacınızı arttırıyorsa, sıvı tüketiminizi günün daha erken saatlerine kaydırabilirsiniz.
+Cildiniz hamilelik hormonlarından etkileniyor. Bu bazı kadınların cildinde tıkalı gözeneklere ve sivilcelere neden olur. Cildinizdeki sivilcelere sıkarak veya dokunarak müdahale ettiğinizde de daha çok artar. Doktorunuzun önereceği doğal cilt bakım ürünleriyle cildinizi düzenli olarak temizleyerek bu sorunu hafifletebilirsiniz.
+Vücudunuzun şekli değişiyor; haftalar geçtikçe cildiniz esniyor ve artık eskisinden daha hassas. Bu dönemde cildinizin kuruluğunu ve tahriş olmasını önlemek için düzenli olarak nemlendirici kremler kullanabilirsiniz.
+Güneş ışınlarından uzak durun veya dışarı çıkmadan önce mutlaka yüksek koruma sağlayan güneş kremleri kullanın. Seçtiğiniz sabun, parfüm ya da deterjanın tarzı ürünlerin doğal olmasına dikkat edin.
+Kıyafet seçerken keten ya da pamuk gibi doğal kumaşlar tercih edin.
+\n\n C Vitamini takviyesine devam\n\n C Vitamini tüketimi hamilelik süresince önemini korur. Hücreleri güçlendirerek sağlıklı kalmalarını sağlar.
+Hem sindirim hem de bağışıklık sisteminin ideal çalışmasını sağlar.
+Kolajen oluşumu için varoluşsaldır.
+Besindeki demirin emilmesini sağlar.\n\n C Vitamini tüketiminiz için besin önerileri\n\n Portakal, kivi, çilek, yaban mersini, limon veya misket limonu
+Taze meyve suyu
+Buharda pişmiş brokoli
+Çiğ ıspanak
+Domates
+Brüksel lahanası
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

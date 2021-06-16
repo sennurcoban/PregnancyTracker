@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="17.Hafta Hamilelik \n\n Saçları, kaşları ve kirpikleri uzuyor. Ağzını açıp kapatabiliyor. Kapalı olan gözlerini kıpırdatabiliyor. Bebeğiniz de sizinle birlikte kilo alıyor ama henüz vücudunda yeterli yağ yok çünkü yağı depolayan doku yeni oluşmaya başladı.
+Bebeğinizin içindeki tüm majör sistemler oluşmak üzere. 17. haftada, kalbi dakikada 140-150 defa atabiliyor. Solunum sistemi de gelişiyor; göğsü solunum hareketleri yapıyor.
+\n\n Bedeninizde adım adım neler oluyor?\n\n Dengesiz hissetmeye başlamış olabilirsiniz. Göbeğiniz büyüdükçe yer çekim merkezi değişiyor. Bu yüzden zaman zaman ayaklarınız üstünde dengesiz hissetmenize neden oluyor. Düşmenize neden olabilecek durumlardan kaçının. Düz topuklu ayakkabı giyin
+Travmalar sizin ve bebeğiniz için tehlikeli olabilir. Arabaya bindiğinizde, kemerinizi takmayı ihmal etmeyin. Kemerin alt kısmını göbeğinizin altında tutun ve belinizden omuzlarınıza uzanan kısmı göğüslerinizin arasına alın.
+Gözlerinizde hala kuruluk hissediyor olabilirsiniz. Doktorunuza danışarak alabileceğiniz göz damlaları işe yarayacaktır. Lensleriniz sizi rahatsız ediyor olabilir. Gözlük kullanmaya başlamak sizi rahatlatacaktır.
+Kilo almaya devam ediyorsunuz. Bu sizi önce endişelendirebilir. Ama iyi besinler almaya odaklanmalısınız.
+Cildinizde bazı değişiklikler olabilir. Vücudunuzu hazırlamak için özellikle göğüs ve karın bölgesinde cildiniz esneyecektir. Bu durum kaşıntı yaratabilir. Fakat özel kremlerin yardımı ile bu sorunun üstesinden gelebilirsiniz. Hatta hamilelik izlerinden bile korunabilirsiniz.
+Hamileliğin devamında yüzünüzde koyulaşan veya kahverengi olan noktalar ya da kırmızı noktalar belirebilir. Bu noktalar genişleyen damarcıklardan kaynaklanıp, genelde doğumdan sonra kaybolurlar.
+\n\n D Vitamini takviyesi zamanı\n\n D vitamini sağlıklı hamilelik diyeti için önemli bir maddedir. Kalsiyum ve fosfat değerlerinizi dengeler ve bebeğinizin kemik gelişimini destekler. Eksiklik durumunda bebeğinizin kemikleri yeterince güçlenemeyebilir. Hatta bazı durumlarda ciddi sorunlara da neden olabilir.
+D vitamini, bebeğinizin D vitamini rezervleri için de önemlidir çünkü ilk aylarında vücudu buna çok ihtiyaç duyar.
+D vitamini en verimli şekilde, cildin güneş ışınlarına maruz kalmasıyla alınır. Ama bunu yapamıyorsanız D vitamini tüketiminizi belirli besinlerle destekleyebilirsiniz.\n\n
+D vitamin içeren besinler\n\n Yağlı balık; uskumru, hamsi, somon vs. (Fakat balık tüketiminizi içerdiği toksinler yüzünden haftada 2 porsiyon ile sınırlandırmaya dikkat edin.)
+Yumurta  (Özellikle yumurta sarısı)
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 18.Hafta Hamilelik \n\n Bebeğiniz yaklaşık 14 cm ve hızla büyümeye devam ediyor. Artık günlük bir rutini ve uyuma alışkanlığı var. Eğer erkekse, cinsel organları ultrasonda rahatça tespit edilebilir. Eğer bir kızınız olacaksa, rahmi ve yumurta kanalı şekillenip yerlerini buldu.
+Eşsiz parmak izleri oluşmaya başlıyor ve tutuşu güçleniyor.
+Kulakları çalışmaya başladı ve dışarıdan gelen yüksek seslere tepki verebiliyor. Bu tepkiler tekme şeklinde olabilir. Fakat bu sizin ilk hamileliğiniz ise, bu yumuşak hisleri fark etmiyor olabilirsiniz.
+Küçük ciğerlerinde hava torbaları gelişiyor.
+Bu aşamada hıçkırıkla tanışmış olması mümkün ama siz henüz bunu hissedemiyorsunuz.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Yorgun, enerjisiz hissediyor olabilirsiniz. Bu yaygın belirti çoğunlukla hormon değişikliğinden ve daha yoğun çalışan kalbinizden kaynaklanıyor.
+Dolaşım sisteminiz büyük değişikliklerden geçiyor, bu dönem içerisinde tansiyonunuzun normalden daha düşük olması normal.
+Şu sıralar vücudunuza daha özenle davranın; oturduğunuzda veya yattığınızda yavaşça kalkın.
+Gün içerisinde sıkça ve hafif yemekler tüketerek kan şekerinizi dengelemeye çalışın.
+Gün içinde bolca sıvı tüketin.
+Yatakta yan yatın. Eğer sırtüstü yatarsanız, rahiminiz büyük bir damarı tıkayıp, kanın kalbinize geri gitmesine neden olabilir. Bir yastığı belinizin altına veya bacaklarınızın arasına yerleştirerek, konforlu bir pozisyonda uyumaya dikkat edin.\n\n
+Sağlıklı ve enerji verecek atıştırmalık önerileri\n\n Bir avuç dolusu kuru meyve
+Küçük bir kâse dolusu taze meyveli yoğurt
+Tam tahıllı ekmek üzeri sardalya
+Tam tahıllı peynirli kraker
+Meyve smoothie’leri
+Tam tahıllı salatalı tavuk dürüm
+Fıstık ezmeli tam tahıllı tost ekmeği
+Havuç ve humus\n\n 2 adımda Kegels egzersizleri\n\n Kegels nedir? \n\n
+Pelik tabanınızın kaslarını güçlendiren egzersizlere “Kegels” denir. Bu kaslar rahim, mesane, vajina ve rektumunuzu destekleyen kaslardır. Egzersizler, hamilelikte ve sonrasında idrar kaçırmanızı engeller, hatta doğum esnasındaki acıyı hafifletebilir. Rektal bölgenizdeki kan dolaşımını sağladığı için hemoroit oluşumunu önler ve doğumdan sonra dikiş atılması gerekiyorsa yaranın daha çabuk iyileşmesini sağlar.
+
+\n\n Kegels egzersizleri nasıl yapılır? \n\n
+Vajinal bölgenizdeki kaslarınızı idrarınızı tutar gibi iyice kasın.
+Sıkma ve kaldırma tekniği kullanarak pelik tabanınızı çalıştırın. Bu esnada bacaklarınız ve karnınızın gergin olmaması gerekiyor.
+Nefes almayı unutmayın. Bu duruşta 10 saniye boyunca kaldıktan sonra rahatlayın.
+Bu egzersizleri 10’luk setler halinde uygulayın ve günde 3-4 set yapmaya çalışın.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

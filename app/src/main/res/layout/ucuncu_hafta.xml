@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ucuncu" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Şu an karnınızda çok fazla şey oluyor. Bebeğiniz, çılgınca büyüyen bir hücre topu. Bu hücre topuna Blastosist deniyor.
+Blastosist rahime yerleştikten sonra, plasentayı oluşturacak kısmı hCG adlı gebelik hormonunu üretmeye baslar. Bu hormon yumurtalıklarınıza yumurta üretimini durdurma talimatini verir. Aynı zamanda da yoğun östrojen ve progesteron üretimini tetikler.
+HCG hormonu, gebelik testinin “pozitif” çıkmasının nedenidir. Bu haftanın sonunda bir gebelik testi yapıldığında sonuç pozitif olacaktır. (Test negatif ise ve adet görülmediyse birkaç gün sonra tekrar deneyebilirsiniz.)
+Bu arada, amniyotik keseyi oluşturacak oyukta, amniyotik sıvı blastosistin çevresinde birikmeye başlıyor. Bu sıvı gelecek hafta ve aylarda bebeğinizi muhafaza edecek ve koruyacak.
+Şu anda küçük blastosistiniz, rahminizdeki küçük damarlara bağlı olan ve mikroskopik kanallardan oluşan, basit bir döngü sistemi aracı ile oksijen, besin alıyor ve atıkları atıyor. Önümüzdeki hafta bu görevi plasenta devralacak.
+\n\n Bedeninizde adım adım neler oluyor? \n\n İçinizde çok önemli bir karşılaşma gerçekleşti. Yumurtanızın güçlü zarı, tek bir sperm tarafından aşılarak döllendi.
+Döllenmeden birkaç gün sonra, yumurta rahime indi ve orada gelişmeye başladı. İçeride bir bebek hayata gelmek üzere.
+Siz büyük ihtimalle daha hamile olduğunuzu bilmiyorsunuz. Fakat belki bu haftanın sonuna doğru, hafif bir kanama yaşayabilirsiniz. Bu, ‘İmplantasyon kanaması’ olarak adlandırılır. Olmasının nedeni döllenmiş yumurtanın, kan dolaşımı yüksek olan rahim katmanından geçmesidir. Hafif bir kanamadır; yaşanmaya da bilir.
+\n\n 8 Adımda 3. Hafta Gebelik Belirtileri \n\n 1. Yumuşak ve şiş göğüsler: Birçok kadın bu hissiyati, adet dönemi öncesi belirtilerinden çok daha yoğun olarak hisseder ve tanımlar.
+
+2. Bitkinlik ve yorgunluk: Progesteron adlı hormonun çoğalması ve bebeğinizin oluşum süreci sizde sanki maraton koşmuşsunuz gibi bir hisse neden olabilir.
+
+3. Sıkça idrar boşaltma ihtiyacı: Hamile kaldıktan hemen sonra devreye girer.
+
+4. Koku algısında artış: Kokuların daha yoğun hissedilmesi sıkça görülen belirtilerdendir. Bu durum, bir anda yükselen östrojen seviyesinden kaynaklanır.
+
+5. Tiksinme hissi: Belirli gıdalara karşı üretilen tiksinme hissi; iştah artışından daha sık görülen bir belirtidir.
+
+6. Mide bulantısı, kusma ve sabah halsizliği: Çoğunlukla birkaç hafta sonra başlar. Fakat bazı anne adaylarında bu belirtiler daha erken de görülebilir.
+
+7. Yüksek vücut ısısı: Vücut sıcaklığınız 18 günü aşkın bir süredir hafif yüksekse, bu da büyük olasılıkla hamile olduğunuza dair bir işarettir.
+
+8. Hafif kanama: Adet zamanında kırmızı, pembe veya kahverengi renkte hafif kanama yaşayabilirsiniz. Bunun yanısıra şiddetli ağrınız da varsa hemen doktorunuzla iletişime geçmenizi öneririz.
+"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

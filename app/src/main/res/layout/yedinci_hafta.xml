@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/yedinci" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Bebeğiniz ortalama 12 mm uzunluğunda.
+Kafası, vücudundan daha hızlı gelişiyor. Çünkü aslında beyni hızla gelişiyor.
+Sindirim ve solunum aktiviteleri ortaya çıkmaya başlıyor. Ciğerinin olduğu yerde küçük solunum yolları oluşuyor.
+Bebeğinizin bu hafta oluşan böbrekleri kalıcı ve vücuttaki atığı yönetecek. Embriyonuz henüz bir aylık olmasına rağmen 3 takım böbrek değiştirdi.
+Bebeğiniz yaklaşık bir hafta sonra idrar üretmeye başlayacak. Bebeğiniz içinizde olgunlaştıkça, bu idrarın çoğu amniyotik sıvıya boşaltılacak. Sonra tekrar bebeğiniz tarafından tüketilip, aynı döngüyü tekrarlayacak.
+Fiziksel olarak kollar, bacaklar, parmaklar şekilleniyor ve artık bir bebek gibi görünüyor. Elleri ve ayakları küçücük paletlere benziyor.
+Bebeğinizin burun, ağız ve göz gelişimini gözlemleyebilirsiniz.
+Hareketleri hissetmenize daha birkaç hafta var ama kaslar ve lifler de oluşuyor.
+Bebeğinizin hamilelik sırasında ve sonraki 3 yılda aldığı besinler hücrelerinin programlanmasında rol oynayacak.
+\n\n Bedeninizde neler oluyor? \n\n Rahminiz geçen 5 haftaya göre iki kat daha büyük. Sabah bulantıları yüzünden yemek yemek keyifsiz bir hal almış olabilir.
+Yükselmiş olan kan hacminiz ve böbreklerinizde süzülen ekstra sıvı sebebiyle normalden daha çok tuvalet ihtiyacı hissediyor olabilirsiniz. Bunun bir diğer nedeni de rahminizin büyümesiyle oluşan basınç.
+İlk üç aylık dönemde mide bulantısı yaşayan kadınlar 14-18. haftaya geldiğinde rahatlar. Fakat aynı şey tuvalet ihtiyacı için söylenemez. Bu, hamilelik boyunca artarak sürecek bir ihtiyaç olacaktır.
+Bağışıklık sisteminiz bebeğinizi kabullenmeye ve ikinizi de korumaya adapte oluyor. Şimdi doğal savunma mekanizmanızı sağlıklı ve dengeli beslenme diyetleriyle ekstra özen gösterek destekleme zamanı.
+Yeterince taze olmayan gıdalardan uzak durmalısınız.
+Pastörize olmayan peynirler, çiğ deniz ürünü ve kırmızı et, şarküteri ürünleri ve önceden hazırlanmış salata gibi risk oluşturabilecek ürünlerden uzak durmaya çalışmalısınız.
+Kırmızı et, kümes hayvanları ve deniz ürünlerinin iyi pişmiş olmasına ve sıcak tüketilmesine özen göstermelisiniz. Bütün gıdaları dikkatlice yıkamalısınız.
+\n\n İyot takviyesi zamanı \n\n Bu aşamada iyot takviyesi bebeğin gelişimini destekler.
+İyot tiroid bezi hormonlarının üretilmesine yardımcı olur. Bu hormonlar metabolizmanın düzenlenmesini ve hücrelerin sağlıklı kalmasını sağlar.
+Yapılan araştırmalara göre anneleri hamilelikte iyot takviyesi almış bebeklerde, kavramsal gelişimin daha kuvvetli olduğu gözlemlenmiştir.
+İyot içeren besinleri keşfetmeniz, günlük iyot takviyesi hakkında doktorunuza danışmanız tavsiye edilir.
+Kullandığınız normal tuz yerine iyotlu tuz kullanmanız iyot takviyesi için mükemmel bir yol olacaktır.
+Balık ve deniz ürünleri, süt ve yoğurt gibi süt ürünleri iyot takviyesi için iyi kaynaklardır.
+NOT: Bu bilgiler bebek gelişimi ve anne sağlığı hakkında genel bilgi vermektedir. Sürecin her bebek için farklı geliştiğini unutmayınız.
+\n\n Adım adım Gebelik Diyabeti - Risk altında mısınız? \n\n Gebelik diyabeti sadece gebelik süresince ortaya çıkan, vücudunuzun glukoz kullanımını etkileyen ve yüksek kan şekerine sebep olan bir durumdur.
+Tedavi edilmeyen yüksek kan şekeri ileri yaşlarda obezite ve diyabet riski taşıyan, yüksek kilolu bebek doğumuna sebep olur.
+Vücut kitle indeksiniz 30 üzeri ise ve geçmişte kısırlık veya insülin direncinizin yüksek olmasını tecrübe ettiyseniz, veya asya kökenli iseniz bu tür diyabete meyilli olabilirsiniz.
+Bu durumda doktorunuza danışarak glukoz toleransı testi yaptırmanız, sizin ve bebeğinizin sağlığı açısından tavsiye edilir.
+Gebelik diyabeti teşhisi konulduğunda, semptomları sağlıklı beslenerek ve düzenli egzersizle, kontrol altına alabilirsiniz. Bazı kadınlarda ilaç tedavisi de gerekli olabilir."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

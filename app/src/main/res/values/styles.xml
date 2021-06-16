@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-    <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
+        <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
         <item name="android:fontFamily">@font/ubuntu</item>
     </style>
     <style name="CustomActivityAnimation" parent ="@android:style/Animation.Activity">

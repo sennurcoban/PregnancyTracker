@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="29.Hafta Hamilelik \n\n Şuan bebeğiniz yaklaşık 40 cm boyunda ve 1,1 kg ağırlığında. Bu haftadan sonra daha da hızlı büyümeye başlayacak.
+Beyni, solunumunu ve vücut ısısını kontrol etmek için yeterince gelişmiş vaziyette.
+Ciğerlerinin karışık yapısı nefes alıp vermesi için yeterince gelişti. Ama hala tek başına işlevini yerine getiremiyor.
+Fark etmiş olsanız gerek; karnınızdaki hareketliliği devam ediyor. Hareketlerinin belli bir ritmi ve düzeni bile oluştu. Mesela, siz yemek yedikten sonra veya dinlendiğinizde daha aktif olabiliyor. Fakat bu süreç içerisinde bebeğinizin hareketlerinin gözlemlediğiniz ritmin dışına çıktığını gözlemlerseniz doktorunuzu aramayı ihmal etmeyin.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Karnınız hızla büyüyor. Ağrıyan eklem yerleriniz, mide ekşimesi ve sıkça oluşan tuvalet ihtiyacınız, rahat uyumanızı etkileyebilir. Sol tarafınıza yatarak, kan dolaşımınızı, sindirim sisteminizi ayrıca ciğer ve böbreklerinizin fonksiyonlarını daha rahat yerine getirmesini sağlayabilirsiniz. Ya da birkaç yastık yardımı ile vücudunuzun pozisyonunu destekleyebilirsiniz. Mesela bacaklarınızın arasına bir yastık koymanız kalçanızı ve belinizi rahatlatmanızı sağlayacaktır.
+Sırtüstü uyumayı tercih ediyorsanız, sol tarafınızı bir yastık ile hafifçe kaldırın. Bunu yapmanız, vücudunuzun alt kısmından kalbinize kan akışını sağlayan Vena Kava adlı venanın basıncını hafifletecektir.
+Gecede birkaç kez tuvalet ihtiyacınız oluşabilir. Bu yüzden tavsiye edilen 2 lt sıvıyı günün daha erken saatlerinde tüketip, tuvalete yatmadan önce gidebilirsiniz.
+Mide ekşimesi ve kabızlık devam ediyor. Progesteron adlı hormon kaslarınızı rahatlatıyor ve bu yüzden sindiriminiz yavaşlıyor. Yavaş sindirim ve daralan karnınız, gaz ve mide ekşimesine neden oluyor. Özellikle de büyük öğünler tüketiyorsanız. Sık ve küçük öğünler şeklinde yerseniz biraz daha rahat edebilirsiniz.
+Hemoroit sıkıntısı yaşıyor olabilirsiniz. Öyle ise soğuk kompresler ve oturma banyoları yararlı olabilir. İlaç kullanmayı düşünüyorsanız önce doktorunuza danışmayı unutmayın.\n\n 30.Hafta Hamilelik \n\n Şuan bebeğiniz yaklaşık 40 cm boyunda ve 1,3 kg ağırlığında.
+Minik ayak tırnakları çıkmaya başlarken, beyni ve akciğerleri olgunlaşmaya devam ediyor.
+Şimdiye kadar bebeğinizin beyin yüzeyi pürüzsüzdü. Fakat şimdi karakteristik oluklar ve çukurlar oluşmaya başladı.
+Artık bebeğinizin vücut sıcaklığını beyni ve yeni yağ hücreleri düzenlemeye başlıyor. Bundan önce bebeğinizin vücudunu kaplayan Laguna denen yumuşak tüyler yok olmaya başladı.
+Bebeğinizin kemik ilikleri, alyuvar hücreleri üretimi görevini üstlendi. Bu bebeğiniz için önemli bir adım çünkü bu onun doğduktan sonra kendi gelişimini sağlayabileceği anlamına geliyor.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bu günlerde biraz yorgunluk hissediyor olabilirsiniz, özellikle uyku problemi yaşıyorsanız. Zaman zaman dengenizi kaybediyor bile olabilirsiniz. Karnınızda büyüyen bebeğinizle birlikte, artık biraz daha ağırlaştınız. Ayrıca hormon değişimleriniz sebebiyle, bağ dokularınız gevşedi ve dengenize destek olan eklemleriniz güçsüz kaldı.
+Ruh hali değişimleriniz devam ediyor. Rahatsızlık veren semptomlar ve hormonal değişimler duygusal iniş çıkışlara sebep oluyor.
+Doğumunuzun nasıl gerçekleşeceği ya da nasıl bir ebeveyn olacağınız konusunda endişelenmeye başlamış olabilirsiniz. Ama bu hislerle baş etmekte zorlanıyorsanız ya da gerginlik ve huzursuzluğunuz artıysa doktorunuza danışabilirsiniz.
+Hamileliğin bu son aşamasında idrar yolları sorunları yaşayabilirsiniz. Özellikle idrar yaparken yanma hissinin yaşandığı sistit görülebilir. İdrar yolları enfeksiyonu geçirdiğinizi düşünüyorsanız geciktirmeden doktorunuza danışın. Bolca su içmeniz ve ihtiyaç hissettikçe tuvalete gitmeniz enfeksiyonu atmak için önemlidir.\n\n Demir takviyesi zamanı
+Demir, hamilelik sırasındaki anahtar besinlerden biridir. Vücudunuzda dolaşan kan hücrelerine oksijen taşır, plasenta yoluyla bebeğinize iletir ve bebeğinizin gelişiminde önemli rol oynar. Bu sebeple hamilelik süresince et, yağlı balıklar ve yumurta gibi demir açısından zengin yiyecekler tüketmek önemlidir.
+Birçok hamile kadın yalnızca beslenme diyetiyle gerekli demir seviyesine ulaşır. Fakat demir seviyeniz düşük çıkarsa doktorunuz demir takviyesi yapmanız tavsiye edecektir.
+Bazı yiyeceklerin demir emilimini engelleyebileceğini unutmamak gerekir. Mesela C Vitamini demir emilimine yardımcı olurken kalsiyum, tam tersi bir etki gösterebilir. Tabi ki bu besinleri ihmal edeceğiniz anlamına gelmiyor. İhtiyacınız olan demiri iyi dengelenmiş bir diyetle alabilirsiniz.\n\n Demir takviyesi için besin önerileri
+\n\n Yağsız et ve sardalya gibi yağlı balıklar
+Brokoli, tere, karalahana gibi koyu yeşil sebzeler
+Kuruyemiş, özellikle kaju
+Bakliyat, nohut, fasulye ve mercimek
+Ekmek, demir ilaveli kahvaltılık gevrek gibi tam buğdaylı ürünler
+Kayısı, üzüm, erik gibi kuru meyveler
+Yumurta
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

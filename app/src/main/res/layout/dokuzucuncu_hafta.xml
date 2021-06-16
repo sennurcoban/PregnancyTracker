@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/dokuz" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="9 haftalık gebelik süresince bebeğiniz gelişmeye devam etti ve bu süreç hızlanarak da devam ediyor. 9. hafta hamilelik için önemli bir yer teşkil ediyor. Çünkü bebeğinizin organları gelişmeye devam ederken elleri de şekillenmeye başlıyor.
+\n\n Hamilelikte 9. Hafta Bebeğinizin Gelişim Süreci ve Yaşananlar \n\n Bebeğiniz şu an yaklaşık 2 cm uzunluğunda.
+Göz kapakları şekilleniyor ve kulakları gelişiyor.
+Damağındaki diş kökleri şekillenmeye devam ediyor.
+Bebeğinizin elleri artık 10 minik parmağa ayrıldı.
+Siz hala hareket hissetmeseniz de, bebeğiniz daha aktif olmaya başladı. Kollarını ve bacaklarını hareket ettirebiliyor, kafasını çeviriyor ve ağzını açıp kapatabiliyor.
+Ağzında ve dilindeki tat tomurcukları şekillenmeye başladı.
+Gözleri detaylı bir şekilde gelişirken, burnu da tanınır hale geldi.
+Bebeğinizin majör organları yani beyni, kalbi, ciğerleri ve böbrekleri gelişimlerini sürdürüyorlar.
+Cinsiyetini ultrasonda tespit etmek için hala çok erken, fakat küçük hareketleri görülebilir.
+Kasları ve kemikleri gelişmeye devam ediyor. Bu aşamada gelişen vücudunu vitamin D takviyesiyle desteklemek önemli.
+\n\n 9 Haftalık Hamilelikte Anne Adaylarının Değişimi \n\n Karnınız biraz şişmeye başladıysa da, henüz hamile görünmüyor olabilirsiniz. Fakat büyük ihtimalle hamile gibi hissediyorsunuz. Sadece sabah bulantıları değil duygusal olarak dengesiz hissetmeye de başlamış olabilirsiniz. Bu aşamada duygusal dengesizlik çok yaygındır. Çoğu kadın 6-10 haftaya kadar yoğun dengesizlik hissedip, 2. trimestrda dengesizlik durumunun hafiflediğini, doğuma yaklaşıldığında ise tekrar yoğunlaştığını söylüyor.
+Bebeğiniz içinizde gelişiyor, bu yüzden bedeninizin ağırlaştığını hissediyorsunuz, yorgun hissediyorsanız, nedeni bu.
+Dinlenmek için her imkanı değerlendirip, uyku saatlerinizi yükseltmelisiniz.
+Hamilelikte sürecinde hem kendi bedeniniz hem de bebeğiniz, tükettiğiniz besinlere karşı çok hassastır. Bu yüzden tükettiğiniz ve hazırladığınız besinlere özel itina göstermeyi ihmal etmeyin.
+\n\n 9. Hafta Gebelikte Kaçınılması Gereken Besinler \n\n İşlem görmüş et ürünleri – salam, sosis vs.
+Çiğ etler - tavuk, kırmızı et vs.
+Dondurulmuş et ürünleri
+Çiğ deniz ürünleri - yemeğe hazır paketli karides vs.
+Suşi - hazır suşi tüketmeyiniz, ev yapımı suşide çiğ et kullanmayınız ve hemen tüketiniz.
+Pastörize edilmemiş süt ürünleri - yumuşak/yarı yumuşak peynirler, beyaz peynir, küflü peynir
+Yumuşak dondurma veya kızartılmış dondurma
+Az pişirilmiş veya çiğ yumurta - mayonez (ev yapımı), çikolatalı mousse
+Hazır salata - meyve salatası veya salata barından salata
+Özel fasulye filizleri - alfafa filizleri, brokoli filizleri, soğan filizleri, ay çiçeği filizleri, soya filizleri, turp filizleri
+Soğumuş veya saklanmış barbekü ürünleri
+Pasta/kek için alınmış hazır krema ve sos
+Hazır yemekler ve tekrar ısıtılmış yemekler \n\n Hamileliğin 9. Haftası D Vitamini Takviyesi Zamanı \n\n D Vitamini sağlıklı bir hamilelik diyeti için çok önemlidir.
+Bebeğinizin gelişimi ve kemikleri için varoluşsal önem taşır.
+Kalsiyum ve fosfat değerlerini dengeler.
+Bebeğinizin D Vitamini eksikligini önler. Bu özellikle bebeğinizin ilk ayları için büyük önem ifade eder.
+D Vitamin takviyesi için en iyi yöntem, doğrudan güneş UVB ışınlarına maruz kalmaktır.
+Altta belirtilmiş olan gıdalarda D Vitamini mevcuttur, fakat yeterli tüketiminizi doktorunuza danışarak vitamin takviyeleriyle sağlayabilirsiniz.
+\n\n D Vitamini oranınızı arttıracak 2 besin \n\n Yağlı balık - somon vs (haftada 2 porsiyonu aşmayınız)
+Yumurta – özellikle sarısı"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

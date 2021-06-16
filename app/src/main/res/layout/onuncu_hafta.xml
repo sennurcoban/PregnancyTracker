@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/on" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Bu hafta bebeğinizin büyüklüğü 3 cm`e ulaştı. Bu aşamada bebeğinizin beyni diğer yerlerinden çok daha hızlı gelişiyor. Kafası diğer yerlerine nazaran daha büyük görünüyor.
+Bebeğiniz kollarını bükebiliyor, bu durum kaslarının gelişmesine katkı sağlıyor.
+Birbirinden yeni ayrılmış, küçük ayak parmaklarını oynatabiliyor.
+Eğer içinize bakabilseydiniz, omurgasını şeffaf derisinin altında görebilirdiniz.
+Bu dönemde bebeğiniz gün içerisinde daha aktif oluyor. Aktivitesi uyku ve uyanık hali olarak tanımlanabilir.
+Bebeğinizin gelişen çene kemiği ile birlikte minik diş tomurcukları da şekilleniyor.
+Vücudunda kemik ve kıkırdak dokusu, kafasında ufacık kulak kanalları gelişiyor.\n\n Bedeninizde neler oluyor?
+\n\n Rahminiz şu an bir greyfurt büyüklüğünde, yani hamilelikten önceki halinin iki katı kadar.
+Eğer ilk bebeğinize hamileyseniz karnınız henüz meydana çıkmamış olmalı.
+Çok yorgun hissediyor olmalısınız.
+Bir sonraki doğum öncesi kontrolünüzde, bebeğinizin hızlı kalp atışlarını Doppler stetoskop aracı ile dinleyebileceksiniz.
+Normal kıyafetleriniz üzerinize dar gelmeye başlamış olabilir; özellikle göğüsleriniz artık sütyeninize sığmıyor olabilir. Bu hafta belki gebelik kıyafeti giymeye başlayabilirsiniz.
+Karnınız hem şişkinlikten hem de hafif kilo aldığınız için gittikçe büyüyor.
+Beli lastikli rahat kıyafetler giymek günü daha rahat geçirmenizi sağlayacaktır.
+Spora karşı yatkınlığınıza bağlı olarak birçok aktivite yapabilirsiniz. Yüzmek ve yürüyüş tüm hamilelik süresince yapacağınız en ideal seçim olacaktır.
+Egzersiz dayanıklılığınız, kaslarınız ve gücünüz için yararlıdır. Bu üç özellik hamileyken aldığınız kiloları taşımanızda, fiziksel stres ve doğum sonrası kolayca kilo verebilmeniz icin yararlı olur. \n\n
+Demir takviyesi zamanı \n\n Beynin besini demir, sağlıklı gebelik diyetinin en önemli maddelerinden biri.
+Demir kanınızdaki oksijen taşıyıcısı olarak görev alır.
+Bebeğiniz demire bilişsel gelişimi için ihtiyaç duyar.
+Uygun bir demir takviyesi, kanınızdaki oksijen taşıyıcısıdır ve hemoglobin üretimine katkı sağlar.
+Sağlıklı kırmızı kan hücrelerine sahip olmak, anemi riskinizi azaltır. Bazen demir eksikliği olarak da adlandırılan anemi, sizi yorgun, bitkin ve halsiz hissettirir.
+Demir oranı yüksek olan gıdaları, C Vitamini kaynaklarıyla birleştirirseniz vücudunuzun ideal demir alımını sağlamış olursunuz. C Vitamin için meyveler ve taze sıkılmış meyve suları idealdir.
+Kanınızdaki demir değerleri, hamilelik süresinde düzenli olarak kontrol edilecektir. Fakat eğer bitkin veya yorgun hissediyorsanız, doktorunuza bildirmeniz yararlı olur. Belki bir süreliğine takviye almanız gerekecektir.
+\n\n Demir oranınızı arttıracak besinler \n\n Kırmızı et
+Balık - somon, sardalya
+Yumurta
+Kuru meyve
+Tam tahıllı ekmek
+Fasulye, mercimek, nohut
+Fındık, kaju, çekirdek
+Kuru erik, kayısı ve üzüm
+Yeşil yapraklı sebzeler - brokoli, ıspanak, kara lahana, su teresi
+C Vitamini vücudunuzun demir alımına yardımcı olur; yani demir içeren besinler tüketirken taze meyve yemeyi unutmayın.
+Demir takviyesi almanız tavsiye edilmiş olabilir, fakat doktorunuza danışmadan başlamamanız önerilir. "
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

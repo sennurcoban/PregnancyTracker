@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/bes" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Hamileliğin 5. haftası bebeğinizin hızla büyüdüğü sürecin başları. 2. aya girdiniz ve bebeğiniz henüz bir susam tanesi büyüklüğünde. Bebeğinizin gelişimi bu süreçte sonra oluşacak organlar ve dokulara hazırlanıyor.
+\n\n Bebeğiniz büyüyor \n \n Embriyonuz rahminizin derinlerinde inanılmaz bir hızla büyüyor. Bu noktada, bir susam tanesi boyutunda. Üç katmandan oluşuyor; ektoderm, mezoderm ve endoderm. Bu katmanlar sonraki zamanlarda dokulara ve organlara dönüşecek.
+Bebeğinizin beyni, omuriliği, sinirleri ve omurgası ektoderm adı verilen üst katmanda gelişmeye başladı. Bu katman ayrıca deri, saç, tırnak, süt, ter bezleri ve diş minesinin oluşumunu sağlar.
+Kalp ve dolaşım sistemi orta katman olan mezotermde şekillenir. Mezoterm ayrıca kas, kıkırdak, kemik ve deri altı dokuların şekillenmesini sağlar.
+Üçüncü katman olan endoderm; akciğerleri, bağırsakları, boşaltım sistemini, tiroidleri, böbrekleri ve pankreası oluşturur.
+Bebeğinize besin ve oksijen sağlayan ilkel plasenta ve göbek bağı göreve başladı.\n \n Bedeninizde neler oluyor? \n\n
+Hamileliğe bağlı bazı rahatsızlıklar yaşamaya başlamış olabilirsiniz. Hamileğin ilk haftalarında birçok kadında göğüslerin hassaslaşması, bitkinlik ve idrar sıklaşması görülmeye başlar. Bunların dışında, ilerleyen haftalarda mide bulantısı yaşayabilirsiniz.
+Miktarı tam olarak bilinmese de hamilelikte alkolden uzak durmak önemlidir. Alkol bebeğin gelişimine zarar verebilir.
+Bir egzersiz rutinine başlamak isteyebilirsiniz. Ekstra bir yük taşıyacağınız için egzersizler, vücudunuzu güçlendirmek ve dayanıklılığınızı arttırmak adına faydalı olacaktır.
+Birçok anne adayı egzersizin hamilelik ağrılarını hafiflettiğini ve stresi azalttığını söylüyor. Bunun yanı sıra egzersizler sizi doğum sancılarına hazırlamak konusunda da yardımcı olur.
+Hamilelik sırasında herhangi bir şekilde egzersiz yapmaya devam ettiyseniz, doğum yaptıktan sonra ayağa kalkmak daha kolay olur. Yapmaktan keyif alacağınız, güvenli ve orta derecede dinamik bir aktivite seçmenizi öneririz. Yürüyüş ve yüzme hamile kadınlar için iyi seçimlerdir.
+\n\n 11 adımda sağlıklı bir hamilelik için güvenlik önerileri \n\n Hamileliğin ilk ayları bebeğin gelişimi için kritik zamanlardır. Birkaç anahtar adım bebeğinizin ve sizin sağlığınızı korumak için yardımcı olacaktır.
+Doktor randevularınızı almaya erkenden başlayın ve randevularınıza sadık kalın. İyi bir hamilelik öncesi hizmet sizin ve bebeğiniz için önemlidir.
+İlk ziyaretinizde (genelde 8. hafta civarı olur) sorun oluşturabilecek belirli durumlar için görüntüleneceksiniz. Eğer hala yapılmadıysa doktorunuzu seçin ve randevunuzu alın. Şu an ki önceliğiniz bu olmalı.
+Hamilelik öncesi vitaminlerinizi doktorunuzun önerdiği doğrultuda alın. Hamilelik öncesi takviyelerin çoğu standart multivitaminlere göre daha fazla folik asit, demir, kalsiyum içerir ve hamile kadınlar bu besinlere ihtiyaç duyarlar.
+Hamile kalmaya çalışırken ve ilk üç aylık dönemde özellikle yeterli miktarda folik asit almak kritik öneme sahiptir. Bebekte oluşabilecek doğum hasarı riskini azaltır.
+Doktorunuzu kullandığınız ilaçlar hakkında bilgilendirin. Çoğu ilaç - reçetesiz olanlar bile- hamilelik süresince güvenli değildir.
+Kronik bir durumun tedavisi için ilaç kullanıyorsanız hemen durdurmayın fakat doktorunuzu arayın ve kullandığınız ilaçları listeleyerek neyin güvenli olduğunu belirleyin. Bitkiler de dahil olmak üzere takviye olarak aldığınız her şeyi doktorunuzla paylaşın.
+Sigarayı bırakın. Sigara içmek düşük, plasenta problemleri ve erken doğum dahil olmak üzere problem riskini yükseltir. Cenin gelişimini yavaşlatır, ölü doğum ve düşük riskini arttırır. Yapılan araştırmalara göre sigara kullanımı, yarık dudak ya da damaklı bebek doğumu riskini arttırmasıyla ilişkilendirmiştir. Bırakmak için hiçbir zaman geç değildir. Yakmadığınız her sigara bebeğinize daha sağlıklı olma şansı verecektir. Bu konuda yardım almak için doktorunuza başvurabilirsiniz.
+Alkol almayı bırakın. Düşük kilolu doğum ihtimalini ve çocuğunuzun öğrenme, konuşma, dikkat süresi, dil ve hiperaktivite problemleri yaşaması riskini arttırabilir.
+Evinizin ve iş yerinizin güvenli olduğundan emin olun. Bazı meslekler ya da hobiler size ve gelişen bebeğinize zararlı olabilir. Eğer rutin olarak kimyasallara, ağır metallere (Kurşun veya civa gibi), belli biyolojik ajanlara veya radyasyona maruz kalıyorsanız, bir an önce bu durumu değiştirmelisiniz.
+Bazı temizlik malzemeleri, böcek ilaçları, çözücüler ve eski borular yoluyla içme suyuna karışan kurşunun da zararlı olabileceğini unutmayın. Günlük hayatınızdaki rutini doktorunuzla konuşarak evinizde veya işyerinizdeki zararlı olabilecek maddeleri belirleyir; bunları uzaklaştırabilirsiniz.
+\n\n Adım adım ilk doktor kontrolü için öneriler \n\n Bir doktor seçin ve randevunuzu ayarlayın.
+Hazırlık için periodunuzun ilk gününü not alın (Böylece doğumun günü belirlenebilir.) ve aklınıza gelen bütün soruları listeleyin.
+Ailenin tıbbi geçmişlerini öğrenmek için iki taraf da akrabalarıyla konuşmalı. Doktorunuz ailelerde kronik bir hastalık ya da genetik bozukluk olup olmadığını bilmek isteyecektir.
+Zamanlama konusunda kafanız karışabilir. Çoğu doktorun da yaptığı gibi hamilelik hesaplamalarına son periodunuzun ilk günüyle başlanılır. Böylece hamilelik testi sonucu pozitif verdiği an (Döllenmeden yaklaşık 3 hafta sonra) 5 haftalık hamile olduğunuz varsayılır."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

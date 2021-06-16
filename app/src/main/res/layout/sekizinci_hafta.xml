@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/sekiz" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Bebeğiniz şu an Latincede 'genç olan' anlamına gelen fetus olarak adlandırılıyor.
+Başından aşağıya kadar 15mm olarak ölçülüyor.
+Bebeğinizin gözleri, ağzı ve burnu daha seçilebilir bir hale geldi. Göz kapakları oluşmaya başlıyor fakat hala yapışık durumda.
+Bebeğinizin süt dişlerinin uçları şekilleniyor. Yani kemik hücreleri şekillenmeye ve minik bağlantıları gelişmeye başladı. Şimdiye kadar perdeli görünen el ve ayak parmakları arasındaki perdeler inceliyor.
+Şu an bütün organları yerli yerinde ve eşsiz parmak izi şekillenmeye başlıyor.
+İnanılmaz bir şekilde küçük hareketlenmeler başladı, kasları faaliyete geçiyor fakat sizin hissedebileceğiniz kadar güçlenmesi birkaç hafta daha alacak.
+\n\n Bedeninizde neler oluyor? \n\n Anne adaylarının üçte ikisi ilk üç aylık dönemin bir noktasında hamilelik sebebiyle bulantı yaşarlar.
+Keşfetmiş olacağınız gibi sabah bulantısı günün her saatinde yaşanabilir.
+Annelerin çoğu 12- 14. haftalarda daha az mide bulantısı yaşar. Bu süreç bazı hamileliklerde biraz daha fazla sürebilir. Ayrıca hamilelik süresince semptomlar belirip yok olabilirler.
+Eğer sabah bulantısı sizi normal yemek yeme düzeninizden alıkoyuyorsa endişelenmeyin. Vücudunuz öncelikle bebeğiniz için besin sağlayacaktır. Küçük miktarlarda yemeyi başarabilirseniz bebeğiniz ihtiyacı olan besini alacaktır.
+Faydalı besinler tüketin. Mümkünse besinsel açıdan zengin, taze yiyecekler seçin. Yağsız et, baklagiller ve eğer tolere edebiliyorsanız süt ürünleri gibi proteinli besinler yemeyi seçin.
+\n\n 6 adımda sabah bulantılarını hafifletmek için yapılabilecekler \n\n İyi bir gece uykusu almaya çalışın ve gün içinde bolca dinlenin.
+Sabah yataktan kalkmadan önce biraz kuru kraker ya da bisküvi yiyin.
+Midenizi dolu tutmak için sık sık küçük porsiyonlar şeklinde yemek yiyin.
+Eğer yiyecekleri tolere edemiyorsanız sıvı almaya devam etmeniz önemlidir.
+Bileğinize hareket bulantısı bantlarından takın. Bu bantlar akupunktur noktalarına baskı yapacak şekilde tasarlanmıştır ve rahatlama sağlayabilir.
+\n\n Çinko takviyesi zamanı \n\n Çinko vücudu hücresel boyutta destekler. Hücre yapımında, bölünmesinde ve korunmasında olduğu gibi bağışıklık sisteminin güçlenmesinde de rol oynar. Aynı zamanda kavramsal gelişimde, üreme ve kemik sağlığı açısından da fayda sağlar.
+Çoğu hamilelik öncesi multivitamin yüksek miktarda çinko içerir fakat besin kaynaklarını tüketerek almak daha akıllıcadır.
+Yeterli miktarda çinko aldığınızdan emin olmak için sıralanan yiyecekleri tüketebilirsiniz: Çinko takviyeli mısır gevreği, kırmızı et, dana ve kuzu, kümes hayvanları; özellikle hindi, tam buğday ekmeği ve tahıllar, kuruyemiş, süt ürünleri ve yumurta.
+Çinko takviyesine başlamadan önce mutlaka doktorunuzuna danışın."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

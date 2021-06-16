@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Bazı bebekler geç doğabilir ancak bu durum yakından takip edilmesi gereken bir durumdur. Ultrason ve kalp atımı takipleri ile bebeğin ve annenin bu süreçte iyi olduğunun kontrol altında olması gerekir. Bazı durumlarda doğumun başlatılmasına karar verilebilir. Doktorunuz ile iletişim halinde kalın ve bebeğin hareketlerini takip edin. Geç doğan bebekler onları suya karşı koruyan kremsi tabaka azaldığından ciltleri özellikle avuç içleri ve ayak tabanları kırışık ve tırnakları oldukça uzamış olarak doğarlar"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

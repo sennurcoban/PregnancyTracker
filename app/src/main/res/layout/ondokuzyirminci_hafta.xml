@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="19. Hafta Hamilelik \n\n Bebeğiniz yaklaşık 15 cm boyunda. Geçen haftadan tam 1 cm daha uzun.
+Dilindeki tat tomurcukları tamamen gelişti ve içinde yaşadığı amniyotik sıvının tatlı tadı nedeniyle, tatlı tatları tercih ediyor.
+Hassas duyma yeteneği, yetişkinlerin algılayamadığı çok yüksek ve çok düşük frekansları algılamasını sağlıyor.
+Bebeğinizin damarları şeffaf cildinden görülebiliyor. Verniks denilen mum dokulu beyaz koruyucu zar tüm vücudunu kaplamak üzere gelişiyor.
+Sinirlerinin etrafını saran ve 'Myelin' adı verilen yağlı dokusu gelişiyor. Bu doku sinirleri izole edip, beyin ile kas arasındaki bağlantıyı kuran motor nöronlarını destekliyor. Ve bu durum, hareketlerinin daha koordine olmasını sağlıyor.
+Karnınız büyüdükçe bahaneniz “İki kişi için yiyorum” olabilir. Fakat üçüncü trimestıra ulaşmadan kalorilerinizi fazla arttırmanıza gerek yok. Kalorilerinizi doğru şekilde almanız; sağlıklı bir diyet ile kendinizin ve bebeğinizin tüm ihtiyaçlarını karşılamanız için yeterli.
+\n\n Bedeninizde adım adım neler oluyor?\n\n Muhtemelen büyük olduğunuzu düşünüyorsanız ama gelecek haftalarda daha da hızla büyüyeceksiniz.
+Özellikle pozisyonun değiştirdiğinizde ağrı hissediyor olabilirsiniz. Bu endişelenilecek bir durum değil. Ama ağrı dinlendiğinizde de devam ediyor veya şiddetleniyorsa mutlaka doktorunuzu arayın.
+Avuçlarınızda kırmızılık gözlemliyor olabilirsiniz. Bu, östrojen fazlalığından kaynaklanıyor ve endişelenmenize gerek yok. Cildinizde bazı bölgeler koyulaşabilir. Bunun nedeni de geçici pigment fazlalığı. Eğer bu kararmalar dudağınızda, yanaklarınızda ve alnınızda oluşuyorsa, onlara “Hamileliğin maskesi'' deniyor. Ayrıca meme uçlarınızda, gamze ve yara izlerinizde, kollarınızda ve vulvanızda kararmalar fark edebilirsiniz. Göbek deliğinizden pantolonunuza doğru inen koyu çizgi 'Kara Çizgi' olarak biliniyor. Bu koyu bölgeler doğumdan sonra geçecektir.
+Güneşten korunmayı ihmal etmeyin.\n\n 3 adımda bacak krampları\n\n Hamileliğin bu dönemlerinde, yattığınız zamanlarda bacak krampları yaşıyor olabilirsiniz. Bu kramplar bazı durumlarda, bazı minerallerin eksik olmasından kaynaklanır. Kalsiyum tüketiminizi arttırarak krampları hafifletebilirsiniz.
+Yemeklerinize ağız tadınıza göre tuz ekleyin ama fakat fazla tuz tüketiminden de kaçının. Bu yüksek kan basıncına neden olabilir.
+Kramplar ayrıca yeterince sıvı tüketilmediğinde ve fazla oturulduğunda da oluşabilir.
+Eğer kramplar şiddetlenirse doktorunuza danışın.\n\n Çinko takviyesi zamanı\n\n Çinko bir iz elementi olmasına rağmen, yaşam için önemli fonksiyonlar barındırır.
+
+Vücudunuzun yağı, proteini ve karbohidratları dönüştürmesinde, ona yardımcı olur ve bebeğinizin beslenmesini sağlar.
+
+\n\n Çinko içeren besinler\n\n
+Kuzu ve dana eti gibi kırmızı etler
+Kümes hayvanları özellikle hindi
+Tam tahıllı ekmek ve gevrekler
+Fındık, fıstık
+Süt, peynir ve yumurta
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+20. Hafta Hamilelik \n\n Şu an bebeğinizin boyu yaklaşık 16 cm, ağırlığı 300 gr civarı.
+Beyninin duyuları kontrol eden bölgesi hızla gelişiyor.
+Kalp atışları güçleniyor.
+Kız bebeklerin rahimi gelişiyor ve yumurtalıklarında ilkel yumurtalar oluşuyor. Erkek bebeklerde ise, testisler oluşmaya başlıyor. Eğer ultrason olmak üzereyseniz, doktorunuz bebeğinizin cinsiyetini belirleyebilir.
+Bebeğinizin sinir hücrelerindeki artış yavaşladı ama şu an daha karmaşık bağlantılar kuruluyor. Hatta bebeğinizin sinirleri ve kasları, artık esnemekten keyif almasını sağlayacak kadar gelişmiş durumda.
+\n\n Bedeninizde adım adım neler oluyor?\n\n Normal hamileliklerde ultrason 20. haftada yapılmak üzere planlanır. Amacı bebeğin gelişimini kontrol etmektir ve yaklaşık 60 dakika sürer.
+Ultrasonda doktorunuz bebeğinizin fiziksel gelişimine ve plasentanın pozisyonuna bakar. Bebeğinizin kalp atışlarını duyabilir, el ve ayaklarını ekranda görebilirsiniz. Ama neyin neresi olduğunu anlamak için doktorunuzdan yardım almanız gerekebilir.
+\n\n Demir takviyesi zamanı\n\n Bu dönemde vücudunuzdaki demir oranına dikkat etmelisiniz. Kanınız için önemli olan demiri, dengeli beslenerek alabilirsiniz. Anemi riskini azaltmak için düzenli olarak kontrol edilmeyi ihmal etmeyin.
+Kanınızdaki demir oranı tükettiğiniz diğer şeylerden etkileniyor olabilir. Kalsiyum, çayda ve kahvede bulunan fenolik içerik vücudun demir alımını engelleyebilir.
+C Vitamini ise destekler. Bu yüzden, demir oranı yüksek olan besinler tükettikten sonra, bir bardak meyve suyu veya meyve tüketmeniz yararlı olabilir.
+\n\n Demir oranı yüksek besinler \n\n
+Yağsız et, yağlı balık
+Koyu yeşil sebzeler (Brokoli, tere, ıspanak, karalahana)
+Çerez (Özellikle Kaju fıstığı)
+Bakliyatlar (Nohut, fasulye, mercimek vs.)
+Tam tahıllı ürünler
+Kuru meyve (Kayısı, erik, üzüm vs.)
+Yumurta"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

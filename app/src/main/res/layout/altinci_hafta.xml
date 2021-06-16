@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/alti" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Bu hafta bebeğinizin ağzı, kulağı, burnu şekillenmeye başladı.
+Rahminizin içine bakabilseydiniz, üzerinde küçük koyu noktaları olan bir kafa olduğunu görecektiniz. Onlar bebeğinizin göz ve burun delikleri. Kafanın yanındaki iki küçük oyuk ise kulakları.
+Kolları ve bacakları oluşmaya başladı.
+Kalbi dakikada 100-160 kere atıyor.
+Kanı vücudunda gezinmeye başladı.
+Bağırsakları gelişiyor ve daha sonra ciğerlerini oluşturacak olan tomurcuk belirmeye başladı.
+Hipofiz bezi ve beynin geri kalanı, kemikleri, kasları şekilleniyor,
+Şu an bebeğinizin büyüklüğü bir mercimek tanesi kadar. \n \n Bedeninizde neler oluyor? \n\n Kendinizi duygusal açıdan dengesiz buluyor olabilirsiniz; hormonlarınız çalışıyor. Bunun yanı sıra hayatınızda çok büyük değişimler olmak üzere. Duygusal yoğunluklar yaşamanız çok doğal.
+Bu aşamada hafif kanamalar görülebilir. Bu durum hamileliğin sorunlu olduğu anlamına gelmez. Fakat kanama düşük veya ektopik gebeliklerin ilk belirtisi de olabilir. Kanamanız varsa yine de doktorunuza bildirmeniz önerilir.
+\n\n İkiz olma ihtimali \n\n Hamile kalmak için tedavi gördüyseniz ya da iki taraftan birinin ailesinde ikiz varsa, ikizlere hamile kalma ihtimaliniz olabilir. \n \n İkizlere hamile kalma oranınız \n \n Her 31 doğumdan 1 tanesi ikizler doğumudur. Fakat tıbbi destek almadıysanız bu ihtimal 89’da 1’e düşer.
+Üçüz (ve üstü) doğurma ihtimali 565’te 1’dir.
+Tek yumurta ikizleri genelde tesadüfen oluşur; 250’de 1 oranında.
+Hamile kalmak için tıbbi destek alan kadınların %-20-% 25’i ikizlere (ve üstü) hamile kalabilir.
+İkiz bekleme ihtimaliniz başka faktörlere de bağlı olabilir. Bir kere ikiz doğurduysanız, tekrar ikizlere hamile olma ihtimaliniz ikiye katlanır.
+Siz ya da eşinizin akrabaları arasında ikizler varsa, şansınız daha yüksek olur.
+Yaşınız ne kadar ileri ise, ikizlere (ve üstü) doğal yollarla hamile kalma şansı artar.
+Ne kadar çok hamilelik geçirdiyseniz, şansınız o kadar artar.
+İkizlere hamile kalma ihtimali ince ve uzun bayanlarda daha sık, kısa boylu kadınlarda ise daha azdır. "
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

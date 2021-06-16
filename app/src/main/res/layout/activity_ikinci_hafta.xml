@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ikinciHafta">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ikincihafta" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Bebeğiniz büyümeye başlamadan önce ona sahneyi siz hazırlarsınız.
+Geçen hafta kanınızda dolaşan ostrojen ve progestin miktarındaki artış, potansiyel döllenmiş yumurtaya zemin hazırlamak için verimli, kan bakımından zengin bir duvarla kaplanmak üzere rahminizi harekete geçirdi.
+Aynı zamanda yumurtalıklarınızdaki folikul adı verilen sıvı dolu keselerde yumurtalar olgunlaşıyor.
+Bu haftanın başında (genelde 28 günlük döngünün 14. günü civarında) yumurtladınız. Yumurtalarınızdan biri folikülünden çıktı ve yumurtalığınızda ilerleyerek fallop tüpüne ulaştı.
+Gelecek 12 – 24 saat süresince, partneriniz tarafından dışarı atılan 250 milyon spermden biri vajinaniz boyunca yüzerek serviksten geçip rahminize girecek ve fallop tüpüne ulaşıp yumurtaya girmeyi deneyecek. Başarabilirse bu yumurta döllenecek. Bu yolculuk sırasında yaklaşık 400 sperm hayatta kalacak ve yalnızca bir tanesi yumurtanın zarını delmeyi başarabilecek.
+Bundan sonraki 30 saat boyunca, sperm ile yumurtanın hücre çekirdekleri genetik malzemeyi karıştırmak için birleşecek. Eğer sperm bir Y kromozomu taşıyor ise, bebeğiniz erkek olacak; eğer X kromozomunu taşıyor ise, bir kız çocuğunuz olacak.
+Yumurta kanalından rahime olan 3-4 günlük yolculuğunda, döllenmiş yumurta -yani zigot- 16 özdeş hücreye bölünecek. Rahime vardıktan sonra Zigot'a Morula denir. 1-2 gün sonra rahiminizde oluşan katmana yerleşerek, inanılmaz gelişimini ve dönüşümünü devam ettirecek.
+Bu aşamada gelişmekte olan bebeğiniz, bilimsel olarak blastosist olarak tanımlanan küçük bir hücre topundan ibaret.
+Blastosist, embriyoyu oluşturacak bir iç hücre kitlesi ve plasentayı oluşturacak bir dış hücre kitlesine sahip iç hücre kitlesi amniotik keseyi oluşturacak sıvıyla dolu bir oyuk.
+Dış hücre kitlesi yaşamsal faaliyeti sağlayan oksijen ve besinleri bebeğinize ulaştıran, atıkları bebeğinizden uzak tutacak organ olan plasenta.
+\n\n Bedeninizde adım adım neler oluyor? \n\n Son periyodunuz 12 ile 16 gün önce başlamıştı. Yani büyük ihtimalle şu an yumurtluyorsunuz veya yakın zamanda yumurtlayacaksınız.
+Hamilelik aslında 38 hafta sürse de, yumurta ve spermin birleştiği an tam olarak söylenemediği için, doktorlar doğumu son periyodunuzun başlangıcından 40 hafta sonrası olarak hesaplıyor. Bu yüzden döllenme oluştuğunda 2 haftalık hamile sayılabiliyorsunuz.
+Hamile kalabilmeniz için zamanlama gerçekten çok önemli. Şansınızın yüksek olması için yumurtlamadan önceki 72 saat ile yumurtladıktan sonraki 24 saat arasında cinsel ilişkiye girmelisiniz. Böylelikle spermin 72 saatlik ve yumurtanın 24 saatlik ömürlerini birbirlerine daha uyumlu hale getirmiş olursunuz. Bir aksaklık yaşamamak için partneriniz de ajandasını bu zaman aralığında vakit geçirebilmeniz için boşaltmalı.
+Sizin ve partnerinizin gerginliğini ortadan kaldırabilmek için, hamile kalmanın ortalama ne kadar sürdüğü hakkında fikir edinebilirsiniz. Çoğu çift ancak birçok denemeden sonra hamileliğini ilan edebiliyorlar.
+Eğer hamile kalmaya çalışıp hala içki, sigara ya da ilaç tüketiminize son vermediyseniz şuan tam zamanı. Çünkü vücudunuz bebek için mümkün olabilecek en uygun halde olmalı.
+Bebeğinizin doğum hata riskini düşürmek doktorunuza danışarak folik asit ve vitamin takviyesine başlayabilirsiniz."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

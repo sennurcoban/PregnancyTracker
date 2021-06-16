@@ -10,8 +10,12 @@ import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.view.GravityCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
 
 public class PregnanDetailActivity extends AppCompatActivity {
+    DrawerLayout drawerLayout;
+
     private Integer day;
     private Button button;
 
@@ -24,7 +28,30 @@ public class PregnanDetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_pregnant_detail);
 
         Toast.makeText(this,day.toString(),Toast.LENGTH_SHORT).show();
+        drawerLayout = findViewById(R.id.drawer_layout);
     }
+    public void ClickMenu(View view){
+        openDrawer(drawerLayout);
+    }
+
+    private static void openDrawer(DrawerLayout drawerLayout) {
+        drawerLayout.openDrawer(GravityCompat.START);
+    }
+    public void ClickLogo(View view){
+        closeDrawer(drawerLayout);
+    }
+
+    private static void closeDrawer(DrawerLayout drawerLayout) {
+
+        if(drawerLayout.isDrawerOpen(GravityCompat.START)){
+
+            drawerLayout.closeDrawer(GravityCompat.START);
+        }
+    }
+    public void ClickFirst(View view){
+        recreate();
+    }
+
     public void buttonactivity(View view){
         Intent intent = new Intent(this,PregnanDetailActivity.class);
         startActivity(intent);

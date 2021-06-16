@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/onbir" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="11 haftalık gebelikte bebeğiniz giderek büyümeye devam ediyor. Aynı zamanda da bebeğinizin boyu şu anda 4 cm iken bu süreç önümüzdeki bir hafta da daha da hızlanacak ve bebeğinizin boyu 2 katına çıkacak.\n\n
+İşte Gebelikte 11. Hafta ve Yaşananlar \n\n 11 haftalık bebek boyu şu an 4 cm. Fakat gelişimi hızlanıyor; bir hafta sonra boyu şimdikinin 2 katı uzunluğunda olacak.
+11 haftalık bebek gelişimi sürecinde bebeğinizin beyni, ciğerleri ve böbrekleri formlarını aldılar ve çalışmaya başladılar. Fakat doğuma kadar gelişmeye devam edecekler. Bebeğiniz şuan emebiliyor, esneyebiliyor, yutabiliyor.
+İçinde yüzdüğü amniyotik sıvıda soluyabiliyor ve idrarını yapabiliyor.
+Parmakları birbirinden ayrıldığı için yakında ellerini açıp kapayabilecek, ayaklarını ve göbek bağını tutabilecek.
+Tekme atmayı öğrendi ve seviyor.\n\n 11. Hafta Gebelik Sürecinde Bedeninizde Adım Adım Neler Oluyor?\n\n Hamileliğin 11. haftası süresince mide bulantınız yavaş yavaş azalıyor. Kendinizi daha enerjik hissetmeye başlayacaksınız.
+Hormonel değişkenliğiniz nedeniyle kabızlık ve mide ekşimesi çekiyor olabilirsiniz.
+Mide bulantınız besin çeşitliliğinizi kısıtladığı için kilonuzda bir değişiklik olmamış olabilir. Ama endişelenecek bir şey yok. Genelde kadınlar ilk 3 ayda sadece 1-2,5 kilo alır. İştahınız yakında geri gelecek ve haftada yarım kilo almaya başlayacaksınız.
+Bu günlerde daha aç hissedebilirsiniz; bu iyi. Sabah bulantılarınız geçiyor ve iştahınız kabarmaya başladı. Artık hem kendiniz hem de bebeğiniz için besleniyorsunuz ama bu noktada asıl önemli olan doğru ve sağlıklı beslenmeniz.
+Göbeğiniz hafifçe beliriyor, hatta belki pantolonunuzu kapatırken zorluk çekiyorsunuz. Bu durumun sorumlusu, progestin adlı gebelik hormonu. Progestin hamileliğin sağlıklı bir şekilde ilerlemesi açısından önemli olmasına rağmen şişkinlik, gaz ve geğirmeye neden olur. Bunun nedeni progestinin yumuşak kasları rahatlatması, sindirimi yavaşlatarak besinlerin bebeğinize daha verimli bir şekilde ulaşmasını sağlamasıdır. Bu hissettiğiniz şişkinlik, özellikle yemekten sonra artabilir. Çünkü büyümeye devam eden karnınız, organlarınıza daha fazla baskı uygulayarak sizi daha şişkin hissettirecek. Yemeğinizi yavaş yemeniz, fasulye, kızartılmış besinler, gazlı içecekler ve şekerler gibi gaz üreten besinlerden uzak durmanız size rahatlatacaktır.
+\n\n 11 Haftalık Gebelikte Kalsiyum Takviyesi Zamanı \n\n Şuanda bebeğiniz hızlı bir gelişim sürecinde. Kalsiyum, onun uzayan, gelişen ve güçlenen kemikleri için sizin ise dişleriniz ve kemikleriniz için çok önemli.
+
+Bebeğinizin sinirleri ve kaslarının gelişiminde rol oynar; sağlıklı çalışabilmesini sağlar. Kalp atışlarını düzenler ve kanının pıhtılaşmasını sağlar.
+
+\n\n Kalsiyum ihtiyacınızı karşılayacak besinler
+Süt ürünleri, pastörize süt, peynir, yoğurt
+Bazı çerez ve tohumlar; özellikle badem ve susam
+Fasulye ve bakliyat
+İncir
+Ispanak \n\n
+Hamilelikte alınmaması gereken besinler \n\n Bu dönemde deniz ürünleri tüketmenizin yararları olmakla beraber bazı balık çeşitlerini yemeniz sakıncalıdır. Balık iyi bir protein ve Omega 3 kaynağıdır. Bebeğinizin göz ve beyin gelişimi için yararlıdır. Bu durumda önemli olan, kirletici maddeleri en düşük balık çeşitlerini seçip, ölçülü tüketmeye çalışmaktır. Bu balıklar arasında köpek balığı; kılıç balığı, uskumru, kiremit balığı çeşitlerinin; çiğ ve az pişmiş (Füme ve salamura da dâhil) balıkların tüketilmemesi önerilir.
+Pastörize edilmemiş yumuşak peynirler, çiğ veya az pişmiş etler, şarküteri etleri ve çiğ yumurta içeren ürünler tüketilmesi tavsiye edilmez.
+Alkol kan dolaşımınız yoluyla kolayca bebeğinize ulaşabilir, hatta günde bir alkollü içecek bile bebeğinizin problem yaşama riskini arttırabilir. Bu nedenle alkol tüketmeniz kesinlikle önerilmez.
+Pastörize edilmemiş meyve suları; süt ve yumurta içeren içecekler tavsiye edilmez.
+Hamilelikte kafein tüketiminin tabu olduğunu duymuş olabilirsiniz ama ölçülü bir şekilde tüketmenizde sakınca yoktur. Doktorlar arasında tartışması senelerce devam eden bu sürecin sonunda, kafeinin plasentayı geçmesine rağmen günde 300 mg’dan az tüketildiğinde, bebek için zararsız olacağında karar kılındı. Bu miktar 2 ya da 3 fincan kahveye tekabül etmekle beraber kahvenin sertlik derecesine de bağlıdır. Bunun yanı sıra içinde kafein olan çikolata, çay, kola ve daha birçok meşrubatın da dikkatlice tüketilmesi önerilir.
+\n\n Hamilelikte besin zehirlenmesinden korunmak için 8 öneri \n\n Tükettiğiniz bütün et ürünlerini iyice pişirin.
+Bir besin termometresi yardımı ile etin iç sıcaklığını kontrol edin veya etin orta kısmını iyice pişirin.
+Kalan yemeklerinizi iki saatten fazla dışarıda bekletmeyin. Tekrar ısıttığınızda ise buhar verene kadar ısıtmaya dikkat edin.
+Şarküteri ürünleri (Pizza, sıcak sandviç vb.) ısıtmadan yemeyin.
+Pişmemiş et ürünlerini diğer gıdalardan ayrı muhafaza edin.
+Ellerinizi sıcak sabunlu su ile yıkayın.
+Yıkanmamış gıdalar, çiğ et ürünleri, deniz ürünleri, yumurta ve şarküteri ürünleri ile temas etmiş yüzeyleri de bu şekilde temizleyin.
+Tüketime hazır aldığınız paket ya da konserve ürünleri, son kullanma tarihi geçmemiş olsa dahi bekletmeden tüketin. "
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

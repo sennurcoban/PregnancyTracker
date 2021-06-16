@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="35 haftalık gebelik sürecinde vücudunuz doğuma hazır hale gelmeye başlıyor. Artık doğuma çok kısa bir süre var ve bebeğiniz de gelişim sürecini tamamlamak üzere.
+
+Bebeğinizin boyu şuan yaklaşık 45 cm. Neredeyse doğmaya hazır ve hızla büyüyor.
+Vücudunuz ise çoğalan talepleri yerine getirmeye çalışıyor. Şu sıralar kabız olmaya yatkın olduğunuzu hissedebilirsiniz. Öğünlerinize lif ekleyerek bu durumu dengeleyebilirsiniz.
+Fetal pozisyonda yaptığı dönme, kıvrılma gibi hareketleri karnınızın yüzeyinde görebilirsiniz.
+Ciğerleri ve sinir sistemi son hazırlıklarını tamamlıyor.\n\n Bedeninizde adım adım neler oluyor?\n\n Çok yorgun ve ağır hissediyorsunuz. Ve bu şaşırtıcı değil. Bir zamanlar pelik bölgenizde saklı olan rahiminiz, artık kaburgalarınıza dayanıyor.
+Hamileliğinizin ilk zamanlarında yaşadığınız dengesiz ruh hali geri geliyor.
+Memelerinizden kolostrum olarak tanımlanan sıvı akmaya başlıyor. Bu sıvı, bebeğiniz doğduğunda vücudunuzun ürettiği ilk süt ve çok fazla besin içeriyor. Sutyeninizin içerisine akan sıvıyı tutan, emziren anneler için tasarlanmış özel pedlerden yerleştirebilirsiniz.
+Sık sık çok canlı rüyalar görmeye başlamış olabilirsiniz. Hamilelikte görülen rüyalar, normalden daha tuhaf olabiliyor. Bu etkileyici rüyalar, hamilelikte yaşadığınız değişken hislerin, duyguların ve düşüncelerin yansıması. Vücudunuz ve hayatınız ile ilgili değişiklikler, size korku veya heyecan yaşatabiliyor. Hayal dünyanızdan rüya günlüğü yazarak keyif almaya çalışabilirsiniz.
+Bazı rüyalar büyüleyici olmak yerine ürkütücü olabilir. Doğum veya bebeğiniz ile ilgili gerçekmiş gibi görünen kâbuslar görebilirsiniz. Eşiniz ya da doktorunuzla rüyalarınız hakkında konuşmanız yararlı olacaktır. Onlar da bu rüyaların normal olduğunu teyit edeceklerdir.
+\n\n Lif takviyesi zamanı\n\n Hamileliğin bu zamanları kabız olmaya yatkın olduğunuzu hissedebilirsiniz. Bu durumu öğünlerinize lif ekleyerek dengeleyebilirsiniz.
+İki çeşit lif vardır: Çözülen lifler ve çözülmeyen lifler. Çözülen lifler bağırsaklarda çözülür, diğer tür ise çözülmeden sindirim sisteminden geçer. Lif tüketiminizi yavaşça çoğaltmanız, sindirim sisteminiz için daha doğrudur.
+Bol miktarda sıvı tüketmeniz, yoga ve yürüyüş gibi hafif egzersizler yapmanız tavsiye edilir.
+Bazı demir takviyeleri de kabızlığa neden olabilir. Bu konuya doktorunuza danışabilir, alternatif takviyeler isteyebilirsiniz.
+\n\n Lif tüketimi için besin önerileri\n\n Patates püresi yerine fırında patates
+Portakal suyu içmek yerine, portakal yemek
+Sebze çorbası yerine fasulyeli sebze çorbası
+Körili tavuk ve pilav yerine mercimekli körili tavuk ve kepekli pilav.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 36.Hafta Hamilelik\n\n Bebeğiniz şuan yaklaşık 2,7 kg ve boyu 47 cm.
+Bebeğinizin yanaklarındaki yağ ve güçlü emme kası, yüzünü daha dolgun gösteriyor.
+Alanı dar olduğu için özgürce hareket edemiyor fakat bunu başardığında ellerinin ve ayaklarının izlerini karnınızda görebilirsiniz.
+Doğum pozisyonunu aldı; yani kafası aşağıda.
+Sindirim sistemi anne sütünü sindirmek için hazır.
+Parmak emme, soluma ve yutma gibi aktiviteleri, kaslarını ve organlarını ilk öğününü tüketip sindirmek için hazırladı.
+36. haftada, bebeğiniz nefes almaya hazır.\n\n Bedeninizde adım adım neler oluyor?\n\n Bebeğiniz karnınızda bu kadar yer kaplıyorken, normal pozisyonlarda oturmak, kalkmak, uyumak çok zor.
+Bu dönemde küçük ve sık öğünler tüketmeniz faydalı olabilir. Ama merak etmeyin; bebeğiniz pelik bölgeye yaklaştıkça rahatlayacaksınız. Bu duruma Engajman deniyor ve genelde doğumdan birkaç hafta önce gerçekleşiyor.
+Bebeğinizin pozisyon değişikliği ile birlikte, mesanenize daha fazla baskı uygulanıyor. Bu yüzden, daha sık tuvalet ihtiyacı hissediyor olabilirsiniz. Fakat bu yüzden sıvı tüketiminden kaçınmayınız. Fiziksel aktivitelerden sonar da daha fazla sıvı tüketmeyi ihmal etmeyin.
+Tüketmeniz gereken sıvı miktarının çoğunu günün erken saatlerinde tüketip, uyumadan önce daha az sıvı tüketebilirsiniz. Böylece uykunuzun sıkça bölünmemesini sağlayabilirsiniz.
+Braxton Hicks kasılmalarınız artmış olabilir. Doğumun işaretlerini doktorunuzla tekrar konuşmalı ve hangi belirtileri hissettiğinizde doktorunuzu aramanız gerektiğini öğrenmelisiniz. Normal şartlarda, hamilelik suyunuz gelmeden ve kasılmalar bir dakikayı geçmemişken doktorunuzu aramanız gerekmez. Fakat bebeğinizin hareketlerinde azalma, amniyotik sıvı akıntısı, görüşünüzde sorunlar, vajinal kanama, şiddetli ateş, baş ağrısı veya karın ağrısı hissettiğinizde doktorunuzu aramanız gerekecektir.
+Eğer sorunsuz bir hamilelik geçiriyorsanız son ayınızda uçuşlardan veya uzak yerlere seyahat etmekten kaçının.
+Doğumun işaretlerini doktorunuzla tekrar konuşmalı ve hangi belirtileri hissettiğinizde doktorunuzu aramanız gerektiğini öğrenmelisiniz. Normal şartlarda, hamilelik suyunuz gelmeden ve kasılmalar bir dakikayı geçmemişken doktorunuzu aramanız gerekmez. Fakat bebeğinizin hareketlerinde azalma, amniyotik sıvı akıntısı, görüşünüzde sorunlar, vajinal kanama, şiddetli ateş, baş ağrısı veya karın ağrısı hissettiğinizde doktorunuzu aramanız gerekecektir.
+Eğer sorunsuz bir hamilelik geçiriyorsanız son ayınızda uçuşlardan veya uzak yerlere seyahat etmekten kaçının.
+\n\n Hamilelikte çok sıvı tüketmenin önemi\n\n İnsan vücudunun yaklaşık %’60’ı sudan oluşur ve vücut günde yaklaşık 2 litre su kaybeder.
+
+Sağlıklı kan dolaşımını sağlayabilmek ve atıklardan arınmak için bu kaybedilen sıvının tekrar yerine konması gerekir. Bunun yanı sıra, yeterli sıvı tüketmeniz idrar yollarınızın sağlıklı çalışması ve idrar yolu enfeksiyonlarını önlemek için önemlidir.
+
+\n\n Dehidrasyonun belirtileri\n\n Eğer aşağıdaki semptomları hissediyorsanız, vücudunuz susuz kalmış demektir:
+
+Susuzluk hissi
+Koyu idrar
+Baş dönmesi
+Baş ağrısı
+Yorgunluk
+Kuru ağız, dudak ve göz
+Bu durumunuzu dengelemek için, tekrardan sıvı tüketmeniz gerekir. Meyve suyu gibi tatlı içecekler, kaybettiğiniz şekerin yerini doldurmanıza yardımcı olur. Ve tuzlu bir atıştırmalık, mesela tuzlu çerezler ise vücudunuzun kaybettiği tuzu dengeler.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 37.Hafta Hamilelik \n\n 37 haftalık gebelik sürecine girdiğiniz ve artık doğum çok yakın. Bebeğiniz doğum pozisyonuna hazır ve artık doğum zamanını bekliyor.
+
+Şuan bebeğiniz neredeyse 2,8 kilo ve boyu 48 cm.
+Doğum pozisyonunu aldı.
+Bebeğiniz karnınızın alt bölgesine indikçe, kaburgalarınıza uyguladığı baskı azalıyor; bu nedenle biraz daha rahat hissediyor olmalısınız.
+Sindirim sistemi çalışıyor ve artıkları dışarı veriyor. Bebeğinizin ilk dışkısında hamilelik boyunca biriken artıklar bulunacak. Bu yapışkan yeşil renkli dışkıya mekonyum deniyor.
+Bebeğinizin languo tüylerinin çoğu döküldü.
+Bağışıklık sistemi hala gelişiyor. Doğumdan sonra anne sütü yolu ile antikorlar alıp, bağışıklık sistemini daha da güçlendirecektir.\n\n
+Bedeninizde adım adım neler oluyor?\n\n 37. hafta hamilelik sürecinde artık daha rahatsınız. Sürekli sıcaklıyor ve yorgun hissediyor olabilirsiniz. Bu durum vücudunuzun fazla çalışmasından kaynaklanıyor. Çünkü vücudunuzda, bebeğinizi ve sizi beslemek için ne kadar kan dolaşıyorsa, sizin de o kadar kalori tüketmeniz gerekiyor. Ve bu fazladan kullanılan enerji vücut ısınızı arttırıyor.
+\n\n Ferahlamak için 4 yöntem\n\n Buzdolabınızda jel maskesi bulundurun ve dinlenirken gözlerinizin üzerine koyun.
+Ellerinizi ve bileklerinizi soğuk suya tutun.
+Ferahlatıcı soğuk su spreyi veya küçük bir vantilatör bulundurun.
+Devamlı sıvı tüketin.
+Kendinizi çılgınca temizlik yaparken buluyorsanız, yuva yapma güdünüzün meydana çıktığından emin olabilirsiniz. Bu sizi doğuma hazırlayan bir güdüdür. Her kadın bunu hissetmek zorunda değildir ve siz ağır mobilyaları yerlerinden oynatmadığınız sürece zararsızdır. Kesinlikle ağır şeyler kaldırmamalısınız, çünkü bağlarınız hamilelik nedeniyle yumuşak. Bu yüzden bacaklarınızı burkma veya belinizi incitme riskiniz çok yüksek. Gerektiğinde yardım istemelisiniz.
+Eğer temizlik yapmak istiyorsanız, çamaşır suyu gibi sert kimyasallar kullanmayın.
+Kedi besliyorsanız, zehirlenme riskinden kaçınmak için, tuvaletini siz temizlemeyin.
+Braxton Hicks kasılmaları artık daha sık ve güçlü.
+Vajinal akıntınız da çoğalmış olabilir. Eğer iç çamaşırınızda veya tuvalette ufak miktarda kan görürseniz, doğumunun yaklaş en fazla birkaç gün ötede demektir. Şiddetli veya çok kanamanız varsa, hemen doktorunuzu arayın.
+Bu dönemde uyumak her zamankinden daha zor geliyor olabilir. Eğer mümkünse, gün içinde kendinizi yormayın. Bebeğinizin hareketlerini takip etmeye devam edin ve hareketlerinde bir azalma hissederseniz doktorunuzu arayın.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/oniki" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Bebeğiniz yaklaşık 6 cm uzunluğunda yani büyükçe bir erik kadar.
+Yüzü insan yüzüne benzemeye başlıyor. Gözleri yerlerini aldı, kulakları şekilleniyor. Saçları uzamaya, yumuşak el ve ayak tırnakları oluşmaya başladı.
+Ağzında, sonrasında süt dişleri olacak 20 küçük tohumcuk oluşuyor.
+Ses telleri doğduktan hemen sonra kullanılmak üzere tamamlandı.
+Bazı kemikleri sertleşmeye başlıyor. Henüz hissetmemiş olabilirsiniz ama uyanık olduğunda başparmağını emebiliyor, hareket ediyor ve tekme atabiliyor.
+Sindirim sistemi çalışıyor ve sindirim kasları esnemeye başlıyor. Buna doğduktan sonra, yediklerini bağırsaklarından itebilmek için ihtiyacı olacak.
+Vücut gelişimi tamamlanmak üzere. Artık organlarının olgunlaşacağı dönem başlayacak ve bu süreç tam 28 hafta sürecek.
+Kemik ilikleri akyuvarları üretmekle meşgul. Akyuvarlar onu doğduktan sonra enfeksiyonlara karşı koruyacak.
+Bu ay yapılacak tahlillerde, bebeğinizin kalp atışlarını duyabileceksiniz.\n\n Bedeninizde adım adım neler oluyor?\n\n Artık karnınız belirmeye başladı. Özellikle, bu ilk hamileliğiniz değilse gebelik kıyafetlerinizi giymeye başlamış olabilirsiniz.
+Mide ekşimesi yaşamaya devam ediyorsunuz. Yattığınızda mide asidi yemek borunuzu aşabilir; yanmaya neden olan sebep bu.\n\n Mide ekşimesi yaşamamak için \n\n
+Günlük sıvı tüketiminizi öğünlerle tüketmektense, öğün aralarında tüketin.
+Daha ufak ve kolay sindirilebilir porsiyonlar yiyin.
+Lokmalarınızı iyi çiğneyin.
+Acı gıdalar, ekşi meyve suları, kahve ve çikolata yemekten kaçının.
+Yatarken kafanızı ve göğsünüzü vücudunuzdan daha yüksekte konumlamaya özen gösterin.
+Vücudunuzun yediklerinizi sindirebilmesi için akşam yemeklerinizi erken tüketin.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+
+"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="15. Hafta Hamilelik \n\n Şu an bebeğiniz yaklaşık 10 cm boyunda.
+Kemikleri sertleşmeye devam ediyor. Bacakları kollarından daha uzun ve bütün eklemleri hareket edebiliyor.
+Kulakları durması gereken yerden biraz daha yukarıda ama son hallerini almak üzereler.
+Tat alma duyusu gelişiyor ve yüz kasları şekillendiği için bazı yüz ifadeleri yapabiliyor.
+Bebeğinizin derisi hala çok ince. Karnınızın içine bakabilecek olsanız, derisinin altından kaburgalarının ve damarlarının göründüğünü fark edersiniz. Şuan oldukça aktifler ve uyanık kaldıkları zamanı vücutlarını hareket ettirip kaslarını uzatarak pratik yapmak için kullanıyorlar. Hatta başparmaklarını emmeye başlamış bile olabilir.
+\n\n Bedeninizde adım adım neler oluyor?\n \n Bu noktada hamilelik hormonları vücudunuzda değişimler yaratmaya başlayacak, özellikle dişler ve dişetlerinde. Bakteri ve plak oluşumunda artış ve iltihaplanma yaşayabilirsiniz.
+Burnunuzun daha fazla aktığını, daha fazla salya salgılandığını ve daha fazla terlediğinizi gözlemleyeceksiniz. Bunun sebebi vücudunuzda sıvı miktarının artmasıdır. Burun kılcalları genişlediğinden kanamaların görülmesi yaygındır.
+Hamilelik boyunca bağışıklık sisteminiz zayıfladığından enfeksiyon ve soğuk alma gibi şikâyetleriniz olabilir. Birçok ilaç, hamilelik için güvenli olmadığından mutlaka doktorunuza danışarak kullanın.
+Zihinsel açıdan hafızanızın eskisi kadar keskin olmadığını hissedebilirsiniz. Dikkat süreniz de kısalmış olabilir.
+Bol bol sıvı alın. Şu an bol sıvı almanız her zamankinden çok daha önemli. Suya ilave olarak süt, meyve suyu ve çorba gibi sıvı gıdalar da tüketilmeli.
+Fiziksel aktivitelerden sonra ve sıcak havalarda daha fazla sıvı tüketmeye dikkat edin.\n\n Hamileyken sıvı alımının önemi\n\n
+İnsan vücudunun %60’ı sudan oluşur ve günde 2 litre civarı su kaybedilir. Bu sıvının geri alınması önemlidir çünkü:
+
+Vücudunuzun sıvı kaybını önler.
+Kanınızdaki besinlerin taşınmasını ve artıkların atılmasını sağlar.
+Hamilelik sırasında görülmesi yaygın olan idrar yolları enfeksiyonu riskini düşürür.
+Sağlıklı bağırsak fonksiyonu sağlar.\n\n Sıvı kaybının belirtileri\n\n Sürekli susuzluk hissi
+Koyu renkli ve sık olmayan idrar  (Günde 3-4 kereden az)
+Sersemlik ve ya baş dönmesi
+Baş ağrısı
+Yorgunluk
+Kuru ağız, dudak ve gözler
+Bu belirtilerden herhangi birini görüyorsanız hemen sıvı almalısınız.\n\n 2 adımda dişeti kanamaları ve diş bakımı \n\n Aynada dişlerinize iyice bakın. Kırmızı, hassas, şişmiş diş etlerinizi ve fırçalama sırasında kanama fark edeceksiniz. Diş etlerinizin bakteri plağına farklı reaksiyon göstermesine, bu sebeple diş eti iltihabına (Jinjivit) sebep olan yine, hamilelik hormonlarıdır. Bunlar tamamen zararsız ve acısızdır. Kendiliğinden geçer.
+Dişlerinize iyi bakmadığınız takdirde Jinjivit, çene kemikleri ve dokularının enfeksiyon kapmasına kadar ilerleyebilir. Anahtar nokta korumadır. İyi bir ağız hijyeni yani düzenli ağız bakımı; günde en az iki kere dişleri fırçalamak ve diş ipi kullanmak, diş eti çekilmesini, kanamayı ve hassasiyeti azaltacaktır.
+\n\n 16. Hafta Hamilelik \n\n Bebeğiniz gelecek haftalarda daha da hızla büyümeye başlayacak. Kilosu iki katına çıkacak ve boyu uzayacak. Ama şu anda bir avokado büyüklüğünde. 11.5 cm boyunda ve 100 gr ağırlığında.
+Artık çok aktif. Bütün kaslarını kullanıp, kollarını hareket ettirip ellerini birleştirebiliyor. Sinir sistemi geliştikçe hareket kabiliyeti de gelişecek.
+Bebeğinizin göz kapakları ve kirpikleri de gelişiyor; gözleri yavaş yavaş hareket edebiliyor. Yüz ifadeleri yapmaya başladı ama henüz bunu kontrol edemiyor.
+Bacakları neredeyse tamamen gelişti, kafası iyice dikleşti. Kulakları da son halini almaya çok yakın. Ayak tırnakları çıkmaya başladı.
+İç organlarında da gelişmeler var. Örneğin kalbi kan pompalıyor ve gelişimi devam ettikçe miktarı artacak.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Gözleriniz hamilelik hormonları yüzünden kuru ve kaşıntılı olabilir. Eğer lens kullanıyorsanız gözlük kullanmaya geçebilirsiniz. Bu sizi biraz daha rahatlatacaktır. Doktorunuzun önerdiği bir göz damlası da kullanabilirsiniz.
+Bu aşamada aşermeniz normal. Hamilelik sırasında pek çok kadın bunu yaşar. Aşermek belirli bir şekilde olabilir, mesela şeftalinin sadece belli bir olgunlukta olanlarını istiyor olabilirsiniz. Daha genel de olabilir, baharatlı acı yemekler istemek gibi. Sağlıklı şeylere aşerdiğiniz sürece endişe duymadan istediğiniz kadar yiyebilirsiniz. Ama besinlerinizi seçerken aşerdiğiniz yiyecek dışında da çeşitliliğin sağlandığından emin olun. Şu an besleyici gıdalar tüketmeniz bebeğin gelişimini ve gelecekteki sağlık durumunu etkileyecek.
+Bazı kadınlar aşermeyi pika denilen şekilde yaşar. Pika alçı, boya parçaları, kil, kömür, tebeşir ve çamaşır deterjanı gibi yenmeyen maddelere karşı duyulan iştahtır. Pikanın mineral eksikliğinden kaynaklandığı düşünülür fakat aşerilen madde her zaman mineral miktarını düzenleyecek madde olmayabilir. Eğer anormal şekilde böyle bir istek duyarsanız doktorunuza danışın.
+\n\n Eğer şekerli ve yüksek yağlı yiyeceklere aşeriyorsanız aşağıdaki sağlıklı alternatifleri deneyebilirsiniz
+\n\n Çikolata yerine kuru meyve
+Bisküvi yerine çörek
+Pasta yerine reçelli tam buğday ekmeği
+Cips yerine zeytin, bir avuç kuruyemiş ya da peynir ve kraker
+Krema bazlı tatlılar yerine meyve bazlı tatlılar\n\n Kilo alımınızı yavaşlatmak için 7 öneri
+\n\n Güne iyi besinli bir kahvaltıyla başlayın. Kahvaltınızda yeterli miktarda protein, karbonhidrat, lif ve biraz sağlıklı yağ içeren besinler yiyin.
+Sebzeler, tahıllar, yağsız et, az yağlı süt ürünleri tüketmeye dikkat edin.
+İşlem görmüş besinlerden, abur cuburdan ve çok şekerli tatlılardan uzak durun.
+Sağlıklı atıştırmalıklar bulundurun; az yağlı peynir ve yoğurt, küçük havuç, taze meyveler gibi... Yağlı besinlere alternatif, tadı güzel olan alternatifler seçin.
+Mesela dondurma yerine yağsız donmuş yoğurt ya da cips yerine patlamış mısır gibi…
+Meyve suyu yerine su için.
+Doktorunuzun onayı ile düzenli olarak egzersiz yapın. Eğer egzersiz rutini oturtamıyorsanız size eşlik edecek bir arkadaş bulun. Bu size gereken motivasyonu sağlayacaktır. Öğle saatinde 20 dakikalık bir yürüyüş bile bir fark yaratabilir.
+\n\n Sağlıklı kilo almak için 4 öneri\n\n Her gün biraz taze meyve ekleyerek bir dondurmalı içecek için. Böylece bolca kalori almış olacaksınız üstelik dondurmanın içerdiği kalsiyumdan da yararlanacaksınız.
+İyi yağlar barındıran besinler tüketin. Çerez (Fındık, fıstık) ve avokado gibi.
+Kuru meyve yiyin. Taze meyve kadar doyurucu olmadığı için daha fazla yemeniz gerekecektir. Böylece daha sağlıklı kalori tüketmiş olursunuz.
+Öğünleriniz arasında sıkça atıştırın. Kendinize sık sık, hem kendiniz hem de bebeğiniz için kilo almanız gerektiğini hatırlatın.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

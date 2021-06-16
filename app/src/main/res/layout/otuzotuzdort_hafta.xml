@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="30.Hafta Hamilelik \n\n Şuan bebeğinizin boyu yaklaşık 41 cm ve ağırlığı 1,45 kg. Hala kilo alıyor ama boyunun uzaması biraz yavaşladı.\n\n Hamileliğinizin bir önceki haftası hakkında bilgi sahibi olmak için 30. hafta hamilelik yazımızı okuyabilirsiniz.
+
+Rahminizdeki sıvı miktarı artıyor. Bebeğiniz doğana kadar bu amniyotik sıvıyı içine çekmeye ve yutmaya devam edecek. Ve idrar olarak vücudundan atacak.
+Bebeğinizin göz pigmentleri gelişiyor. Ama gözlerinin gerçek rengine ulaşması doğumdan sonra ki aylarda olacak.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bedeninizde adım adım neler oluyor?\n\n Bebeğiniz hızlı bir şekilde gelişiyor ve kilo almaya devam ediyor. Bu aşamada yorgun ve nefessiz hissetmeniz yaygın ve normal bir durum.
+Bunun yanı sıra nefessiz hissetmek bu aşamada sık yaşanıyor olsa da nefes darlığı bir anemi belirtisi olabilir. Anemi demir eksikliği nedeniyle olur. Daha çok hamilelik süresince yaşanır. Çünkü kanınızda alyuvarlarınızı seyreltecek çok daha fazla sıvı vardır. Anemi, diyetinize demir kaynağı besinler ve yan ürünler ekleyerek kolayca tedavi edilebilir. Bu konuda endişeliyseniz doktorunuzla konuşabilirsiniz.
+Göğüslerinizde Kolostrum yani ilk süt akıntısı fark etmiş olabilirsiniz. Öyleyse, kıyafetlerinizi korumak için sutyeninizin içine emzirme pedi sıkıştırmayı deneyin. Şuan ki sutyeniniz çok sıkıysa emzirme sutyeni alabilirsiniz. Normalde kullandığınız sutyen ölçüsünün bir büyük boyunda bir emzirme sutyeni alın.\n\n
+2 adımda Braxton Hicks\n\n Çoğu kadın hamileliğinin ikinci yarısında yaklaşık 30 saniye süren, düzensiz kasılmalar yaşar. Bu kasılmalara Braxton Hicks denir. Seyrek ve acısızlardır. Diğer yandan bu sık kasılmalar acısız olsa bile erken doğum belirtisi olabilir.
+Bir saat içinde dörtten fazla kasılmanız olursa veya başka erken doğum belirtileri (Vajinal akıntıda artış veya değişme: Sulu, mukusumsu, kanlı, pembe veya çok az kanlı), karın ağrısı veya adet ağrısına benzeyen kramplar, pelvik bölgede baskı artışı, sırtın alt tarafında daha önce hissetmediğiniz bir ağrı fark ederseniz hemen doktorunuzu arayın
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 31.Hafta Hamilelik\n\n Bebeğiniz adım adım büyüyor ve gelişmeye devam ediyoru. Hamileliğin 32. haftasında bebeğinizin durumu ile ilgili yaşananlar aşağıdaki gibidir;
+
+Bebeğiniz artık 42 cm boyunda ve 1,6 kg ağırlığında. Bu aşamada, 4 bebekten 3’ü doğum pozisyonunu almış oluyor.
+Bebeğinizin ciğerleri ve sindirim sistemi dışında tüm organları hazır.
+Uyanık olduğunda, yeni doğmuş bir bebeğin yaptığı birçok şeyi yapabiliyor. Ayaklarını tutup, parmaklarını emebiliyor.
+Kirpikleri, kaşları ve saçları artık görülür vaziyette. Birçok yüz ifadesi yapabiliyor.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Ara sıra, rahminizdeki kasların gerildiğini hissedebilirsiniz. Çoğu kadın doğum yaklaştıkça Braxton Hicks olarak bilinen bu hafif, sahte kasılmaları hisseder. Özellikle de ikinci çocuğuna hamile ise.
+Bu kasılmalar, az su tüketildiğinde daha sık görülür; bu yüzden bolca sıvı tüketmeyi ihmal etmeyin.
+Kan yoğunluğunuz hem kendinizin hem de bebeğinizin ihtiyaçlarını karşılamak için %40-% 50 oranında arttı. Rahminiz diyaframınıza baskı uyguladığı için mide yanması ve nefes darlığı yaşıyor olabilirsiniz.
+Siyatalji de bu sürede sıkça görülen şikâyetlerden biridir. Genelde bebeğinizin siyatik sinirinizi sıkıştıracak açıda konumlanmasından kaynaklanır. Bu yüzden, belinizde ve bacaklarınızda keskin bir ağrı hissedebilirsiniz. Yerde bağdaş kurarak oturmayı veya sandalye yerine jimnastik topu kullanmayı deneyebilirsiniz.
+Eğer otururken ağrı çekiyorsanız, belinizi bir yastık ile destekleyin.  Sol tarafınız üzerinde uyumak faydalı olabilir. Ağrılarınızı hafifletmek için, sırtınıza sıcak veya soğuk kompresler uygulayabilirsiniz. Sırt üstü uyurken belinizin altına bir yastık koymanız rahatlatıcı olabilir.
+Hamileliğin bu aşamasında, kesinlikle ağır yük kaldırmayın ve topuklu ayakkabı giymeyin. Eğer siyatalji ağrısı çoğalıyorsa, doktorunuza haber verin; o sizi bir fizik tedavi uzmanına yönlendirebilir.
+\n\n D Vitamini takviyesi zamanı\n\n Bebeğinizin kemik sağlığı için en önemli besinlerden biri olan D Vitaminini hamileliğinizin son üç ayında, yemeklerinize dâhil etmeniz önemlidir.
+D Vitamini kemik sağlığı için önemli olan fosfor ve kalsiyum değerlerini dengeler.
+Çok nadir görülse de annenin D Vitamini eksikliği, bebeğin kemiklerinin yumuşamasına ve kemik hastalıklarına neden olabilir. Bu süreçte tükettiğiniz D Vitamini, bebeğinizin ilk aylardaki ihtiyacını karşılamasına yardımcı olur.
+Aslında D Vitamini cildiniz güneş ışınları ile temas kurduğunda vücudunuzda üretilir. Eğer güneş ışınları ile kurduğunuz temas yeterli değilse, doktorunuza danışarak D Vitamini takviyesi alabilirsiniz.\n\n 32.Hafta Hamilelik \n\n Şuan bebeğiniz yaklaşık 1,85 kg ağırlığında ve 44 cm boyunda.
+Bebeğiniz duyabiliyor, hissedebilir ve hatta görebiliyor.
+Gözleri ışığı algılayabilir ve buna göre gözbebekleri büyüyüp küçülüyor.
+Bağışıklık sistemi güçleniyor.
+Bebeğinizin cildi biraz daha kalınlaştı ve buruşuk uzaylı görünüşünü hızlıca kaybediyor. İskelet yapısı ve kemikleri sertleşiyor.
+Kafatasındaki kemikler henüz birbirine kaynamadı. Bu durum kemiklerin hareket etmesini ve hafifçe üst üste gelmelerini sağlıyor. Bu bebeğinizin doğum kanalına daha kolay girmesini sağlayacak. (Doğum sırasında kafada oluşan baskı çok fazladır ve bu yüzden çoğu bebek koni görünümlü bir kafayla doğar.) Bu kemikler erken yetişkinliğe kadar tam anlamıyla kaynamaz bu yüzden bebeklik ve çocuklukta beyin büyüdükçe ve diğer dokular genişledikçe kemikler de büyürler.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bebeğiniz karnınızda büyüdükçe farklı hareket etmeye başlıyor olabilirsiniz. Mesela daha önce sallanarak yürürken şimdi paytak paytak yürüyor olabilirsiniz.
+Uyumak şöyle dursun oturmak için kolay bir pozisyon bulmakta bile zorlanıyor olabilirsiniz. Evde ya da dışarda sürekli bir şeylere çarpıyor olabilirsiniz. Bu gayet normal bir durum.
+Parmaklarınızda, bileklerinizde, ellerinizde ağrı ve uyuşukluk hissedebilirsiniz. Vücudunuzdaki tüm diğer dokular gibi bilekleriniz de su toplayabilir ve bu durum Karpal Tüneli’ndeki baskıyı arttırabilir. Bu kanaldaki sinirler sıkıştığında hissizlik; karıncalanma, sızlama, yanma veya keskin bir ağrı yaratabilir.
+Bileğinizi sabit tutmak için bileklik takmayı veya uyurken kolunuzu bir yastık yardımıyla havaya kaldırmayı deneyin. Eğer işiniz tekrarlı el hareketleri gerektiriyorsa (Mesela sürekli klavye kullanmak) sık sık ellerinizi esnemeyi unutmayın.
+Hormonsal değişikliklerle gelen gece yarısı tuvalete koşmalar, bacak krampları, mide ekşimesi ve basketbol topu büyüklüğünde karnınız tabii ki uyumanızı zorlaştıracaktır. 3. Dönem insomniyası kadınların yaklaşık dörtte üçünde görülür. Bu yaklaşan doğumunuz ve bebek gelmeden önce yapmanız gerekenler konusundaki endişelerinizden de kaynaklanabilir.
+Hamileliğin 33.haftasında vücudunuzun dinlenmeye ihtiyacı vardır. Bu yüzden endişelenmek ya da dakikaları saymak size yardımcı olmayacaktır. Hamilelik insomniyası aslında yaklaşan uykusuz geceler için harika bir alıştırmadır.
+Siz de bebeğiniz de büyüyorsunuz. Artık daha fazla enerjiye ihtiyacınız var. Tüketeceğiniz besinlerin miktarı değil kalitesi önemli. Bu dönemde D Vitamini, Demir, LCP, DHA tüketmeniz gereken en önemli besinler.
+Fiziksel ve hormonel değişiklikler yüzünden mide yanması ve hazımsızlık çekiyorsunuz. Fakat aslında mideniz küçüldü çünkü bebeğiniz daha fazla yer kaplıyor. Sık ve küçük öğünler günü daha rahat atlatmanızı sağlayacaktır. Yemeklerinizi yavaş ve çok çiğneyerek yemeye özen gösterin.\n\n Eğer ekşime, mide yanması ve hazımsızlık hissediyorsanız bunları yemekten vazgeçin
+Baharatlı ve yağlı yemekler
+Çikolata
+Turunçgiller
+Kahve
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 34.Hafta Hamilelik \n\n Doğuma sadece 6 hafta kaldı. Şuan bebeğinizin boyu yaklaşık 45 cm ve ağırlığı 2 kg’ın biraz altında. Bu fazladan aldığı ağırlığın bir kısmı, sertleşen kemiklerinden geliyor. Sadece kafasındaki kemikler sertleşmiyor; onlar doğumda maruz kalabileceği baskıya uyum sağlayabilmek için bir süre daha yumuşak kalacak.
+Cildi biraz kalınlaştı. Doğumdan sonra vücut ısısını kontrol edecek ve onu sıcak tutacak bir yağ tabakası oluştu. Verniks tabakası (Bebeğin cildini koruyan krem dokusundaki tabaka) kalınlaşıyor ve Lanugo saçları neredeyse tamamen kayboluyor.
+Bebeğinizi dış dünyaya hazırlamak için antikor üretmeye devam ediyorsunuz.
+Bu aşamada çoğu bebek doğum pozisyonunu almış oluyor.
+Eğer karnınızın içini görebilseydiniz, bebeğinizin tırnakları parmak uçlarını geçecek kadar uzun olduğunu görebilirdiniz.
+Eğer erkekse testisleri artık görülebilir.\n\n Bedeninizde adım adım neler oluyor?\n\n Doğum yaklaşıyor; artık doğum çantanızı hazırlamaya başlayabilirsiniz. Ama bebeklerin sadece %5’inin beklenen zamanda doğduğunu da hatırlatmak yararlı olabilir.
+Bebeğiniz doğduktan sonra tüm besinini anne sütünden alacaktır. Bu yüzden emzirme süreci için sağlıklı beslenme alışkanlıkları edinmeniz çok önemli. Hamilelikte olduğu gibi, vücudunuz ilk önce bebeğinizin ihtiyaçlarını karşılayacak. Bu yüzden, ikinizin ihtiyaçlarını da karşılayabilmek için sağlıklı ve dikkatli beslenmelisiniz.
+Emzirirken önemsemeniz gereken başka bir konuda, tükettiğiniz sıvıdır. Emziren annelerin 2,7 litre sıvı tüketmeleri tavsiye edilir. Çay, süt, meyve suyu, çorba da bu rakama dâhildir. Hamileliğinizin son haftalarında bol sıvı tüketmeniz, ayrıca önemlidir. Bu yüzden bu alışkanlığı edinmenizin tam zamanı olduğu söylenebilir.\n\n Son haftalar ve emzirmeye başlangıç dönemi için sağlıklı atıştırmalık önerileri
+\n\n  Domatesli sardalyalı tost
+Uskumru pate kraker ve salatalık
+Taze tuna et yanında patates ve taze fasulye
+Izgara somon salata
+Balık tüketimini haftada 2 porsiyon olarak kısıtlamayı unutmayın.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

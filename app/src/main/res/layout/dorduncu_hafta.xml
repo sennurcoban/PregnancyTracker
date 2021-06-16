@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/dort" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="Bu hafta embriyonik dönemin başlangıcını belirliyor. Bugünden itibaren 10. haftanıza kadar, bebeğinizin tüm organları gelişmeye hatta bazıları çalışmaya başlayacak.
+Embriyonuz bir haşhaş tohumu kadar ve gelişimini tehdit edebilecek şeylere karşı en hassas halinde.
+Plasentanız oluşma sürecinde; bu haftanın sonunda kanınızdaki besinleri bebeğinize aktarmaya başlayacak.
+Bu esnada, bebeğinizin içinde geliştiği amniyotik kese kırmızı kan hücreleri üretiyor. Bu şekilde plasenta devreye girene kadar bebeğinizi besleyecek.\n\n
+Bedeninizde neler oluyor? \n\n Bu hafta içinde hamile olup olmadığınızı öğrenebilirsiniz. Kesin sonuç elde etmek için, bu haftanın sonunu bekleyip bir gebelik testi yapabilirsiniz.
+Eğer testiniz pozitif çıkarsa, doktorunuzu arayıp ilk doğum öncesi randevunuzu alın.
+Birçok doktor ilk randevuyu 8. haftadan önce vermez. Fakat sağlık durumunuzda bir sorun yaşıyorsanız, daha önce sorunlu bir hamilelik geçirdiyseniz ya da kontrol gerektirecek şüpheli semptomlarınız varsa hemen doktorunuzu aramanız önerilir.
+İlaç kullanıyorsanız ya da başka kaygılarınız varsa bunları doktorunuzla paylaşın.
+Hamile kaldıktan sonra, vücudunuzun ihtiyacı olan folik asit oranı biraz artacaktır. Doktorunuza danıştıktan sonra almanız gereken günlük folik asit takviyesini içeren multivitamin kullanmaya başlayabilirsiniz.
+Gelecek 6 hafta bebeğinizin gelişimi için oldukça kritik ve önemli olacak. Gelişimini tam tamamlamamış olan plasenta ve göbek kordonu, görevlerini üstlenmeye başlayacak. Vücudunuza aldığınız herşey plasenta aracı ile bebeğinize ulaşacak; onun sağlığını ve gelişimini direkt olarak etkileyecek. Bu yüzden beslenmenize çok dikkat etmeniz gerekiyor.
+\n\n 6 adımda, gebelik testi uygularken dikkat edilmesi gerekenler \n\n Gebelik testinizin son kullanım tarihini kontrol edin. Testi nemli veya sıcak yerlerde sakladıysanız işlevini kaybetmiş olabilir. Bu durumda yenisini almalısınız.
+Testi uygulamak için hazır olduğunuzda kullanım talimatlarını dikkatlice okuyun. Daha sağlıklı ve kesin bir sonuç almak için sabahki ilk idrar boşaltımında uygulamanız önerilir.
+Eğer periyodunuz geciktiyse ama test sonucu yine de negatif çıkıyor ise, tekrarlamak için birkaç gün veya bir hafta bekleyin. Test sonucunuzun negatif çıkması kesin olarak gebe olmadığınızı göstermez.
+Test çubuğundaki çizgi belli belirsiz görünüyorsa ama sonuç pozitif ise, hamile kalmış olma ihtimaliniz oldukça yüksektir. Emin olmak için testi birkaç gün arayla tekrarlayabilirsiniz.
+Tekrarlanan test yine pozitif çıkıyorsa tebrikler, hamilesiniz.
+Eğer ikinci test tamamen negatif ise, erken düşük yapmış olabilirsiniz. Uzmanlar gebeliklerin %20 ile %30 oranında düşük ile sonlandığını tahmin ediyor."
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>

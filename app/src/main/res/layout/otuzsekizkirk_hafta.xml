@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image2View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/poppy_seeds" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/image2View"
+        android:text="Bebeğinizin boyutu"/>
+    <ImageView
+        android:id="@+id/image3View"
+        android:layout_width="122dp"
+        android:layout_height="180dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/anne" />
+
+    <TextView
+        android:id="@+id/IlkhaftaDetay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image2View"
+        android:paddingTop="80dp"
+        android:text="38.Hafta Hamilelik \n\n Artık hamileliğinizin sonuna yaklaştınız ve bebeğiniz hızla büyümeye devam ediyor. 38. hafta hamilelik sürecinde önemlidir. Çünkü bebeğiniz artık kendi toparlamaya ve dış dünyaya uyum sağlamaya uygun bir hale gelmek için hazır sayılır. Hamilelikte 38. hafta da yaşananlar hakkında yazımızın devamında anne ve baba adaylarına bilgi sunuyoruz.\n\n
+Hamileliğinizin bir önceki haftası hakkında bilgi sahibi olmak için 37. hafta hamilelik yazımızı okuyabilirsiniz.
+
+Bebeğiniz şuan yaklaşık 50 cm boyunda ve yaklaşık 2,9 kg ağırlığında. Son birkaç haftayı yatıp kilo almak için kullanıyor olacak.
+
+Vücudundaki tüylerin çoğunluğu döküldü ama bazı bebekler vücutlarında bölge lanugoyla doğar ve bunlar ilk birkaç gün ya da hafta içinde dökülür.
+
+Emmek ve yutmak için kasları geliştiğinden beri amniyotik sıvıyı içine çekiyor ve gereksiz maddeler ince bağırsaklarında toplanıyor.
+
+Bebeğinizin rengi koyu yeşille siyah arası olan ve Mekonyum denen ilk dışkısının içinde ölü deri ve lanugo tüyleri olacak.
+
+Akciğerleri olgunlaşmaya ve daha fazla sürfaktan (Bebeğiniz nefes almaya başladığında hava keselerinin birbirine yapışmasını engelleyecek) üretmeye devam ediyor.
+
+Bu evrede bebeğiniz sesinizi duyabilir. Bu yüzden hem siz hem de eşiniz, onunla sık sık konuşmayı ihmal etmeyin.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Çoğu kadın için sonraki birkaç hafta bekleme oyunudur. Bu zamanı bebeğinizin odası veya halledilmesi gereken ve bebeğinizin doğumundan sonra bir süre ilgilenemeyeceğiniz işler için kullanın.
+
+Özellikle geceleri rahatça uyumanın giderek zorlaştığını fark edebilirsiniz. Gün içinde sıklıkla dinlenin ve ayaklarınızı yükseğe koyun. Şekerleme yapın, okuyun ve yapabiliyorken eşinizle zaman geçirin.
+
+Bebeğinizin gelmesine az kaldı; artık doğum çantanızı hazırlayabilirsiniz. Kişisel ve pratik eşyalar dışında, doğumun herhangi bir anında enerji takviyesine ihtiyacınız olması ihtimaline karşı yanınıza besleyici atıştırmalıklar almak yardımcı olacaktır.
+
+Çok miktarda yemek istemeniz mümkün olmayacak ama besin değeri yüksek bir yiyecekten aldığınız bir iki ısırık devam etmenize yardımcı olabilir. Çantanıza farklı yiyecekler koyun; canınızın ne isteyeceğini veya neye tahammül edebileceğinizi zaman gelene kadar bilmeyeceksiniz.
+
+Susuz kalmamak için yanınıza içecek almayı da unutmayın. Bazı kadınlar spor içeceklerini kullanışlı bulur veya kolay içim için spor matarasında su veya meyve suyu alabilirsiniz.\n\n
+2 adımda Kolostrum\n\n Kolostrum hamileliğinin son 3 ayında göğüslerden akan sarımsı sıvıdır. Yeni doğan bebeğinizi korumak için bol miktarda antikor; daha sonra gelen anne sütüne göre daha fazla protein daha az yağ ve şeker barındırır.
+
+Eğer akıntınız varsa kıyafetlerinizi korumak için sutyeninizin içine emzirme pedi koyabilirsiniz. Göğüste üretilse bile Kolostrum akıntısı bütün kadınların başına gelmez. Eğer olmazsa endişelenmenize gerek yok.\n\n Doktorunuzu aramanız gereken durumlar
+\n\n Son haftalarda ayaklarınızda ve ayak bileklerinizde bazı şişlikler olması normal. Ancak bu şişliklerden daha fazlasını yüzünüzde veya göz çevrenizde görürseniz veya aniden kilo aldıysanız,
+
+Şiddetli ve inatçı baş ağrıları,
+
+Görüşte çift veya bulanık görme gibi bozukluklar,
+
+Noktalar veya parlayan ışıklar görme, ışık hassasiyeti, geçici görme kaybı,
+
+Yoğun üst karın ağrısı veya hassaslık,
+
+Mide bulantısı ve kusma gibi sorunlarınız varsa bunlar Preeklampsi adı verilen ciddi bir durumun belirtileri olabilir; hemen doktorunuzu haberdar edin.\n\n
+Enerji takviyesi zamanı\n\n Sağlıklı, enerji veren yiyecekler almak doğum sırasında enerjinizi arttıracak, emzirme sırasında vücudunuza ve bebeğinize destek sağlayacaktır.\n\n Enerji takviyesi için besin önerileri
+\n\n Muz
+
+Kayısı, üzüm ve diğer kuru meyveler
+
+Tahıl barları
+
+Yulaflı kek
+
+Avuç dolusu fındık
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 39.Hafta Hamilelik \n\n Bebeğiniz şuan 51 cm boyunda ve 3,4 kg ağırlığında.
+Fazla yeri olmadığı için, sadece bir taraftan diğer tarafa hareket edebiliyor.
+9 ay önce tek bir hücreydi, şimdi 200 milyon hücreden oluşan küçük bir insan ve tam 300 kemiğiyle dünyaya gelmesine çok az kaldı. Bu kemikler o büyüdükçe birleşecek ve yakında diğer insanlar gibi 206 tane kemik ile hayatına devam edecek.
+Bu inanılmaz seyahat süresinde, plasentanız gereken besin ve antikorları bebeğinize bağışıklık sistemini oluşturması için sundu. Bu yüzden gelecek 6-12 ayda, bebeğinizin bağışıklık sistemi onu enfeksiyonlardan koruyacak.
+Beyni ve vücudu hala gelişiyor ve çocukluğu boyunca da gelişmeye devam edecek.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bu hafta ile birlikte doğum yaklaşıyor. Son birkaç gün çok hızlı geçebilir. Sabırsızsanız zaman hiç geçmeyecekmiş gibi de gelebilir.
+Bebeğiniz doğum pozisyonunu almak üzere. Ondan sonra daha rahat nefes alabilmeye başlayacaksınız. Çünkü ciğerlerinize daha az baskı uygulanacak.
+Eğer varisleriniz varsa, bu zamanda daha belirgin olabilirler. Bu progesteron hormonunun damarları rahatlatmasından kaynaklanıyor. Ayrıca bacaklarınız daha fazla yük taşıyor ve vücudunuzda daha fazla kan dolaşıyor.
+Şuan, daha çok doğum ve bebeğinizi karşılamak ile ilgilenseniz de, pek yakında emzirmeye odaklanmanız gerekecek. İçinde yer alan karbonhidratlar, proteinler, LCP’ler dâhil olmak üzere yağlar, prebiyotikler, vitaminler, antikorlar ve nükleotidlerle bebeğinizi besleyecek anne sütünüz, bebeğinizin büyürken değişen ihtiyaçlarına uyum sağlayarak, gelişimi için katkıda bulunacak.\n\n
+Hamileliğin son, emzirmenin ilk haftaları için besin önerileri\n\n Ay ve kabak çekirdeği
+Tam buğday lavaşı
+Besin katkılı kahvaltılık yulaf, yoğurt ve yoğurtlu içecekler
+Kuru meyveler\n\n Doğum belirtileri\n\n Artık her an doğurabilecek durumdasınız yani sürekli doğum belirtilerini gözetliyor olmalısınız. Bu belirtiler arasında: suyun gelmesi, membranın zedelenmesi, ishal ve mide bulantısı, enerji çoğalması, mukus tıpanın ayrılması ve hafif kanlı vajinal akıntı sayılabilir. Eğer vajinal akıntınızda kana rastlıyorsanız bu doğumun 1-2 gün uzaklıkta olduğunu varsayabilirsiniz. Fakat bu kesin bir bilgi olmadığı için kendinizi yine de bu zamanlamaya şartlamayın.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 40.Hafta Hamilelik\n\n 40 hafta içerisinde, tek bir hücreden eşsiz ve çok büyük potansiyeli olan küçük bir insan yetişti.
+Bebeğiniz kafasından kalçasına 51 cm uzunluğunda ve ortalama 3,5 kg ağırlığında.
+Vücudunun %15’i yağdan oluşuyor. 70’i aşkın refleksi çalışır vaziyette.
+Sesinizi tanıyabiliyor.
+Bebeğiniz doğarken plasentanız rahiminizden ayrılacak ve bebeğiniz çıktıktan sonra ufak bir yardım ile vücudunuzdan çıkacak. Bu etimsi, oval görünümlü organın ve göbek bağının görevi bebeğinizin ilk nefesi ile sonlanıyor.
+Eğer hala doğum belirtisi göstermiyorsanız, hayal kırıklığına uğramayın. Hamileliklerin yaklaşık %50’si 40 haftadan uzun sürüyor. Birçok doktor normal şartlarda hamileliğin 42 haftaya kadar uzamasına müsaade ediyor. Eğer doğum kendiliğinden başlamıyorsa, 41 veya 42. haftada doğum doktorunuz tarafından başlatılacak.\n\n
+Doğumdan sonrada LCP’ler ve DHA önemli rol taşır. Bunları anne sütü ile bebeğinize aktarabilmeniz için yeterli miktarda tüketmeniz gerekir. LCP’ler yağ grubudur ve belli besinlerde bulunur. LCP’nin bazı çeşitleri vardır; mesela AA (Omega 6) ve DHA (Omega 3).
+DHA özellikle bebeğinizin beyin gelişimini destekler. Bazı yağlı balıklar DHA içerir ve bu yüzden iyi bir kaynak olarak tanımlanır. Yine de balık tüketiminizin haftada 2 porsiyonu geçmemesine dikkat etmeniz gerekir. Eğer yağlı balık tüketmekten hoşlanmıyorsanız çerez, tohum, koyu yeşil sebzeler gibi başka Omega 3 kaynaklarından yararlanabilirsiniz. Omega 3 için değerli kaynaklar, DHA için ise suni takviyeler mevcut olsa da, doktorunuza danışmadan kullanmanız tavsiye edilmez.
+\n\n Omega 3 kaynağı besinler\n\n Tam tahıllı tost üzeri uskumru pate
+Izgara somon ve buharda pişmiş sebze
+Çerez
+Kahvaltılık tahıllı gevrek
+"
+        android:textStyle="italic|bold" />
+
+</RelativeLayout>
