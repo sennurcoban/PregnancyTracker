@@ -1,20 +1,17 @@
 package com.example.pregnancytracker;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     private TextView textView;
@@ -83,7 +80,6 @@ public class MainActivity extends AppCompatActivity {
                 {
                     String item = parent.getItemAtPosition(position).toString();
                     selectedDay = Integer.valueOf(item);
-                    Toast.makeText(parent.getContext(),"Selected: " +item, Toast.LENGTH_SHORT).show();
 
 
                 }
@@ -105,8 +101,7 @@ public class MainActivity extends AppCompatActivity {
                 else
                 {
                     String item = parent.getItemAtPosition(position).toString();
-
-                    Toast.makeText(parent.getContext(),"Selected: " +item, Toast.LENGTH_SHORT).show();
+                    selectedWeek = Integer.valueOf(item);
 
 
                 }
@@ -128,7 +123,8 @@ public class MainActivity extends AppCompatActivity {
     private void openPregnantActivity(){
 
         Intent intent = new Intent(this,PregnanDetailActivity.class);
-        intent.putExtra("selectedDay",selectedDay);
+        intent.putExtra("selectedDay", selectedDay);
+        intent.putExtra("selectedWeek", selectedWeek);
         startActivity(intent);
         overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right);
     }

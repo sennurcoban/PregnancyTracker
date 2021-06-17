@@ -1,65 +1,77 @@
 package com.example.pregnancytracker;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.PersistableBundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.Toast;
+import android.widget.ImageView;
+import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 public class PregnanDetailActivity extends AppCompatActivity {
     DrawerLayout drawerLayout;
 
     private Integer day;
-    private Button button;
-
+    private Integer week;
+    private Integer totalDay;
+    private ImageView menuBtn;
 
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        day = getIntent().getIntExtra("selectedDay",0);
+        day = getIntent().getIntExtra("selectedDay", 0);
+        week = getIntent().getIntExtra("selectedWeek", 0);
+        totalDay = day + (week * 7);
         setContentView(R.layout.activity_pregnant_detail);
+        setPageResources();
+        setListener();
 
-        Toast.makeText(this,day.toString(),Toast.LENGTH_SHORT).show();
-//        drawerLayout = findViewById(R.id.drawer_layout);
     }
-//    public void ClickMenu(View view){
-//        openDrawer(drawerLayout);
-//    }
-//
-//    private static void openDrawer(DrawerLayout drawerLayout) {
-//        drawerLayout.openDrawer(GravityCompat.START);
-//    }
-//    public void ClickLogo(View view){
-//        closeDrawer(drawerLayout);
-//    }
-//
-//    private static void closeDrawer(DrawerLayout drawerLayout) {
-//
-//        if(drawerLayout.isDrawerOpen(GravityCompat.START)){
-//
-//            drawerLayout.closeDrawer(GravityCompat.START);
-//        }
-//    }
-//    public void ClickFirst(View view){
-//        recreate();
-//    }
 
-    public void buttonactivity(View view){
-        Intent intent = new Intent(this,PregnanDetailActivity.class);
+    private void setListener() {
+        menuBtn = findViewById(R.id.menuBtn);
+        menuBtn.setOnClickListener(view -> {
+            goWeekList();
+        });
+    }
+
+
+    private void setPageResources() {
+        TextView headerText = findViewById(R.id.headerTxt);
+        TextView sizeInfoText = findViewById(R.id.babySizeInfoTxt);
+        TextView infoDetailText = findViewById(R.id.infoDetailTxt);
+        ImageView babyImg = findViewById(R.id.babyImg);
+
+        switch (week) {
+            case 1:
+                headerText.setText("1.hafta");
+                sizeInfoText.setText("1.hafta boyutu");
+                infoDetailText.setText(getText(R.string.first_half));
+                babyImg.setImageResource(R.drawable.ilkhafta);
+                break;
+            case 2:
+                headerText.setText("2.hafta");
+                sizeInfoText.setText("2.hafta boyutu");
+                infoDetailText.setText("2.hafta akslşdfmdslgdsmglşd");
+                babyImg.setImageResource(R.drawable.alti);
+                break;
+
+        }
+
+
+    }
+
+
+    public void goWeekList() {
+        Intent intent = new Intent(this, WeekListActivity.class);
         startActivity(intent);
     }
 
     @Override
     public void finish() {
         super.finish();
-        overridePendingTransition(R.anim.slide_in_left,R.anim.slide_out_right);
+        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
     }
 }
