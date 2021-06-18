@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         week = new ArrayList<>();
-        for (int i = 1; i < 41; i++) {
+        for (int i = 1; i < 42; i++) {
             week.add(i);
         }
 

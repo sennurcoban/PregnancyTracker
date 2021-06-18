@@ -1,6 +1,932 @@
 <resources>
     <string name="app_name">PregnancyTracker</string>
-    <string name="first_half">Hamileliğin ilk haftasında yaşananlar: \n \n Hamileliğin ilk haftasını anlamak için bir uzmandan destek almak daha kesin sonuçlara ulaşmanızı sağlayacaktır. Hamileliğin kesin olmayan belirtileri ile ilk haftanın nasıl geçtiğini anlayabilirsiniz. Başlıca ilk belirtiler: adet gecikmesi, mide bulantısı, kusma, baş ağrısı, kramp, iştah değişikliği, ruhsal değişikliktir. \n \n İlk hafta ile birlikte gaz, kabızlık, yorgunluk ve hormonal değişiklikler de kendini gösterecektir. Bazı uzmanlara göre gebelikte adetin gecikmesi ile başlayan hafta ilk kabul edilmeyerek ikinci hafta kabul edilmektedir. Bunun sebebi de döllenmenin ikinci hafta itibari ile gerçekleşmesidir. Uzmanlara göre ikinci hafta ile birlikte gebeliğin başladığı söylenmektedir. \n \n Hamileliğin ilk haftalarında bebek gelişimi \n \n Hamileliğin ilk haftasında yumurta, yumurtalıktan ayrılarak fallop tüpüne doğru bir yolculuğa çıkar. Bebeğinizle ilgili ilk haftalarda yaşanan en büyük gelişim de budur. Yumurtanın döllenmesi işlemi de gerçekleştiğinde fetus gelişerek büyümeye devam edecektir.Hamilelik hesaplaması yaparken doktorlar, son adet döneminizi soracaktır. Son adet döneminin ilk günü bebeğinizin gelişinin ilk günü olarak takvim hesaplamasına başlanmaktadır. Son adetin üzerinden 40 hafta sayarak bebeğin doğacağı hafta planlanmış olur.</string>
+    <string name="first_half">Hamileliğin ilk haftasında yaşananlar: \n \n Hamileliğin ilk haftasını anlamak için bir uzmandan destek almak daha kesin sonuçlara ulaşmanızı sağlayacaktır. Hamileliğin kesin olmayan belirtileri ile ilk haftanın nasıl geçtiğini anlayabilirsiniz. Başlıca ilk belirtiler: adet gecikmesi, mide bulantısı, kusma, baş ağrısı, kramp, iştah değişikliği, ruhsal değişikliktir. \n \n İlk hafta ile birlikte gaz, kabızlık, yorgunluk ve hormonal değişiklikler de kendini gösterecektir.
+        Bazı uzmanlara göre gebelikte adetin gecikmesi ile başlayan hafta ilk kabul edilmeyerek ikinci hafta kabul edilmektedir. Bunun sebebi de döllenmenin ikinci hafta itibari ile gerçekleşmesidir. Uzmanlara göre ikinci hafta ile birlikte gebeliğin başladığı söylenmektedir. \n \n Hamileliğin ilk haftalarında bebek gelişimi \n \n Hamileliğin ilk haftasında yumurta, yumurtalıktan ayrılarak fallop tüpüne doğru bir yolculuğa çıkar. Bebeğinizle ilgili ilk haftalarda yaşanan en büyük gelişim de budur.
+        Yumurtanın döllenmesi işlemi de gerçekleştiğinde fetus gelişerek büyümeye devam edecektir.Hamilelik hesaplaması yaparken doktorlar, son adet döneminizi soracaktır. Son adet döneminin ilk günü bebeğinizin gelişinin ilk günü olarak takvim hesaplamasına başlanmaktadır. Son adetin üzerinden 40 hafta sayarak bebeğin doğacağı hafta planlanmış olur.
+    </string>
+    <string name="ikinci_hafta">Bebeğiniz büyümeye başlamadan önce ona sahneyi siz hazırlarsınız.
+Geçen hafta kanınızda dolaşan ostrojen ve progestin miktarındaki artış, potansiyel döllenmiş yumurtaya zemin hazırlamak için verimli, kan bakımından zengin bir duvarla kaplanmak üzere rahminizi harekete geçirdi.
+Aynı zamanda yumurtalıklarınızdaki folikul adı verilen sıvı dolu keselerde yumurtalar olgunlaşıyor.
+Bu haftanın başında genelde 28 günlük döngünün 14. günü civarında yumurtladınız.
+        Yumurtalarınızdan biri folikülünden çıktı ve yumurtalığınızda ilerleyerek fallop tüpüne ulaştı.
+Gelecek 12 – 24 saat süresince, partneriniz tarafından dışarı atılan 250 milyon spermden biri vajinaniz boyunca yüzerek serviksten geçip rahminize girecek ve fallop tüpüne ulaşıp yumurtaya girmeyi deneyecek.
+        Başarabilirse bu yumurta döllenecek. Bu yolculuk sırasında yaklaşık 400 sperm hayatta kalacak ve yalnızca bir tanesi yumurtanın zarını delmeyi başarabilecek.
+Bundan sonraki 30 saat boyunca, sperm ile yumurtanın hücre çekirdekleri genetik malzemeyi karıştırmak için birleşecek.
+        Eğer sperm bir Y kromozomu taşıyor ise, bebeğiniz erkek olacak: eğer X kromozomunu taşıyor ise, bir kız çocuğunuz olacak.
+Yumurta kanalından rahime olan 3-4 günlük yolculuğunda, döllenmiş yumurta yani zigot 16 özdeş hücreye bölünecek.
+        Rahime vardıktan sonra Zigota Morula denir. 1-2 gün sonra rahiminizde oluşan katmana yerleşerek, inanılmaz gelişimini ve dönüşümünü devam ettirecek.
+Bu aşamada gelişmekte olan bebeğiniz, bilimsel olarak blastosist olarak tanımlanan küçük bir hücre topundan ibaret.
+Blastosist, embriyoyu oluşturacak bir iç hücre kitlesi ve plasentayı oluşturacak bir dış hücre kitlesine sahip iç hücre kitlesi amniotik keseyi oluşturacak sıvıyla dolu bir oyuk.
+Dış hücre kitlesi yaşamsal faaliyeti sağlayan oksijen ve besinleri bebeğinize ulaştıran, atıkları bebeğinizden uzak tutacak organ olan plasenta.
+\n\n Bedeninizde neler oluyor? \n\n
+        Son periyodunuz 12 ile 16 gün önce başlamıştı. Yani büyük ihtimalle şu an yumurtluyorsunuz veya yakın zamanda yumurtlayacaksınız.
+Hamilelik aslında 38 hafta sürse de, yumurta ve spermin birleştiği an tam olarak söylenemediği için, doktorlar doğumu son periyodunuzun başlangıcından 40 hafta sonrası olarak hesaplıyor.
+        Bu yüzden döllenme oluştuğunda 2 haftalık hamile sayılabiliyorsunuz.
+Hamile kalabilmeniz için zamanlama gerçekten çok önemli. Şansınızın yüksek olması için yumurtlamadan önceki 72 saat ile yumurtladıktan sonraki 24 saat arasında cinsel ilişkiye girmelisiniz.
+        Böylelikle spermin 72 saatlik ve yumurtanın 24 saatlik ömürlerini birbirlerine daha uyumlu hale getirmiş olursunuz.
+        Bir aksaklık yaşamamak için partneriniz de ajandasını bu zaman aralığında vakit geçirebilmeniz için boşaltmalı.
+Sizin ve partnerinizin gerginliğini ortadan kaldırabilmek için, hamile kalmanın ortalama ne kadar sürdüğü hakkında fikir edinebilirsiniz.
+        Çoğu çift ancak birçok denemeden sonra hamileliğini ilan edebiliyorlar.
+Eğer hamile kalmaya çalışıp hala içki, sigara ya da ilaç tüketiminize son vermediyseniz şuan tam zamanı.
+        Çünkü vücudunuz bebek için mümkün olabilecek en uygun halde olmalı.
+Bebeğinizin doğum hata riskini düşürmek doktorunuza danışarak folik asit ve vitamin takviyesine başlayabilirsiniz.</string>
+    <string name="ucuncu_hafta">Şu an karnınızda çok fazla şey oluyor. Bebeğiniz, çılgınca büyüyen bir hücre topu.
+        Bu hücre topuna Blastosist deniyor.
+Blastosist rahime yerleştikten sonra, plasentayı oluşturacak kısmı hCG adlı gebelik hormonunu üretmeye baslar.
+        Bu hormon yumurtalıklarınıza yumurta üretimini durdurma talimatini verir. Aynı zamanda da yoğun östrojen ve progesteron üretimini tetikler.
+HCG hormonu, gebelik testinin pozitif çıkmasının nedenidir. Bu haftanın sonunda bir gebelik testi yapıldığında sonuç pozitif olacaktır.
+        Test negatif ise ve adet görülmediyse birkaç gün sonra tekrar deneyebilirsiniz.
+Bu arada, amniyotik keseyi oluşturacak oyukta, amniyotik sıvı blastosistin çevresinde birikmeye başlıyor.
+        Bu sıvı gelecek hafta ve aylarda bebeğinizi muhafaza edecek ve koruyacak.
+Şu anda küçük blastosistiniz, rahminizdeki küçük damarlara bağlı olan ve mikroskopik kanallardan oluşan, basit bir döngü sistemi aracı ile oksijen, besin alıyor ve atıkları atıyor.
+        Önümüzdeki hafta bu görevi plasenta devralacak.
+\n\n Bedeninizde neler oluyor? \n\n
+        İçinizde çok önemli bir karşılaşma gerçekleşti. Yumurtanızın güçlü zarı, tek bir sperm tarafından aşılarak döllendi.
+Döllenmeden birkaç gün sonra, yumurta rahime indi ve orada gelişmeye başladı. İçeride bir bebek hayata gelmek üzere.
+Siz büyük ihtimalle daha hamile olduğunuzu bilmiyorsunuz. Fakat belki bu haftanın sonuna doğru, hafif bir kanama yaşayabilirsiniz.
+        Bu, İmplantasyon kanaması olarak adlandırılır. Olmasının nedeni döllenmiş yumurtanın, kan dolaşımı yüksek olan rahim katmanından geçmesidir.
+        Hafif bir kanamadır yaşanmaya da bilir.
+\n\n 8 Adımda 3. Hafta Gebelik Belirtileri \n\n
+        Yumuşak ve şiş göğüsler, Birçok kadın bu hissiyati, adet dönemi öncesi belirtilerinden çok daha yoğun olarak hisseder ve tanımlar.
+
+\n\n Bitkinlik ve yorgunluk: Progesteron adlı hormonun çoğalması ve bebeğinizin oluşum süreci sizde sanki maraton koşmuşsunuz gibi bir hisse neden olabilir.
+
+\n\n Sıkça idrar boşaltma ihtiyacı: Hamile kaldıktan hemen sonra devreye girer.
+
+\n\n Koku algısında artış: Kokuların daha yoğun hissedilmesi sıkça görülen belirtilerdendir.
+        Bu durum, bir anda yükselen östrojen seviyesinden kaynaklanır.
+
+\n\n Tiksinme hissi: Belirli gıdalara karşı üretilen tiksinme hissi: iştah artışından daha sık görülen bir belirtidir.
+
+\n\n Mide bulantısı, kusma ve sabah halsizliği: Çoğunlukla birkaç hafta sonra başlar. Fakat bazı anne adaylarında bu belirtiler daha erken de görülebilir.
+
+\n\n Yüksek vücut ısısı: Vücut sıcaklığınız 18 günü aşkın bir süredir hafif yüksekse, bu da büyük olasılıkla hamile olduğunuza dair bir işarettir.
+
+\n\n Hafif kanama: Adet zamanında kırmızı, pembe veya kahverengi renkte hafif kanama yaşayabilirsiniz. Bunun yanısıra şiddetli ağrınız da varsa hemen doktorunuzla iletişime geçmenizi öneririz.
+</string>
+    <string name="dorduncu_hafta">Bu hafta embriyonik dönemin başlangıcını belirliyor. Bugünden itibaren 10. haftanıza kadar, bebeğinizin tüm organları gelişmeye hatta bazıları çalışmaya başlayacak.Embriyonuz bir haşhaş tohumu kadar ve gelişimini tehdit edebilecek şeylere karşı en hassas halinde.Plasentanız oluşma sürecinde bu haftanın sonunda kanınızdaki besinleri bebeğinize aktarmaya başlayacak.Bu esnada, bebeğinizin içinde geliştiği amniyotik kese kırmızı kan hücreleri üretiyor. Bu şekilde plasenta devreye girene kadar bebeğinizi besleyecek.\n\n
+Bedeninizde neler oluyor? \n\n Bu hafta içinde hamile olup olmadığınızı öğrenebilirsiniz. Kesin sonuç elde etmek için, bu haftanın sonunu bekleyip bir gebelik testi yapabilirsiniz.
+Eğer testiniz pozitif çıkarsa, doktorunuzu arayıp ilk doğum öncesi randevunuzu alın.
+Birçok doktor ilk randevuyu 8. haftadan önce vermez. Fakat sağlık durumunuzda bir sorun yaşıyorsanız, daha önce sorunlu bir hamilelik geçirdiyseniz ya da kontrol gerektirecek şüpheli semptomlarınız varsa hemen doktorunuzu aramanız önerilir.
+İlaç kullanıyorsanız ya da başka kaygılarınız varsa bunları doktorunuzla paylaşın.
+Hamile kaldıktan sonra, vücudunuzun ihtiyacı olan folik asit oranı biraz artacaktır.
+        Doktorunuza danıştıktan sonra almanız gereken günlük folik asit takviyesini içeren multivitamin kullanmaya başlayabilirsiniz.
+Gelecek 6 hafta bebeğinizin gelişimi için oldukça kritik ve önemli olacak. Gelişimini tam tamamlamamış olan plasenta ve göbek kordonu, görevlerini üstlenmeye başlayacak. Vücudunuza aldığınız herşey plasenta aracı ile bebeğinize ulaşacak: onun sağlığını ve gelişimini direkt olarak etkileyecek. Bu yüzden beslenmenize çok dikkat etmeniz gerekiyor.
+\n\n 6 adımda, gebelik testi uygularken dikkat edilmesi gerekenler
+        \n\n Gebelik testinizin son kullanım tarihini kontrol edin. Testi nemli veya sıcak yerlerde sakladıysanız işlevini kaybetmiş olabilir. Bu durumda yenisini almalısınız.
+Testi uygulamak için hazır olduğunuzda kullanım talimatlarını dikkatlice okuyun. Daha sağlıklı ve kesin bir sonuç almak için sabahki ilk idrar boşaltımında uygulamanız önerilir.
+Eğer periyodunuz geciktiyse ama test sonucu yine de negatif çıkıyor ise, tekrarlamak için birkaç gün veya bir hafta bekleyin. Test sonucunuzun negatif çıkması kesin olarak gebe olmadığınızı göstermez.
+Test çubuğundaki çizgi belli belirsiz görünüyorsa ama sonuç pozitif ise, hamile kalmış olma ihtimaliniz oldukça yüksektir. Emin olmak için testi birkaç gün arayla tekrarlayabilirsiniz.
+Tekrarlanan test yine pozitif çıkıyorsa tebrikler, hamilesiniz.
+Eğer ikinci test tamamen negatif ise, erken düşük yapmış olabilirsiniz. Uzmanlar gebeliklerin %20 ile %30 oranında düşük ile sonlandığını tahmin ediyor.</string>
+    <string name="besinci_hafta">Hamileliğin 5. haftası bebeğinizin hızla büyüdüğü sürecin başları. 2. aya girdiniz ve bebeğiniz henüz bir susam tanesi büyüklüğünde. Bebeğinizin gelişimi bu süreçte sonra oluşacak organlar ve dokulara hazırlanıyor.
+\n\n Bebeğiniz büyüyor \n \n Embriyonuz rahminizin derinlerinde inanılmaz bir hızla büyüyor. Bu noktada, bir susam tanesi boyutunda. Üç katmandan oluşuyor: ektoderm, mezoderm ve endoderm. Bu katmanlar sonraki zamanlarda dokulara ve organlara dönüşecek.
+Bebeğinizin beyni, omuriliği, sinirleri ve omurgası ektoderm adı verilen üst katmanda gelişmeye başladı. Bu katman ayrıca deri, saç, tırnak, süt, ter bezleri ve diş minesinin oluşumunu sağlar.
+Kalp ve dolaşım sistemi orta katman olan mezotermde şekillenir. Mezoterm ayrıca kas, kıkırdak, kemik ve deri altı dokuların şekillenmesini sağlar.
+Üçüncü katman olan endoderm: akciğerleri, bağırsakları, boşaltım sistemini, tiroidleri, böbrekleri ve pankreası oluşturur.
+Bebeğinize besin ve oksijen sağlayan ilkel plasenta ve göbek bağı göreve başladı.\n \n Bedeninizde neler oluyor? \n\n
+Hamileliğe bağlı bazı rahatsızlıklar yaşamaya başlamış olabilirsiniz. Hamileğin ilk haftalarında birçok kadında göğüslerin hassaslaşması, bitkinlik ve idrar sıklaşması görülmeye başlar. Bunların dışında, ilerleyen haftalarda mide bulantısı yaşayabilirsiniz.
+Miktarı tam olarak bilinmese de hamilelikte alkolden uzak durmak önemlidir. Alkol bebeğin gelişimine zarar verebilir.
+Bir egzersiz rutinine başlamak isteyebilirsiniz. Ekstra bir yük taşıyacağınız için egzersizler, vücudunuzu güçlendirmek ve dayanıklılığınızı arttırmak adına faydalı olacaktır.
+Birçok anne adayı egzersizin hamilelik ağrılarını hafiflettiğini ve stresi azalttığını söylüyor. Bunun yanı sıra egzersizler sizi doğum sancılarına hazırlamak konusunda da yardımcı olur.
+Hamilelik sırasında herhangi bir şekilde egzersiz yapmaya devam ettiyseniz, doğum yaptıktan sonra ayağa kalkmak daha kolay olur. Yapmaktan keyif alacağınız, güvenli ve orta derecede dinamik bir aktivite seçmenizi öneririz. Yürüyüş ve yüzme hamile kadınlar için iyi seçimlerdir.
+\n\n 11 adımda sağlıklı bir hamilelik için güvenlik önerileri \n\n Hamileliğin ilk ayları bebeğin gelişimi için kritik zamanlardır. Birkaç anahtar adım bebeğinizin ve sizin sağlığınızı korumak için yardımcı olacaktır.
+Doktor randevularınızı almaya erkenden başlayın ve randevularınıza sadık kalın. İyi bir hamilelik öncesi hizmet sizin ve bebeğiniz için önemlidir.
+İlk ziyaretinizde (genelde 8. hafta civarı olur) sorun oluşturabilecek belirli durumlar için görüntüleneceksiniz. Eğer hala yapılmadıysa doktorunuzu seçin ve randevunuzu alın. Şu an ki önceliğiniz bu olmalı.
+Hamilelik öncesi vitaminlerinizi doktorunuzun önerdiği doğrultuda alın. Hamilelik öncesi takviyelerin çoğu standart multivitaminlere göre daha fazla folik asit, demir, kalsiyum içerir ve hamile kadınlar bu besinlere ihtiyaç duyarlar.
+Hamile kalmaya çalışırken ve ilk üç aylık dönemde özellikle yeterli miktarda folik asit almak kritik öneme sahiptir. Bebekte oluşabilecek doğum hasarı riskini azaltır.
+Doktorunuzu kullandığınız ilaçlar hakkında bilgilendirin. Çoğu ilaç - reçetesiz olanlar bile- hamilelik süresince güvenli değildir.
+Kronik bir durumun tedavisi için ilaç kullanıyorsanız hemen durdurmayın fakat doktorunuzu arayın ve kullandığınız ilaçları listeleyerek neyin güvenli olduğunu belirleyin. Bitkiler de dahil olmak üzere takviye olarak aldığınız her şeyi doktorunuzla paylaşın.
+Sigarayı bırakın. Sigara içmek düşük, plasenta problemleri ve erken doğum dahil olmak üzere problem riskini yükseltir. Cenin gelişimini yavaşlatır, ölü doğum ve düşük riskini arttırır. Yapılan araştırmalara göre sigara kullanımı, yarık dudak ya da damaklı bebek doğumu riskini arttırmasıyla ilişkilendirmiştir. Bırakmak için hiçbir zaman geç değildir. Yakmadığınız her sigara bebeğinize daha sağlıklı olma şansı verecektir. Bu konuda yardım almak için doktorunuza başvurabilirsiniz.
+Alkol almayı bırakın. Düşük kilolu doğum ihtimalini ve çocuğunuzun öğrenme, konuşma, dikkat süresi, dil ve hiperaktivite problemleri yaşaması riskini arttırabilir.
+Evinizin ve iş yerinizin güvenli olduğundan emin olun. Bazı meslekler ya da hobiler size ve gelişen bebeğinize zararlı olabilir. Eğer rutin olarak kimyasallara, ağır metallere (Kurşun veya civa gibi), belli biyolojik ajanlara veya radyasyona maruz kalıyorsanız, bir an önce bu durumu değiştirmelisiniz.
+Bazı temizlik malzemeleri, böcek ilaçları, çözücüler ve eski borular yoluyla içme suyuna karışan kurşunun da zararlı olabileceğini unutmayın. Günlük hayatınızdaki rutini doktorunuzla konuşarak evinizde veya işyerinizdeki zararlı olabilecek maddeleri belirleyir: bunları uzaklaştırabilirsiniz.
+\n\n Adım adım ilk doktor kontrolü için öneriler \n\n Bir doktor seçin ve randevunuzu ayarlayın.
+Hazırlık için periodunuzun ilk gününü not alın (Böylece doğumun günü belirlenebilir.) ve aklınıza gelen bütün soruları listeleyin.
+Ailenin tıbbi geçmişlerini öğrenmek için iki taraf da akrabalarıyla konuşmalı. Doktorunuz ailelerde kronik bir hastalık ya da genetik bozukluk olup olmadığını bilmek isteyecektir.
+Zamanlama konusunda kafanız karışabilir. Çoğu doktorun da yaptığı gibi hamilelik hesaplamalarına son periodunuzun ilk günüyle başlanılır. Böylece hamilelik testi sonucu pozitif verdiği an (Döllenmeden yaklaşık 3 hafta sonra) 5 haftalık hamile olduğunuz varsayılır.</string>
+    <string name="altinci_hafta">Bu hafta bebeğinizin ağzı, kulağı, burnu şekillenmeye başladı.
+Rahminizin içine bakabilseydiniz, üzerinde küçük koyu noktaları olan bir kafa olduğunu görecektiniz. Onlar bebeğinizin göz ve burun delikleri. Kafanın yanındaki iki küçük oyuk ise kulakları.
+Kolları ve bacakları oluşmaya başladı.
+Kalbi dakikada 100-160 kere atıyor.
+Kanı vücudunda gezinmeye başladı.
+Bağırsakları gelişiyor ve daha sonra ciğerlerini oluşturacak olan tomurcuk belirmeye başladı.
+Hipofiz bezi ve beynin geri kalanı, kemikleri, kasları şekilleniyor,
+Şu an bebeğinizin büyüklüğü bir mercimek tanesi kadar. \n \n Bedeninizde neler oluyor? \n\n Kendinizi duygusal açıdan dengesiz buluyor olabilirsiniz: hormonlarınız çalışıyor. Bunun yanı sıra hayatınızda çok büyük değişimler olmak üzere. Duygusal yoğunluklar yaşamanız çok doğal.
+Bu aşamada hafif kanamalar görülebilir. Bu durum hamileliğin sorunlu olduğu anlamına gelmez. Fakat kanama düşük veya ektopik gebeliklerin ilk belirtisi de olabilir. Kanamanız varsa yine de doktorunuza bildirmeniz önerilir.
+\n\n İkiz olma ihtimali \n\n Hamile kalmak için tedavi gördüyseniz ya da iki taraftan birinin ailesinde ikiz varsa, ikizlere hamile kalma ihtimaliniz olabilir. \n \n İkizlere hamile kalma oranınız \n \n Her 31 doğumdan 1 tanesi ikizler doğumudur. Fakat tıbbi destek almadıysanız bu ihtimal 89’da 1’e düşer.
+Üçüz (ve üstü) doğurma ihtimali 565’te 1’dir.
+Tek yumurta ikizleri genelde tesadüfen oluşur: 250’de 1 oranında.
+Hamile kalmak için tıbbi destek alan kadınların %-20-% 25’i ikizlere (ve üstü) hamile kalabilir.
+İkiz bekleme ihtimaliniz başka faktörlere de bağlı olabilir. Bir kere ikiz doğurduysanız, tekrar ikizlere hamile olma ihtimaliniz ikiye katlanır.
+Siz ya da eşinizin akrabaları arasında ikizler varsa, şansınız daha yüksek olur.
+Yaşınız ne kadar ileri ise, ikizlere (ve üstü) doğal yollarla hamile kalma şansı artar.
+Ne kadar çok hamilelik geçirdiyseniz, şansınız o kadar artar.
+İkizlere hamile kalma ihtimali ince ve uzun bayanlarda daha sık, kısa boylu kadınlarda ise daha azdır.</string>
+    <string name="yedinci_hafta">Bebeğiniz ortalama 12 mm uzunluğunda.
+Kafası, vücudundan daha hızlı gelişiyor. Çünkü aslında beyni hızla gelişiyor.
+Sindirim ve solunum aktiviteleri ortaya çıkmaya başlıyor. Ciğerinin olduğu yerde küçük solunum yolları oluşuyor.
+Bebeğinizin bu hafta oluşan böbrekleri kalıcı ve vücuttaki atığı yönetecek. Embriyonuz henüz bir aylık olmasına rağmen 3 takım böbrek değiştirdi.
+Bebeğiniz yaklaşık bir hafta sonra idrar üretmeye başlayacak. Bebeğiniz içinizde olgunlaştıkça, bu idrarın çoğu amniyotik sıvıya boşaltılacak. Sonra tekrar bebeğiniz tarafından tüketilip, aynı döngüyü tekrarlayacak.
+Fiziksel olarak kollar, bacaklar, parmaklar şekilleniyor ve artık bir bebek gibi görünüyor. Elleri ve ayakları küçücük paletlere benziyor.
+Bebeğinizin burun, ağız ve göz gelişimini gözlemleyebilirsiniz.
+Hareketleri hissetmenize daha birkaç hafta var ama kaslar ve lifler de oluşuyor.
+Bebeğinizin hamilelik sırasında ve sonraki 3 yılda aldığı besinler hücrelerinin programlanmasında rol oynayacak.
+\n\n Bedeninizde neler oluyor? \n\n Rahminiz geçen 5 haftaya göre iki kat daha büyük. Sabah bulantıları yüzünden yemek yemek keyifsiz bir hal almış olabilir.
+Yükselmiş olan kan hacminiz ve böbreklerinizde süzülen ekstra sıvı sebebiyle normalden daha çok tuvalet ihtiyacı hissediyor olabilirsiniz. Bunun bir diğer nedeni de rahminizin büyümesiyle oluşan basınç.
+İlk üç aylık dönemde mide bulantısı yaşayan kadınlar 14-18. haftaya geldiğinde rahatlar. Fakat aynı şey tuvalet ihtiyacı için söylenemez. Bu, hamilelik boyunca artarak sürecek bir ihtiyaç olacaktır.
+Bağışıklık sisteminiz bebeğinizi kabullenmeye ve ikinizi de korumaya adapte oluyor. Şimdi doğal savunma mekanizmanızı sağlıklı ve dengeli beslenme diyetleriyle ekstra özen gösterek destekleme zamanı.
+Yeterince taze olmayan gıdalardan uzak durmalısınız.
+Pastörize olmayan peynirler, çiğ deniz ürünü ve kırmızı et, şarküteri ürünleri ve önceden hazırlanmış salata gibi risk oluşturabilecek ürünlerden uzak durmaya çalışmalısınız.
+Kırmızı et, kümes hayvanları ve deniz ürünlerinin iyi pişmiş olmasına ve sıcak tüketilmesine özen göstermelisiniz. Bütün gıdaları dikkatlice yıkamalısınız.
+\n\n İyot takviyesi zamanı \n\n Bu aşamada iyot takviyesi bebeğin gelişimini destekler.
+İyot tiroid bezi hormonlarının üretilmesine yardımcı olur. Bu hormonlar metabolizmanın düzenlenmesini ve hücrelerin sağlıklı kalmasını sağlar.
+Yapılan araştırmalara göre anneleri hamilelikte iyot takviyesi almış bebeklerde, kavramsal gelişimin daha kuvvetli olduğu gözlemlenmiştir.
+İyot içeren besinleri keşfetmeniz, günlük iyot takviyesi hakkında doktorunuza danışmanız tavsiye edilir.
+Kullandığınız normal tuz yerine iyotlu tuz kullanmanız iyot takviyesi için mükemmel bir yol olacaktır.
+Balık ve deniz ürünleri, süt ve yoğurt gibi süt ürünleri iyot takviyesi için iyi kaynaklardır.
+NOT: Bu bilgiler bebek gelişimi ve anne sağlığı hakkında genel bilgi vermektedir. Sürecin her bebek için farklı geliştiğini unutmayınız.
+\n\n Adım adım Gebelik Diyabeti - Risk altında mısınız? \n\n Gebelik diyabeti sadece gebelik süresince ortaya çıkan, vücudunuzun glukoz kullanımını etkileyen ve yüksek kan şekerine sebep olan bir durumdur.
+Tedavi edilmeyen yüksek kan şekeri ileri yaşlarda obezite ve diyabet riski taşıyan, yüksek kilolu bebek doğumuna sebep olur.
+Vücut kitle indeksiniz 30 üzeri ise ve geçmişte kısırlık veya insülin direncinizin yüksek olmasını tecrübe ettiyseniz, veya asya kökenli iseniz bu tür diyabete meyilli olabilirsiniz.
+Bu durumda doktorunuza danışarak glukoz toleransı testi yaptırmanız, sizin ve bebeğinizin sağlığı açısından tavsiye edilir.
+Gebelik diyabeti teşhisi konulduğunda, semptomları sağlıklı beslenerek ve düzenli egzersizle, kontrol altına alabilirsiniz. Bazı kadınlarda ilaç tedavisi de gerekli olabilir.</string>
+    <string name="sekizinci_hafta">Bebeğiniz şu an Latincede genç olan anlamına gelen fetus olarak adlandırılıyor.
+Başından aşağıya kadar 15mm olarak ölçülüyor.
+Bebeğinizin gözleri, ağzı ve burnu daha seçilebilir bir hale geldi. Göz kapakları oluşmaya başlıyor fakat hala yapışık durumda.
+Bebeğinizin süt dişlerinin uçları şekilleniyor. Yani kemik hücreleri şekillenmeye ve minik bağlantıları gelişmeye başladı. Şimdiye kadar perdeli görünen el ve ayak parmakları arasındaki perdeler inceliyor.
+Şu an bütün organları yerli yerinde ve eşsiz parmak izi şekillenmeye başlıyor.
+İnanılmaz bir şekilde küçük hareketlenmeler başladı, kasları faaliyete geçiyor fakat sizin hissedebileceğiniz kadar güçlenmesi birkaç hafta daha alacak.
+\n\n Bedeninizde neler oluyor? \n\n Anne adaylarının üçte ikisi ilk üç aylık dönemin bir noktasında hamilelik sebebiyle bulantı yaşarlar.
+Keşfetmiş olacağınız gibi sabah bulantısı günün her saatinde yaşanabilir.
+Annelerin çoğu 12- 14. haftalarda daha az mide bulantısı yaşar. Bu süreç bazı hamileliklerde biraz daha fazla sürebilir. Ayrıca hamilelik süresince semptomlar belirip yok olabilirler.
+Eğer sabah bulantısı sizi normal yemek yeme düzeninizden alıkoyuyorsa endişelenmeyin. Vücudunuz öncelikle bebeğiniz için besin sağlayacaktır. Küçük miktarlarda yemeyi başarabilirseniz bebeğiniz ihtiyacı olan besini alacaktır.
+Faydalı besinler tüketin. Mümkünse besinsel açıdan zengin, taze yiyecekler seçin. Yağsız et, baklagiller ve eğer tolere edebiliyorsanız süt ürünleri gibi proteinli besinler yemeyi seçin.
+\n\n 6 adımda sabah bulantılarını hafifletmek için yapılabilecekler \n\n İyi bir gece uykusu almaya çalışın ve gün içinde bolca dinlenin.
+Sabah yataktan kalkmadan önce biraz kuru kraker ya da bisküvi yiyin.
+Midenizi dolu tutmak için sık sık küçük porsiyonlar şeklinde yemek yiyin.
+Eğer yiyecekleri tolere edemiyorsanız sıvı almaya devam etmeniz önemlidir.
+Bileğinize hareket bulantısı bantlarından takın. Bu bantlar akupunktur noktalarına baskı yapacak şekilde tasarlanmıştır ve rahatlama sağlayabilir.
+\n\n Çinko takviyesi zamanı \n\n Çinko vücudu hücresel boyutta destekler. Hücre yapımında, bölünmesinde ve korunmasında olduğu gibi bağışıklık sisteminin güçlenmesinde de rol oynar. Aynı zamanda kavramsal gelişimde, üreme ve kemik sağlığı açısından da fayda sağlar.
+Çoğu hamilelik öncesi multivitamin yüksek miktarda çinko içerir fakat besin kaynaklarını tüketerek almak daha akıllıcadır.
+Yeterli miktarda çinko aldığınızdan emin olmak için sıralanan yiyecekleri tüketebilirsiniz: Çinko takviyeli mısır gevreği, kırmızı et, dana ve kuzu, kümes hayvanları: özellikle hindi, tam buğday ekmeği ve tahıllar, kuruyemiş, süt ürünleri ve yumurta.
+Çinko takviyesine başlamadan önce mutlaka doktorunuzuna danışın.</string>
+    <string name="dokuzuncu_hafta">9 haftalık gebelik süresince bebeğiniz gelişmeye devam etti ve bu süreç hızlanarak da devam ediyor. 9. hafta hamilelik için önemli bir yer teşkil ediyor. Çünkü bebeğinizin organları gelişmeye devam ederken elleri de şekillenmeye başlıyor.
+\n\n Hamilelikte 9. Hafta Bebeğinizin Gelişim Süreci ve Yaşananlar \n\n Bebeğiniz şu an yaklaşık 2 cm uzunluğunda.
+Göz kapakları şekilleniyor ve kulakları gelişiyor.
+Damağındaki diş kökleri şekillenmeye devam ediyor.
+Bebeğinizin elleri artık 10 minik parmağa ayrıldı.
+Siz hala hareket hissetmeseniz de, bebeğiniz daha aktif olmaya başladı. Kollarını ve bacaklarını hareket ettirebiliyor, kafasını çeviriyor ve ağzını açıp kapatabiliyor.
+Ağzında ve dilindeki tat tomurcukları şekillenmeye başladı.
+Gözleri detaylı bir şekilde gelişirken, burnu da tanınır hale geldi.
+Bebeğinizin majör organları yani beyni, kalbi, ciğerleri ve böbrekleri gelişimlerini sürdürüyorlar.
+Cinsiyetini ultrasonda tespit etmek için hala çok erken, fakat küçük hareketleri görülebilir.
+Kasları ve kemikleri gelişmeye devam ediyor. Bu aşamada gelişen vücudunu vitamin D takviyesiyle desteklemek önemli.
+\n\n 9 Haftalık Hamilelikte Anne Adaylarının Değişimi \n\n Karnınız biraz şişmeye başladıysa da, henüz hamile görünmüyor olabilirsiniz. Fakat büyük ihtimalle hamile gibi hissediyorsunuz. Sadece sabah bulantıları değil duygusal olarak dengesiz hissetmeye de başlamış olabilirsiniz. Bu aşamada duygusal dengesizlik çok yaygındır. Çoğu kadın 6-10 haftaya kadar yoğun dengesizlik hissedip, 2. trimestrda dengesizlik durumunun hafiflediğini, doğuma yaklaşıldığında ise tekrar yoğunlaştığını söylüyor.
+Bebeğiniz içinizde gelişiyor, bu yüzden bedeninizin ağırlaştığını hissediyorsunuz, yorgun hissediyorsanız, nedeni bu.
+Dinlenmek için her imkanı değerlendirip, uyku saatlerinizi yükseltmelisiniz.
+Hamilelikte sürecinde hem kendi bedeniniz hem de bebeğiniz, tükettiğiniz besinlere karşı çok hassastır. Bu yüzden tükettiğiniz ve hazırladığınız besinlere özel itina göstermeyi ihmal etmeyin.
+\n\n 9. Hafta Gebelikte Kaçınılması Gereken Besinler \n\n İşlem görmüş et ürünleri – salam, sosis vs.
+Çiğ etler - tavuk, kırmızı et vs.
+Dondurulmuş et ürünleri
+Çiğ deniz ürünleri - yemeğe hazır paketli karides vs.
+Suşi - hazır suşi tüketmeyiniz, ev yapımı suşide çiğ et kullanmayınız ve hemen tüketiniz.
+Pastörize edilmemiş süt ürünleri - yumuşak/yarı yumuşak peynirler, beyaz peynir, küflü peynir
+Yumuşak dondurma veya kızartılmış dondurma
+Az pişirilmiş veya çiğ yumurta - mayonez (ev yapımı), çikolatalı mousse
+Hazır salata - meyve salatası veya salata barından salata
+Özel fasulye filizleri - alfafa filizleri, brokoli filizleri, soğan filizleri, ay çiçeği filizleri, soya filizleri, turp filizleri
+Soğumuş veya saklanmış barbekü ürünleri
+Pasta/kek için alınmış hazır krema ve sos
+Hazır yemekler ve tekrar ısıtılmış yemekler \n\n Hamileliğin 9. Haftası D Vitamini Takviyesi Zamanı \n\n D Vitamini sağlıklı bir hamilelik diyeti için çok önemlidir.
+Bebeğinizin gelişimi ve kemikleri için varoluşsal önem taşır.
+Kalsiyum ve fosfat değerlerini dengeler.
+Bebeğinizin D Vitamini eksikligini önler. Bu özellikle bebeğinizin ilk ayları için büyük önem ifade eder.
+D Vitamin takviyesi için en iyi yöntem, doğrudan güneş UVB ışınlarına maruz kalmaktır.
+Altta belirtilmiş olan gıdalarda D Vitamini mevcuttur, fakat yeterli tüketiminizi doktorunuza danışarak vitamin takviyeleriyle sağlayabilirsiniz.
+\n\n D Vitamini oranınızı arttıracak 2 besin \n\n Yağlı balık - somon vs (haftada 2 porsiyonu aşmayınız)
+Yumurta – özellikle sarısı</string>
+    <string name="onuncu_hafta">Bu hafta bebeğinizin büyüklüğü 3 cm`e ulaştı. Bu aşamada bebeğinizin beyni diğer yerlerinden çok daha hızlı gelişiyor. Kafası diğer yerlerine nazaran daha büyük görünüyor.
+Bebeğiniz kollarını bükebiliyor, bu durum kaslarının gelişmesine katkı sağlıyor.
+Birbirinden yeni ayrılmış, küçük ayak parmaklarını oynatabiliyor.
+Eğer içinize bakabilseydiniz, omurgasını şeffaf derisinin altında görebilirdiniz.
+Bu dönemde bebeğiniz gün içerisinde daha aktif oluyor. Aktivitesi uyku ve uyanık hali olarak tanımlanabilir.
+Bebeğinizin gelişen çene kemiği ile birlikte minik diş tomurcukları da şekilleniyor.
+Vücudunda kemik ve kıkırdak dokusu, kafasında ufacık kulak kanalları gelişiyor.\n\n Bedeninizde neler oluyor?
+\n\n Rahminiz şu an bir greyfurt büyüklüğünde, yani hamilelikten önceki halinin iki katı kadar.
+Eğer ilk bebeğinize hamileyseniz karnınız henüz meydana çıkmamış olmalı.
+Çok yorgun hissediyor olmalısınız.
+Bir sonraki doğum öncesi kontrolünüzde, bebeğinizin hızlı kalp atışlarını Doppler stetoskop aracı ile dinleyebileceksiniz.
+Normal kıyafetleriniz üzerinize dar gelmeye başlamış olabilir: özellikle göğüsleriniz artık sütyeninize sığmıyor olabilir. Bu hafta belki gebelik kıyafeti giymeye başlayabilirsiniz.
+Karnınız hem şişkinlikten hem de hafif kilo aldığınız için gittikçe büyüyor.
+Beli lastikli rahat kıyafetler giymek günü daha rahat geçirmenizi sağlayacaktır.
+Spora karşı yatkınlığınıza bağlı olarak birçok aktivite yapabilirsiniz. Yüzmek ve yürüyüş tüm hamilelik süresince yapacağınız en ideal seçim olacaktır.
+Egzersiz dayanıklılığınız, kaslarınız ve gücünüz için yararlıdır. Bu üç özellik hamileyken aldığınız kiloları taşımanızda, fiziksel stres ve doğum sonrası kolayca kilo verebilmeniz icin yararlı olur. \n\n
+Demir takviyesi zamanı \n\n Beynin besini demir, sağlıklı gebelik diyetinin en önemli maddelerinden biri.
+Demir kanınızdaki oksijen taşıyıcısı olarak görev alır.
+Bebeğiniz demire bilişsel gelişimi için ihtiyaç duyar.
+Uygun bir demir takviyesi, kanınızdaki oksijen taşıyıcısıdır ve hemoglobin üretimine katkı sağlar.
+Sağlıklı kırmızı kan hücrelerine sahip olmak, anemi riskinizi azaltır. Bazen demir eksikliği olarak da adlandırılan anemi, sizi yorgun, bitkin ve halsiz hissettirir.
+Demir oranı yüksek olan gıdaları, C Vitamini kaynaklarıyla birleştirirseniz vücudunuzun ideal demir alımını sağlamış olursunuz. C Vitamin için meyveler ve taze sıkılmış meyve suları idealdir.
+Kanınızdaki demir değerleri, hamilelik süresinde düzenli olarak kontrol edilecektir. Fakat eğer bitkin veya yorgun hissediyorsanız, doktorunuza bildirmeniz yararlı olur. Belki bir süreliğine takviye almanız gerekecektir.
+\n\n Demir oranınızı arttıracak besinler \n\n Kırmızı et
+Balık - somon, sardalya
+Yumurta
+Kuru meyve
+Tam tahıllı ekmek
+Fasulye, mercimek, nohut
+Fındık, kaju, çekirdek
+Kuru erik, kayısı ve üzüm
+Yeşil yapraklı sebzeler - brokoli, ıspanak, kara lahana, su teresi
+C Vitamini vücudunuzun demir alımına yardımcı olur: yani demir içeren besinler tüketirken taze meyve yemeyi unutmayın.
+Demir takviyesi almanız tavsiye edilmiş olabilir, fakat doktorunuza danışmadan başlamamanız önerilir.</string>
+    <string name="onbirinci_hafta">11 haftalık gebelikte bebeğiniz giderek büyümeye devam ediyor. Aynı zamanda da bebeğinizin boyu şu anda 4 cm iken bu süreç önümüzdeki bir hafta da daha da hızlanacak ve bebeğinizin boyu 2 katına çıkacak.\n\n
+İşte Gebelikte 11. Hafta ve Yaşananlar \n\n 11 haftalık bebek boyu şu an 4 cm. Fakat gelişimi hızlanıyor: bir hafta sonra boyu şimdikinin 2 katı uzunluğunda olacak.
+11 haftalık bebek gelişimi sürecinde bebeğinizin beyni, ciğerleri ve böbrekleri formlarını aldılar ve çalışmaya başladılar. Fakat doğuma kadar gelişmeye devam edecekler. Bebeğiniz şuan emebiliyor, esneyebiliyor, yutabiliyor.
+İçinde yüzdüğü amniyotik sıvıda soluyabiliyor ve idrarını yapabiliyor.
+Parmakları birbirinden ayrıldığı için yakında ellerini açıp kapayabilecek, ayaklarını ve göbek bağını tutabilecek.
+Tekme atmayı öğrendi ve seviyor.\n\n 11. Hafta Gebelik Sürecinde Bedeninizde Adım Adım Neler Oluyor?\n\n Hamileliğin 11. haftası süresince mide bulantınız yavaş yavaş azalıyor. Kendinizi daha enerjik hissetmeye başlayacaksınız.
+Hormonel değişkenliğiniz nedeniyle kabızlık ve mide ekşimesi çekiyor olabilirsiniz.
+Mide bulantınız besin çeşitliliğinizi kısıtladığı için kilonuzda bir değişiklik olmamış olabilir. Ama endişelenecek bir şey yok. Genelde kadınlar ilk 3 ayda sadece 1-2,5 kilo alır. İştahınız yakında geri gelecek ve haftada yarım kilo almaya başlayacaksınız.
+Bu günlerde daha aç hissedebilirsiniz: bu iyi. Sabah bulantılarınız geçiyor ve iştahınız kabarmaya başladı. Artık hem kendiniz hem de bebeğiniz için besleniyorsunuz ama bu noktada asıl önemli olan doğru ve sağlıklı beslenmeniz.
+Göbeğiniz hafifçe beliriyor, hatta belki pantolonunuzu kapatırken zorluk çekiyorsunuz. Bu durumun sorumlusu, progestin adlı gebelik hormonu. Progestin hamileliğin sağlıklı bir şekilde ilerlemesi açısından önemli olmasına rağmen şişkinlik, gaz ve geğirmeye neden olur. Bunun nedeni progestinin yumuşak kasları rahatlatması, sindirimi yavaşlatarak besinlerin bebeğinize daha verimli bir şekilde ulaşmasını sağlamasıdır. Bu hissettiğiniz şişkinlik, özellikle yemekten sonra artabilir. Çünkü büyümeye devam eden karnınız, organlarınıza daha fazla baskı uygulayarak sizi daha şişkin hissettirecek. Yemeğinizi yavaş yemeniz, fasulye, kızartılmış besinler, gazlı içecekler ve şekerler gibi gaz üreten besinlerden uzak durmanız size rahatlatacaktır.
+\n\n 11 Haftalık Gebelikte Kalsiyum Takviyesi Zamanı \n\n Şuanda bebeğiniz hızlı bir gelişim sürecinde. Kalsiyum, onun uzayan, gelişen ve güçlenen kemikleri için sizin ise dişleriniz ve kemikleriniz için çok önemli.
+
+Bebeğinizin sinirleri ve kaslarının gelişiminde rol oynar: sağlıklı çalışabilmesini sağlar. Kalp atışlarını düzenler ve kanının pıhtılaşmasını sağlar.
+
+\n\n Kalsiyum ihtiyacınızı karşılayacak besinler
+Süt ürünleri, pastörize süt, peynir, yoğurt
+Bazı çerez ve tohumlar: özellikle badem ve susam
+Fasulye ve bakliyat
+İncir
+Ispanak \n\n
+Hamilelikte alınmaması gereken besinler \n\n Bu dönemde deniz ürünleri tüketmenizin yararları olmakla beraber bazı balık çeşitlerini yemeniz sakıncalıdır. Balık iyi bir protein ve Omega 3 kaynağıdır. Bebeğinizin göz ve beyin gelişimi için yararlıdır. Bu durumda önemli olan, kirletici maddeleri en düşük balık çeşitlerini seçip, ölçülü tüketmeye çalışmaktır. Bu balıklar arasında köpek balığı: kılıç balığı, uskumru, kiremit balığı çeşitlerinin: çiğ ve az pişmiş (Füme ve salamura da dâhil) balıkların tüketilmemesi önerilir.
+Pastörize edilmemiş yumuşak peynirler, çiğ veya az pişmiş etler, şarküteri etleri ve çiğ yumurta içeren ürünler tüketilmesi tavsiye edilmez.
+Alkol kan dolaşımınız yoluyla kolayca bebeğinize ulaşabilir, hatta günde bir alkollü içecek bile bebeğinizin problem yaşama riskini arttırabilir. Bu nedenle alkol tüketmeniz kesinlikle önerilmez.
+Pastörize edilmemiş meyve suları: süt ve yumurta içeren içecekler tavsiye edilmez.
+Hamilelikte kafein tüketiminin tabu olduğunu duymuş olabilirsiniz ama ölçülü bir şekilde tüketmenizde sakınca yoktur. Doktorlar arasında tartışması senelerce devam eden bu sürecin sonunda, kafeinin plasentayı geçmesine rağmen günde 300 mg’dan az tüketildiğinde, bebek için zararsız olacağında karar kılındı. Bu miktar 2 ya da 3 fincan kahveye tekabül etmekle beraber kahvenin sertlik derecesine de bağlıdır. Bunun yanı sıra içinde kafein olan çikolata, çay, kola ve daha birçok meşrubatın da dikkatlice tüketilmesi önerilir.
+\n\n Hamilelikte besin zehirlenmesinden korunmak için 8 öneri \n\n Tükettiğiniz bütün et ürünlerini iyice pişirin.
+Bir besin termometresi yardımı ile etin iç sıcaklığını kontrol edin veya etin orta kısmını iyice pişirin.
+Kalan yemeklerinizi iki saatten fazla dışarıda bekletmeyin. Tekrar ısıttığınızda ise buhar verene kadar ısıtmaya dikkat edin.
+Şarküteri ürünleri (Pizza, sıcak sandviç vb.) ısıtmadan yemeyin.
+Pişmemiş et ürünlerini diğer gıdalardan ayrı muhafaza edin.
+Ellerinizi sıcak sabunlu su ile yıkayın.
+Yıkanmamış gıdalar, çiğ et ürünleri, deniz ürünleri, yumurta ve şarküteri ürünleri ile temas etmiş yüzeyleri de bu şekilde temizleyin.
+Tüketime hazır aldığınız paket ya da konserve ürünleri, son kullanma tarihi geçmemiş olsa dahi bekletmeden tüketin. </string>
+    <string name="onikinci_hafta">Bebeğiniz yaklaşık 6 cm uzunluğunda yani büyükçe bir erik kadar.
+Yüzü insan yüzüne benzemeye başlıyor. Gözleri yerlerini aldı, kulakları şekilleniyor. Saçları uzamaya, yumuşak el ve ayak tırnakları oluşmaya başladı.
+Ağzında, sonrasında süt dişleri olacak 20 küçük tohumcuk oluşuyor.
+Ses telleri doğduktan hemen sonra kullanılmak üzere tamamlandı.
+Bazı kemikleri sertleşmeye başlıyor. Henüz hissetmemiş olabilirsiniz ama uyanık olduğunda başparmağını emebiliyor, hareket ediyor ve tekme atabiliyor.
+Sindirim sistemi çalışıyor ve sindirim kasları esnemeye başlıyor. Buna doğduktan sonra, yediklerini bağırsaklarından itebilmek için ihtiyacı olacak.
+Vücut gelişimi tamamlanmak üzere. Artık organlarının olgunlaşacağı dönem başlayacak ve bu süreç tam 28 hafta sürecek.
+Kemik ilikleri akyuvarları üretmekle meşgul. Akyuvarlar onu doğduktan sonra enfeksiyonlara karşı koruyacak.
+Bu ay yapılacak tahlillerde, bebeğinizin kalp atışlarını duyabileceksiniz.\n\n Bedeninizde adım adım neler oluyor?\n\n Artık karnınız belirmeye başladı. Özellikle, bu ilk hamileliğiniz değilse gebelik kıyafetlerinizi giymeye başlamış olabilirsiniz.
+Mide ekşimesi yaşamaya devam ediyorsunuz. Yattığınızda mide asidi yemek borunuzu aşabilir: yanmaya neden olan sebep bu.\n\n Mide ekşimesi yaşamamak için \n\n
+Günlük sıvı tüketiminizi öğünlerle tüketmektense, öğün aralarında tüketin.
+Daha ufak ve kolay sindirilebilir porsiyonlar yiyin.
+Lokmalarınızı iyi çiğneyin.
+Acı gıdalar, ekşi meyve suları, kahve ve çikolata yemekten kaçının.
+Yatarken kafanızı ve göğsünüzü vücudunuzdan daha yüksekte konumlamaya özen gösterin.
+Vücudunuzun yediklerinizi sindirebilmesi için akşam yemeklerinizi erken tüketin.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="onucondort_hafta">13. Hafta Hamilelik \n\n Şu an bebeğiniz yaklaşık olarak 25 gr ağırlığında ve 8 cm boyunda. Önümüzdeki haftalarda bebeğinizin oranları dengelenecek. Şu an kafası vücudunun 1/3’ü kadar.
+Uyanıkken çok aktif: esniyor, tekmeliyor, dönüyor, küçük parmaklarını oynatıyor.
+Cildinde ince yumuşak tüyler belirmeye başladı.
+Emme ve yutma refleksleri güçleniyor.
+Cinsel organları: yumurtalıklar, testisler gelişti.
+Karaciğeri çalışmaya başladı ve pankreası insülin üretmeye başlayacak.\n\n Bedeninizde adım adım neler oluyor?\n\n Bebeğinizin doğumuna aylar olsa da göğüsleriniz ve süt kanallarınız emzirmeye hazırlanıyor. Yakında “Kolostrum adı verilen sıvıyı üretmeye başlayacaklar. Bu sıvı besinlerle dolu ve bebeğinizi ilk besleyecek süt.
+Göğüsleriniz büyüdükçe ağırlaşıyor ve sertleşiyor. Telli sutyenlerin zararları kanıtlanmış olmasa da, göğüslerinizin doğal değişimini engelleyebileceği, gelişen süt kanallarına zarar verebileceği için birçok uzman, bu sıralarda telsiz sutyen kullanmanızı öneriyor.
+Gelecek hafta ikinci trimestrin ilk haftası başlayacak ve ilk hamilelik belirtileriniz hafifleyecek.
+Vajinal akıntınızın arttığını gözlemlemiş olabilirsiniz. Bu tamamen normal bir durum ve hamileliğiniz boyunca artarak devam edecek. Bu akıntı östrojen artışından ve pelik bölgedeki kan dolaşımının hızlanmış olmasından kaynaklanıyor. Önemli bir amacı var: Doğum kanallarını enfeksiyonlardan korumak ve sağlıklı bakteri sayısını dengelemek.
+Bu dönemde libidonuzun yükselme ihtimali yüksek. Hamileliğiniz süresince cinsellik anlamında gel-gitler yaşayacaksınız. Zaman zaman istekli, zaman zaman isteksiz olabilirsiniz. En iyisi bu konuyu akışına bırakın ve bedeninizin isteklerini dinlemeye çalışın.\n\n
+Lif takviyesi zamanı \n\n Hamilelikte dengeli ve besleyici besin tüketmeniz hem sizin hem de bebeğiniz için önemlidir. Lif ise sindiriminize çok faydalı olacak besinlerden biridir.
+
+İki çeşit lif vardır. Çözünmez lif organlardan parçalanmadan ve erimeden geçer: diğer besinlerin de geçmesini sağlar. Diğer lif türü ise çözünebilirdir. Bağırsakların fermente olmasını sağlar ve böylece sağlıklı bağırsak bakterileri için iyi bir besin kaynağı oluşturur.
+
+Lif sadece bitkisel gıdalardan alınır. Çözünür ve çözünemez lifler genelde bir arada bulunur. Bu bağlamda çeşitli lif kaynaklarından beslenmek iki türün dengelenmesini sağlayabilir.\n\n
+\n\n İyi çözünebilir lif kaynakları
+Çavdar, yulaf, arpa
+Fasulye ve bakliyat
+Meyve ve sebzeler
+Çözünemez lif kaynakları
+Buğday kepeği
+Tam tahıllı gevrek ve ekmek
+Kahverengi (Kepekli) pirinç
+Meyve ve sebzeler
+Tohumlar \n\n
+Lif tüketimini arttıran 2 yemek önerisi \n\n Portakal suyu yerine tam portakal yiyin.
+Sebze çorbası yerine sebzeli fasulye çorbası için.\n\n
+14.Hafta Hamilelik \n\n Bebeğiniz şu an 8,5 cm uzunluğunda.
+Böbrekleri çalışır vaziyette hatta içinde yüzdüğü amniyotik sıvıyı yutup, idrar yoluyla çıkartıyor.
+Göz kapakları gelişiyor ve küçük ince tırnakları beliriyor.
+Boynu gelişmeye başlıyor.
+Saçları dışında, “Languo” denen tüm vücudunu kaplayacak ve onu sıcak tutacak tüyleri uzuyor. Hamileliğinizin ilerleyen zamanlarında bu tüyler, oluşan yağ tabakası ile değiştirilecek.
+\n\n Bedeninizde adımadım neler oluyor? \n\n İkinci trimestıra hoş geldiniz! Bu dönem neredeyse tüm hamile kadınların en sevdiği dönem.
+İlk dönemin rahatsızlıkları hafifliyor ve enerjiniz geri geliyor.
+Sabah bulantılarınız ve tuvalete gitme ihtiyacınız azalıyor.
+Hamilelik kıyafetlerinizi almaya başlayabilirsiniz çünkü artık bir bebek beklediğiniz belli. \n\n 3 adımda Round Ligament ağrısı \n\n Rahminizin büyümesinin muhtemel yan etkisi olarak gözlemlenen “Round Ligament” ağrısı: karnınızın sağ ve sol bölgesinde hissedilir.
+Şuan rahminiz kalın bağlar tarafından desteklenip yerinde tutuluyor. Rahminiz büyüdükçe, bağlarınız da uyum sağlamak ve ağırlığı taşımak için uzar ve incelir. Uzayan ve çekilen bağlarınız da karnınızda hissettiğiniz keskin acıya neden olur.
+Pozisyonunuzu değiştirdiğinizde, öksürdüğünüzde veya aniden yerinizden kalktığınızda bu ağrıyı daha çok hissediyor olabilirsiniz. Bu ağrıyı hafifletmek için ayaklarınızı vücudunuzdan daha yüksekte tutabileceğiniz rahat bir oturma pozisyonunda dinlenmenizi öneririz.
+\n\n K Vitamini takviyesi zamanı \n\n K Vitamini kan pıhtılaşması ve kemik sağlığı için önemlidir. Vücudunuz fazla K Vitamini rezervlerini karaciğerde muhafaza eder bu nedenle az miktarda tüketilmesi gerekir. Fakat eğer bebek anne karnındayken yeterli K Vitamini alamıyorsa, doğumdan sonra nadir görülen bir kanama bozukluğu meydana gelebilir. Sentetik K Vitamini toksik olabileceğinden takviyeler yerine, K Vitamini içeren besinler tüketmeniz önerilir.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız. \n\n K vitamini içeren besinler
+Brokoli, ıspanak, lahana gibi yeşil yapraklı sebzeler
+Sebze yağları, soya yağı
+Yumurta
+Yağsız et
+Süt ürünleri \n\n
+K Vitamini içeren atıştırmalık tarif önerileri
+Ispanak ve peynirli dürüm
+Lahana salatası
+Izgara tavuklu ıspanak salatası
+Süt bazlı, bir kaşık yoğurt içeren meyveli içecek
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="onbesonalti_hafta">
+        15. Hafta Hamilelik \n\n Şu an bebeğiniz yaklaşık 10 cm boyunda.
+Kemikleri sertleşmeye devam ediyor. Bacakları kollarından daha uzun ve bütün eklemleri hareket edebiliyor.
+Kulakları durması gereken yerden biraz daha yukarıda ama son hallerini almak üzereler.
+Tat alma duyusu gelişiyor ve yüz kasları şekillendiği için bazı yüz ifadeleri yapabiliyor.
+Bebeğinizin derisi hala çok ince. Karnınızın içine bakabilecek olsanız, derisinin altından kaburgalarının ve damarlarının göründüğünü fark edersiniz. Şuan oldukça aktifler ve uyanık kaldıkları zamanı vücutlarını hareket ettirip kaslarını uzatarak pratik yapmak için kullanıyorlar. Hatta başparmaklarını emmeye başlamış bile olabilir.
+\n\n Bedeninizde adım adım neler oluyor?\n \n Bu noktada hamilelik hormonları vücudunuzda değişimler yaratmaya başlayacak, özellikle dişler ve dişetlerinde. Bakteri ve plak oluşumunda artış ve iltihaplanma yaşayabilirsiniz.
+Burnunuzun daha fazla aktığını, daha fazla salya salgılandığını ve daha fazla terlediğinizi gözlemleyeceksiniz. Bunun sebebi vücudunuzda sıvı miktarının artmasıdır. Burun kılcalları genişlediğinden kanamaların görülmesi yaygındır.
+Hamilelik boyunca bağışıklık sisteminiz zayıfladığından enfeksiyon ve soğuk alma gibi şikâyetleriniz olabilir. Birçok ilaç, hamilelik için güvenli olmadığından mutlaka doktorunuza danışarak kullanın.
+Zihinsel açıdan hafızanızın eskisi kadar keskin olmadığını hissedebilirsiniz. Dikkat süreniz de kısalmış olabilir.
+Bol bol sıvı alın. Şu an bol sıvı almanız her zamankinden çok daha önemli. Suya ilave olarak süt, meyve suyu ve çorba gibi sıvı gıdalar da tüketilmeli.
+Fiziksel aktivitelerden sonra ve sıcak havalarda daha fazla sıvı tüketmeye dikkat edin.\n\n Hamileyken sıvı alımının önemi\n\n
+İnsan vücudunun %60’ı sudan oluşur ve günde 2 litre civarı su kaybedilir. Bu sıvının geri alınması önemlidir çünkü:
+
+Vücudunuzun sıvı kaybını önler.
+Kanınızdaki besinlerin taşınmasını ve artıkların atılmasını sağlar.
+Hamilelik sırasında görülmesi yaygın olan idrar yolları enfeksiyonu riskini düşürür.
+Sağlıklı bağırsak fonksiyonu sağlar.\n\n Sıvı kaybının belirtileri\n\n Sürekli susuzluk hissi
+Koyu renkli ve sık olmayan idrar  (Günde 3-4 kereden az)
+Sersemlik ve ya baş dönmesi
+Baş ağrısı
+Yorgunluk
+Kuru ağız, dudak ve gözler
+Bu belirtilerden herhangi birini görüyorsanız hemen sıvı almalısınız.\n\n 2 adımda dişeti kanamaları ve diş bakımı \n\n Aynada dişlerinize iyice bakın. Kırmızı, hassas, şişmiş diş etlerinizi ve fırçalama sırasında kanama fark edeceksiniz. Diş etlerinizin bakteri plağına farklı reaksiyon göstermesine, bu sebeple diş eti iltihabına (Jinjivit) sebep olan yine, hamilelik hormonlarıdır. Bunlar tamamen zararsız ve acısızdır. Kendiliğinden geçer.
+Dişlerinize iyi bakmadığınız takdirde Jinjivit, çene kemikleri ve dokularının enfeksiyon kapmasına kadar ilerleyebilir. Anahtar nokta korumadır. İyi bir ağız hijyeni yani düzenli ağız bakımı: günde en az iki kere dişleri fırçalamak ve diş ipi kullanmak, diş eti çekilmesini, kanamayı ve hassasiyeti azaltacaktır.
+\n\n 16. Hafta Hamilelik \n\n Bebeğiniz gelecek haftalarda daha da hızla büyümeye başlayacak. Kilosu iki katına çıkacak ve boyu uzayacak. Ama şu anda bir avokado büyüklüğünde. 11.5 cm boyunda ve 100 gr ağırlığında.
+Artık çok aktif. Bütün kaslarını kullanıp, kollarını hareket ettirip ellerini birleştirebiliyor. Sinir sistemi geliştikçe hareket kabiliyeti de gelişecek.
+Bebeğinizin göz kapakları ve kirpikleri de gelişiyor: gözleri yavaş yavaş hareket edebiliyor. Yüz ifadeleri yapmaya başladı ama henüz bunu kontrol edemiyor.
+Bacakları neredeyse tamamen gelişti, kafası iyice dikleşti. Kulakları da son halini almaya çok yakın. Ayak tırnakları çıkmaya başladı.
+İç organlarında da gelişmeler var. Örneğin kalbi kan pompalıyor ve gelişimi devam ettikçe miktarı artacak.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Gözleriniz hamilelik hormonları yüzünden kuru ve kaşıntılı olabilir. Eğer lens kullanıyorsanız gözlük kullanmaya geçebilirsiniz. Bu sizi biraz daha rahatlatacaktır. Doktorunuzun önerdiği bir göz damlası da kullanabilirsiniz.
+Bu aşamada aşermeniz normal. Hamilelik sırasında pek çok kadın bunu yaşar. Aşermek belirli bir şekilde olabilir, mesela şeftalinin sadece belli bir olgunlukta olanlarını istiyor olabilirsiniz. Daha genel de olabilir, baharatlı acı yemekler istemek gibi. Sağlıklı şeylere aşerdiğiniz sürece endişe duymadan istediğiniz kadar yiyebilirsiniz. Ama besinlerinizi seçerken aşerdiğiniz yiyecek dışında da çeşitliliğin sağlandığından emin olun. Şu an besleyici gıdalar tüketmeniz bebeğin gelişimini ve gelecekteki sağlık durumunu etkileyecek.
+Bazı kadınlar aşermeyi pika denilen şekilde yaşar. Pika alçı, boya parçaları, kil, kömür, tebeşir ve çamaşır deterjanı gibi yenmeyen maddelere karşı duyulan iştahtır. Pikanın mineral eksikliğinden kaynaklandığı düşünülür fakat aşerilen madde her zaman mineral miktarını düzenleyecek madde olmayabilir. Eğer anormal şekilde böyle bir istek duyarsanız doktorunuza danışın.
+\n\n Eğer şekerli ve yüksek yağlı yiyeceklere aşeriyorsanız aşağıdaki sağlıklı alternatifleri deneyebilirsiniz
+\n\n Çikolata yerine kuru meyve
+Bisküvi yerine çörek
+Pasta yerine reçelli tam buğday ekmeği
+Cips yerine zeytin, bir avuç kuruyemiş ya da peynir ve kraker
+Krema bazlı tatlılar yerine meyve bazlı tatlılar\n\n Kilo alımınızı yavaşlatmak için 7 öneri
+\n\n Güne iyi besinli bir kahvaltıyla başlayın. Kahvaltınızda yeterli miktarda protein, karbonhidrat, lif ve biraz sağlıklı yağ içeren besinler yiyin.
+Sebzeler, tahıllar, yağsız et, az yağlı süt ürünleri tüketmeye dikkat edin.
+İşlem görmüş besinlerden, abur cuburdan ve çok şekerli tatlılardan uzak durun.
+Sağlıklı atıştırmalıklar bulundurun: az yağlı peynir ve yoğurt, küçük havuç, taze meyveler gibi... Yağlı besinlere alternatif, tadı güzel olan alternatifler seçin.
+Mesela dondurma yerine yağsız donmuş yoğurt ya da cips yerine patlamış mısır gibi…
+Meyve suyu yerine su için.
+Doktorunuzun onayı ile düzenli olarak egzersiz yapın. Eğer egzersiz rutini oturtamıyorsanız size eşlik edecek bir arkadaş bulun. Bu size gereken motivasyonu sağlayacaktır. Öğle saatinde 20 dakikalık bir yürüyüş bile bir fark yaratabilir.
+\n\n Sağlıklı kilo almak için 4 öneri\n\n Her gün biraz taze meyve ekleyerek bir dondurmalı içecek için. Böylece bolca kalori almış olacaksınız üstelik dondurmanın içerdiği kalsiyumdan da yararlanacaksınız.
+İyi yağlar barındıran besinler tüketin. Çerez (Fındık, fıstık) ve avokado gibi.
+Kuru meyve yiyin. Taze meyve kadar doyurucu olmadığı için daha fazla yemeniz gerekecektir. Böylece daha sağlıklı kalori tüketmiş olursunuz.
+Öğünleriniz arasında sıkça atıştırın. Kendinize sık sık, hem kendiniz hem de bebeğiniz için kilo almanız gerektiğini hatırlatın.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+    </string>
+    <string name="onyedionsekiz_hafta">17.Hafta Hamilelik \n\n Saçları, kaşları ve kirpikleri uzuyor. Ağzını açıp kapatabiliyor. Kapalı olan gözlerini kıpırdatabiliyor. Bebeğiniz de sizinle birlikte kilo alıyor ama henüz vücudunda yeterli yağ yok çünkü yağı depolayan doku yeni oluşmaya başladı.
+Bebeğinizin içindeki tüm majör sistemler oluşmak üzere. 17. haftada, kalbi dakikada 140-150 defa atabiliyor. Solunum sistemi de gelişiyor: göğsü solunum hareketleri yapıyor.
+\n\n Bedeninizde adım adım neler oluyor?\n\n Dengesiz hissetmeye başlamış olabilirsiniz. Göbeğiniz büyüdükçe yer çekim merkezi değişiyor. Bu yüzden zaman zaman ayaklarınız üstünde dengesiz hissetmenize neden oluyor. Düşmenize neden olabilecek durumlardan kaçının. Düz topuklu ayakkabı giyin
+Travmalar sizin ve bebeğiniz için tehlikeli olabilir. Arabaya bindiğinizde, kemerinizi takmayı ihmal etmeyin. Kemerin alt kısmını göbeğinizin altında tutun ve belinizden omuzlarınıza uzanan kısmı göğüslerinizin arasına alın.
+Gözlerinizde hala kuruluk hissediyor olabilirsiniz. Doktorunuza danışarak alabileceğiniz göz damlaları işe yarayacaktır. Lensleriniz sizi rahatsız ediyor olabilir. Gözlük kullanmaya başlamak sizi rahatlatacaktır.
+Kilo almaya devam ediyorsunuz. Bu sizi önce endişelendirebilir. Ama iyi besinler almaya odaklanmalısınız.
+Cildinizde bazı değişiklikler olabilir. Vücudunuzu hazırlamak için özellikle göğüs ve karın bölgesinde cildiniz esneyecektir. Bu durum kaşıntı yaratabilir. Fakat özel kremlerin yardımı ile bu sorunun üstesinden gelebilirsiniz. Hatta hamilelik izlerinden bile korunabilirsiniz.
+Hamileliğin devamında yüzünüzde koyulaşan veya kahverengi olan noktalar ya da kırmızı noktalar belirebilir. Bu noktalar genişleyen damarcıklardan kaynaklanıp, genelde doğumdan sonra kaybolurlar.
+\n\n D Vitamini takviyesi zamanı\n\n D vitamini sağlıklı hamilelik diyeti için önemli bir maddedir. Kalsiyum ve fosfat değerlerinizi dengeler ve bebeğinizin kemik gelişimini destekler. Eksiklik durumunda bebeğinizin kemikleri yeterince güçlenemeyebilir. Hatta bazı durumlarda ciddi sorunlara da neden olabilir.
+D vitamini, bebeğinizin D vitamini rezervleri için de önemlidir çünkü ilk aylarında vücudu buna çok ihtiyaç duyar.
+D vitamini en verimli şekilde, cildin güneş ışınlarına maruz kalmasıyla alınır. Ama bunu yapamıyorsanız D vitamini tüketiminizi belirli besinlerle destekleyebilirsiniz.\n\n
+D vitamin içeren besinler\n\n Yağlı balık: uskumru, hamsi, somon vs. (Fakat balık tüketiminizi içerdiği toksinler yüzünden haftada 2 porsiyon ile sınırlandırmaya dikkat edin.)
+Yumurta  (Özellikle yumurta sarısı)
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 18.Hafta Hamilelik \n\n Bebeğiniz yaklaşık 14 cm ve hızla büyümeye devam ediyor. Artık günlük bir rutini ve uyuma alışkanlığı var. Eğer erkekse, cinsel organları ultrasonda rahatça tespit edilebilir. Eğer bir kızınız olacaksa, rahmi ve yumurta kanalı şekillenip yerlerini buldu.
+Eşsiz parmak izleri oluşmaya başlıyor ve tutuşu güçleniyor.
+Kulakları çalışmaya başladı ve dışarıdan gelen yüksek seslere tepki verebiliyor. Bu tepkiler tekme şeklinde olabilir. Fakat bu sizin ilk hamileliğiniz ise, bu yumuşak hisleri fark etmiyor olabilirsiniz.
+Küçük ciğerlerinde hava torbaları gelişiyor.
+Bu aşamada hıçkırıkla tanışmış olması mümkün ama siz henüz bunu hissedemiyorsunuz.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Yorgun, enerjisiz hissediyor olabilirsiniz. Bu yaygın belirti çoğunlukla hormon değişikliğinden ve daha yoğun çalışan kalbinizden kaynaklanıyor.
+Dolaşım sisteminiz büyük değişikliklerden geçiyor, bu dönem içerisinde tansiyonunuzun normalden daha düşük olması normal.
+Şu sıralar vücudunuza daha özenle davranın: oturduğunuzda veya yattığınızda yavaşça kalkın.
+Gün içerisinde sıkça ve hafif yemekler tüketerek kan şekerinizi dengelemeye çalışın.
+Gün içinde bolca sıvı tüketin.
+Yatakta yan yatın. Eğer sırtüstü yatarsanız, rahiminiz büyük bir damarı tıkayıp, kanın kalbinize geri gitmesine neden olabilir. Bir yastığı belinizin altına veya bacaklarınızın arasına yerleştirerek, konforlu bir pozisyonda uyumaya dikkat edin.\n\n
+Sağlıklı ve enerji verecek atıştırmalık önerileri\n\n Bir avuç dolusu kuru meyve
+Küçük bir kâse dolusu taze meyveli yoğurt
+Tam tahıllı ekmek üzeri sardalya
+Tam tahıllı peynirli kraker
+Meyve smoothie’leri
+Tam tahıllı salatalı tavuk dürüm
+Fıstık ezmeli tam tahıllı tost ekmeği
+Havuç ve humus\n\n 2 adımda Kegels egzersizleri\n\n Kegels nedir? \n\n
+Pelik tabanınızın kaslarını güçlendiren egzersizlere “Kegels” denir. Bu kaslar rahim, mesane, vajina ve rektumunuzu destekleyen kaslardır. Egzersizler, hamilelikte ve sonrasında idrar kaçırmanızı engeller, hatta doğum esnasındaki acıyı hafifletebilir. Rektal bölgenizdeki kan dolaşımını sağladığı için hemoroit oluşumunu önler ve doğumdan sonra dikiş atılması gerekiyorsa yaranın daha çabuk iyileşmesini sağlar.
+
+\n\n Kegels egzersizleri nasıl yapılır? \n\n
+Vajinal bölgenizdeki kaslarınızı idrarınızı tutar gibi iyice kasın.
+Sıkma ve kaldırma tekniği kullanarak pelik tabanınızı çalıştırın. Bu esnada bacaklarınız ve karnınızın gergin olmaması gerekiyor.
+Nefes almayı unutmayın. Bu duruşta 10 saniye boyunca kaldıktan sonra rahatlayın.
+Bu egzersizleri 10’luk setler halinde uygulayın ve günde 3-4 set yapmaya çalışın.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="ondokuzyirmi_hafta">19. Hafta Hamilelik \n\n Bebeğiniz yaklaşık 15 cm boyunda. Geçen haftadan tam 1 cm daha uzun.
+Dilindeki tat tomurcukları tamamen gelişti ve içinde yaşadığı amniyotik sıvının tatlı tadı nedeniyle, tatlı tatları tercih ediyor.
+Hassas duyma yeteneği, yetişkinlerin algılayamadığı çok yüksek ve çok düşük frekansları algılamasını sağlıyor.
+Bebeğinizin damarları şeffaf cildinden görülebiliyor. Verniks denilen mum dokulu beyaz koruyucu zar tüm vücudunu kaplamak üzere gelişiyor.
+Sinirlerinin etrafını saran ve Myelin adı verilen yağlı dokusu gelişiyor. Bu doku sinirleri izole edip, beyin ile kas arasındaki bağlantıyı kuran motor nöronlarını destekliyor. Ve bu durum, hareketlerinin daha koordine olmasını sağlıyor.
+Karnınız büyüdükçe bahaneniz “İki kişi için yiyorum” olabilir. Fakat üçüncü trimestıra ulaşmadan kalorilerinizi fazla arttırmanıza gerek yok. Kalorilerinizi doğru şekilde almanız: sağlıklı bir diyet ile kendinizin ve bebeğinizin tüm ihtiyaçlarını karşılamanız için yeterli.
+\n\n Bedeninizde adım adım neler oluyor?\n\n Muhtemelen büyük olduğunuzu düşünüyorsanız ama gelecek haftalarda daha da hızla büyüyeceksiniz.
+Özellikle pozisyonun değiştirdiğinizde ağrı hissediyor olabilirsiniz. Bu endişelenilecek bir durum değil. Ama ağrı dinlendiğinizde de devam ediyor veya şiddetleniyorsa mutlaka doktorunuzu arayın.
+Avuçlarınızda kırmızılık gözlemliyor olabilirsiniz. Bu, östrojen fazlalığından kaynaklanıyor ve endişelenmenize gerek yok. Cildinizde bazı bölgeler koyulaşabilir. Bunun nedeni de geçici pigment fazlalığı. Eğer bu kararmalar dudağınızda, yanaklarınızda ve alnınızda oluşuyorsa, onlara Hamileliğin maskesi deniyor. Ayrıca meme uçlarınızda, gamze ve yara izlerinizde, kollarınızda ve vulvanızda kararmalar fark edebilirsiniz. Göbek deliğinizden pantolonunuza doğru inen koyu çizgi Kara Çizgi olarak biliniyor. Bu koyu bölgeler doğumdan sonra geçecektir.
+Güneşten korunmayı ihmal etmeyin.\n\n 3 adımda bacak krampları\n\n Hamileliğin bu dönemlerinde, yattığınız zamanlarda bacak krampları yaşıyor olabilirsiniz. Bu kramplar bazı durumlarda, bazı minerallerin eksik olmasından kaynaklanır. Kalsiyum tüketiminizi arttırarak krampları hafifletebilirsiniz.
+Yemeklerinize ağız tadınıza göre tuz ekleyin ama fakat fazla tuz tüketiminden de kaçının. Bu yüksek kan basıncına neden olabilir.
+Kramplar ayrıca yeterince sıvı tüketilmediğinde ve fazla oturulduğunda da oluşabilir.
+Eğer kramplar şiddetlenirse doktorunuza danışın.\n\n Çinko takviyesi zamanı\n\n Çinko bir iz elementi olmasına rağmen, yaşam için önemli fonksiyonlar barındırır.
+
+Vücudunuzun yağı, proteini ve karbohidratları dönüştürmesinde, ona yardımcı olur ve bebeğinizin beslenmesini sağlar.
+
+\n\n Çinko içeren besinler\n\n
+Kuzu ve dana eti gibi kırmızı etler
+Kümes hayvanları özellikle hindi
+Tam tahıllı ekmek ve gevrekler
+Fındık, fıstık
+Süt, peynir ve yumurta
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+20. Hafta Hamilelik \n\n Şu an bebeğinizin boyu yaklaşık 16 cm, ağırlığı 300 gr civarı.
+Beyninin duyuları kontrol eden bölgesi hızla gelişiyor.
+Kalp atışları güçleniyor.
+Kız bebeklerin rahimi gelişiyor ve yumurtalıklarında ilkel yumurtalar oluşuyor. Erkek bebeklerde ise, testisler oluşmaya başlıyor. Eğer ultrason olmak üzereyseniz, doktorunuz bebeğinizin cinsiyetini belirleyebilir.
+Bebeğinizin sinir hücrelerindeki artış yavaşladı ama şu an daha karmaşık bağlantılar kuruluyor. Hatta bebeğinizin sinirleri ve kasları, artık esnemekten keyif almasını sağlayacak kadar gelişmiş durumda.
+\n\n Bedeninizde adım adım neler oluyor?\n\n Normal hamileliklerde ultrason 20. haftada yapılmak üzere planlanır. Amacı bebeğin gelişimini kontrol etmektir ve yaklaşık 60 dakika sürer.
+Ultrasonda doktorunuz bebeğinizin fiziksel gelişimine ve plasentanın pozisyonuna bakar. Bebeğinizin kalp atışlarını duyabilir, el ve ayaklarını ekranda görebilirsiniz. Ama neyin neresi olduğunu anlamak için doktorunuzdan yardım almanız gerekebilir.
+\n\n Demir takviyesi zamanı\n\n Bu dönemde vücudunuzdaki demir oranına dikkat etmelisiniz. Kanınız için önemli olan demiri, dengeli beslenerek alabilirsiniz. Anemi riskini azaltmak için düzenli olarak kontrol edilmeyi ihmal etmeyin.
+Kanınızdaki demir oranı tükettiğiniz diğer şeylerden etkileniyor olabilir. Kalsiyum, çayda ve kahvede bulunan fenolik içerik vücudun demir alımını engelleyebilir.
+C Vitamini ise destekler. Bu yüzden, demir oranı yüksek olan besinler tükettikten sonra, bir bardak meyve suyu veya meyve tüketmeniz yararlı olabilir.
+\n\n Demir oranı yüksek besinler \n\n
+Yağsız et, yağlı balık
+Koyu yeşil sebzeler (Brokoli, tere, ıspanak, karalahana)
+Çerez (Özellikle Kaju fıstığı)
+Bakliyatlar (Nohut, fasulye, mercimek vs.)
+Tam tahıllı ürünler
+Kuru meyve (Kayısı, erik, üzüm vs.)
+Yumurta</string>
+    <string name="yirmibiryirmiiki_hafta">21. Hafta Hamilelik \n\n Şuan bebeğinizin boyu yaklaşık 26 cm, ağırlığı 310 gr.
+İşitme yeteneği geliştiği için sizi konuşurken, şarkı söylerken ve gülerken duyabiliyor.
+Bebeğinizin organları artık, tükettiği sıvıdaki şekerleri az da olsa absorbe edebiliyor. Bu şeker bağırsaklarına ulaşıp dışkı olarak vücudundan çıkıyor. Böbrekleri artıkları artık daha verimli bir şekilde dönüştürebiliyor.
+\n\n Bedeninizde adım adım neler oluyor?\n\n Yüksek ihtimalle şuan gayet rahat hissediyorsunuz. Hamileliğin ilk aylarının rahatsız edici semptomlarından kurtuldunuz. Eğer iyi hissediyorsanız, rahatlayın ve keyfini çıkarın. Çünkü hamileliğinizin son üç ayı yeni zorluklarla gelebilir. Fakat ufak tefek sıkıntılar yaşıyor olabilirsiniz. Mesela cildinizin yağlanması, akne oluşumunu destekleyebilir. Eğer bu oluyorsa cildinizi doğal bir temizleyici ile günde iki defa temizleyin. Kullandığınız kremlerin yağsız olmasına dikkat edin. Ağızdan alınan akne ilaçları kullanmayın.
+Varisleriniz artık daha belirgin. Hatta ailenizde varis sorunu yaşayanlar olduysa muhtemelen bunun için daha yatkın olabilirsiniz. Ve bu durum yaşınız ilerledikçe, tüm hamileliklerinizde daha da belirgin olmaya devam edecek. Varislerinizi azaltmak için devamlı egzersiz yapın ve elinize geçen tüm fırsatları ayaklarınızı yukarı kaldırıp dinlenmek için değerlendirin. Bunun yanı sıra varis çorapları giymek ve sol tarafınızda uyumak da yararlı olacaktır.
+Bileklerinizde, bacaklarınızda ve yüzünüzde kırmızımsı ince, ağ görünümlü varis damarcıkları görebilirsiniz. Bu damarcıklar rahatsızlık vermemekle birlikte doğumdan sonra da kaybolurlar.
+\n\n Omega 3 takviyesi zamanı\n\n LCP olarak da bilinen bu yağların bebeğinizin gelişimi, özellikle beyin ve göz gelişimi için varoluşsal bir önemi var. Yakın zamanda yapılan araştırmalar, Omega 3’ün erken doğumu önlediğini ve bebeklerin daha kilolu doğduğunu gösteriyor.\n\n
+Omega 3’ün faydaları\n\n Göz gelişimini destekler.
+Bebeğinizin ilk aylarındaki hareket kabiliyetini geliştirir.
+Doğumdan sonra ki süreçte, sağlıklı anne sütünün önemli bir öğesidir.\n\n Sağlıklı Omega 3 alımı için besin önerileri
+\n\n Uskumru, somon ve diğer yağlı balıklar (Balık iyi bir Omega 3 kaynağı olsa da, sınırlı tüketilmesi tavsiye ediliyor.)
+Keten tohumu, siyah ve kırmızı fasulye
+Ceviz, fındık, fıstık
+Koyu yeşil sebzeler
+Tam tahıllı ürünler\n\n 3 Omega 3 içeren atıştırmalık önerisi\n\n Tam tahıllı tost ekmeği üzeri uskumru pate
+Buharda pişirilmiş sebzeler yanında ızgara somon
+Bir çanak tam tahıllı kahvaltılık gevrek
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+22. Hafta Hamilelik\n\n Şuan bebeğinizin boyu yaklaşık 27 cm ve ağırlığı 450 gr.
+Bebeğiniz sizi duyabiliyor, tanıyabiliyor ve sesinize tepki verebiliyor. Hatta sesinizi duymak onu rahatlatıyor ve sakinleştiriyor. Onunla sık sık konuşun ya da şarkı söyleyin. Böylece doğumdan sonra, sesinizi duyduğu anda sakinleşmesini sağlayabilirsiniz.
+Düzenli bir uyku ve uyanıklık döngüsü rutini var
+Nefes alıp vermeyi deniyor ama ciğerleri henüz tam anlamıyla çalışmıyor, bu yüzden doğumuna kadar ihtiyacı olan oksijeni plasentadan alacak.\n\n Bedeninizde adım adım neler oluyor?\n\n
+C Vitamini hala dengeli hamilelik diyetinizin önemli bir içeriği. Bebeğinizin kemikleri, dişleri, kasları ve cildi için gereken kolajen oluşumunda önemli rol taşıyor.
+Hamileliğiniz boyunca vücudunuzun her zaman fazladan sıvıya ihtiyacı olacak. Bu ihtiyaç vücudunuzun kan yoğunluğunu arttırmak, fetüsün kolay dolaşımını sağlamak ve amniyotik sıvının ideal değerlere sahip olmasını sağlamak için oluşuyor. Bu süreç boyunca günde en az iki litre su içmeniz gerekiyor. Eğer bu tüketim miktarı gece tuvalet ihtiyacınızı arttırıyorsa, sıvı tüketiminizi günün daha erken saatlerine kaydırabilirsiniz.
+Cildiniz hamilelik hormonlarından etkileniyor. Bu bazı kadınların cildinde tıkalı gözeneklere ve sivilcelere neden olur. Cildinizdeki sivilcelere sıkarak veya dokunarak müdahale ettiğinizde de daha çok artar. Doktorunuzun önereceği doğal cilt bakım ürünleriyle cildinizi düzenli olarak temizleyerek bu sorunu hafifletebilirsiniz.
+Vücudunuzun şekli değişiyor: haftalar geçtikçe cildiniz esniyor ve artık eskisinden daha hassas. Bu dönemde cildinizin kuruluğunu ve tahriş olmasını önlemek için düzenli olarak nemlendirici kremler kullanabilirsiniz.
+Güneş ışınlarından uzak durun veya dışarı çıkmadan önce mutlaka yüksek koruma sağlayan güneş kremleri kullanın. Seçtiğiniz sabun, parfüm ya da deterjanın tarzı ürünlerin doğal olmasına dikkat edin.
+Kıyafet seçerken keten ya da pamuk gibi doğal kumaşlar tercih edin.
+\n\n C Vitamini takviyesine devam\n\n C Vitamini tüketimi hamilelik süresince önemini korur. Hücreleri güçlendirerek sağlıklı kalmalarını sağlar.
+Hem sindirim hem de bağışıklık sisteminin ideal çalışmasını sağlar.
+Kolajen oluşumu için varoluşsaldır.
+Besindeki demirin emilmesini sağlar.\n\n C Vitamini tüketiminiz için besin önerileri\n\n Portakal, kivi, çilek, yaban mersini, limon veya misket limonu
+Taze meyve suyu
+Buharda pişmiş brokoli
+Çiğ ıspanak
+Domates
+Brüksel lahanası
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="yirmiucyirmidort_hafta">23. Hafta Hamilelik \n\n Bebeğiniz şuan yaklaşık 28 cm boyunda ve 500 gr ağırlığında. Hareketlerini ve kıvranmasını karnınızın yüzeyinde görebilirsiniz.
+Şuanda stetoskop ile bebeğinizin kalbini duyabilirsiniz.
+Ciğerlerindeki damarlar gelişiyor: dış dünyada nefes almaya hazırlanıyor.
+İşitme duyusu hassaslaştı. Köpeğinizin havlaması veya süpürgenin uğultusu gibi yüksek sesler artık ona tanıdık geliyor. Büyük ihtimalle doğduğunda o tip sesler artık onu telaşlandırmayacak.
+Bu hafta bebeğiniz hızlıca kilo almaya başlayacak. Gelecek 4 hafta içerisinde kilosu ikiye katlanacak.
+Bebeğinizin kemikleri ve organları 23. haftalık olmasına rağmen şeffaf cildinden görünebiliyor. Ama yağ bağlamaya başladıktan sonra bu şeffaflığı kaybedecek.
+Radyoyu açın ve müzik eşliğinde dans edin. Çünkü bebeğiniz şimdiye kadar gelişen hareket duyusuyla dans ettiğinizi bile hissedebilir.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Ayaklarınızın ve bileklerinizin şişkin olduğunu fark etmiş olabilirsiniz. Hele bir de yaz aylarındaysanız… Vücudunuzdaki kan dolaşımı yavaşladığı için bacaklarınız ödem tutuyor. Bunu tetikleyen bir başka unsur da değişen vücut kimyanız. Ama merak etmeyin, vücudunuz bu fazla sıvılardan doğumdan sonra kurtulacak.
+Her fırsatta bacaklarınızı uzatarak dinlenin. Uzun süre ayakta kalmaktan ve oturmaktan kaçının.
+Gün içinde zaman zaman bacaklarınızı esnetmeye çalışın.
+Rahat ayakkabılar ve destekleyici çoraplar giymeye dikkat edin.
+Düzenli egzersiz yapmaya çalışın ve şişkinlikler canınızı sıksa dahi su tüketimini azaltmayın.
+Eğer bacaklarınızın, ellerinizin, yüzünüzün ve gözlerinizin aniden ve aşırı şiştiğini fark ederseniz hemen doktorunuza danışın.\n\n Kalsiyum takviyesi zamanı
+\n\n Hamilelikte kalsiyum ihtiyacı artmamakla birlikte tüketim kapasiteniz arttığı için kalsiyum tüketiminize dikkat etmeniz gerekir. Kalsiyum hem bebeğinizin kemik ve diş gelişimi için hem de sizin kaslarınız ve sinir sisteminiz için çok önemlidir.\n\n
+Kalsiyum tüketiminiz için besin önerileri\n\n Yağsız süt, krem peynir ve süzme yoğurt
+Konserve somon veya sardalya
+Yeşil yapraklı sebzeler (Brokoli, ıspanak vs.)
+Badem vb. çerezler
+Susam vb. tohumlar
+Fasulye
+Kuru incir ve kayısı
+Kalsiyum takviyeli kahvaltılık gevrek, ekmek veya içecekler\n\n 24.Hafta Hamilelik\n\n Bebeğiniz şuan yaklaşık 30 cm boyunda ve 600 gr ağırlığında.
+
+Artık tam olarak küçük bir bebek gibi görünüyor: oranları doğru, yüzü tüm detaylarıyla oluştu.
+Bebeğinizin ciğerlerinin içindeki baloncuklar ve damarlar gelişmeye devam ediyor. Fakat bebeğiniz bu hafta doğsa, ciğerleri suni destek ile çalışmaya başlayabilecek kadar hazır.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Karnınız gittikçe büyüyor ve bu sırt ağrılarına neden oluyor.
+Eklem yerlerinizi rahatlatmak için düz ve rahat ayakkabılar seçmeye dikkat edin. Her fırsatta bacaklarınızı uzatarak dinlenin.
+Bu aşamadaki hormon dengesizliğiniz size duygusal dengesizlik olarak yansıyor. Heyecan, endişe, korku veya benzeri duygular içinde kayboluyor olabilirsiniz. Eğer bunlarla baş edemiyorsanız endişelerinizi bir yakınınızla paylaşabilir, bebek sahibi olan arkadaşlarınıza danışabilirsiniz. Daha tecrübeli anneler ile iletişim kurmak sizi rahatlatacaktır.
+Geçtiğiniz birkaç hafta içerisinde, rahminiz göbek deliğinizin üstüne doğru ilerledi ve artık bir futbol topu büyüklüğünde.
+Birçok kadının bu hafta ile 28. hafta arası glikoz değerleri ölçülür. Bu GCT olarak bilinen test, kan şekerini ölçüp şeker hastalığının olup olmadığını kontrol etmek amaçlıdır. Diyabet tedavi edilmediği takdirde bebeğin fazla büyümesine neden olur ve bu da vajinal doğumu zorlaştırabilir. Hatta sezeryana dahi neden olabilir. Bu nedenle bu değerlerin ölçülmesi ekstra önem taşır.\n\n
+3 adımda erken doğum ve bilinmesi gerekenler\n\n Genital enfeksiyon, plasentada sorunlar veya rahim boyu yetmezliği gibi bazı erken doğum risk faktörleri bilinse de, birçok erken doğumun tam olarak neden kaynaklandığı bilinmiyor. Bu yüzden tüm hamile kadınlar, erken doğum belirtilerini ve nasıl davranmaları gerektiğini bilmeliler.\n\n
+Erken doğum belirtileri\n\n Vajinal akıntının çoğalması.
+Vajinal akıntıda değişiklik (Aşırı sıvı, mukus veya kanlı -sadece pembe veya hafif kanlı görünse de- vajinal kanama).
+Ağrı, adet ağrısı gibi sancılar veya saatte dört kereden daha fazla kasılma (Sancılı olmasa da).
+Pelvik bölgesinde basınç (Bebeğinizin basınç uygulaması).
+Bel bölgesinde daha önce hissetmediğiniz ağrılar
+Bu semptomlar, özellikle pelvik bölgesindeki baskı veya bel ağrısı, zaman zaman yanıltıcı olabilir. Çünkü normal gebelikte de görülürler. Fakat erken müdahale, geç müdahaleden her zaman daha iyidir, bu yüzden bu semptomları yaşarsanız doktorunuzu aramayı ihmal etmeyin.\n\n
+Erken doğum ihtimali durumunda yapılacaklar\n\n Eğer erken doğum belirtileri yaşıyorsanız hemen doktorunuza bildirin. O sizi büyük ihtimalle hastaneye yönlendirecektir. Oraya vardığınızda, sağlık ekibi kasılmalarınızı, bebeğin kalp ritmini, rahminizi, vajinanızı ve idrarınızı enfeksiyonlara karşı test edecektir.\n\n
+Erken doğum ve zorlukları\n\n Bebeğiniz normal doğum tarihine ne kadar yakın doğarsa, o kadar iyidir.
+
+34. ile 37. hafta arasında doğan bebekler genelde sorun yaşamaz. Fakat geçici ve kalıcı sorunlar için daha fazla risk taşırlar. Diğer tarafta aşırı erken doğan bebekler, erken doğan bebekler için tasarlanmış yaşam destek cihazları ile hayatta kalabilirler. Yoğun tıbbi bakıma ihtiyaçları vardır ve ileride kalıcı sorunlar yaşayabilirler.
+
+Yapabileceğiniz en iyi şey, bebeğiniz için tehlike oluşturacak faktörlerden kaçınmak olacaktır. Sigara, alkol, uyuşturucu tüketiminden uzak durmak: sağlıklı beslenmek, doğum öncesi kontrollerinizi düzenli bir şekilde yaptırmak ve yaşadığınız tüm semptomları/problemleri doktorunuza bildirerek erken doğum riskini düşürebilirsiniz.\n\n 3 adımda Karpal Tünel Sendromu
+ Eğer bileklerinizde ve parmaklarınızda uyuşukluklar hissediyorsanız, bu Karpal Tünel Sendromu olabilir. Bu uyuşukluk hissi genelde sürekli tekrarlanan hareketlerin yarattığı bir sorun ile anlamlandırılır. Fakat Karpal Tünel Sendromu’nu sürekli tekrarlanan hareketler tetiklese de hamile kadınlarda daha farklı nedenlerden dolayı da yaşanıyor olabilir.
+Hamilelikte bileklerde ve bacaklarda çokça görülen şişlikler, bileklerinizdeki sinirlere baskı uygular. Bu durum bileklerde ve parmaklarda uyuşukluk, karıncalanma, acı hissetmenize neden olur.
+Uyurken kollarınızı bir yastık desteği ile yukarda tutarak bu ağrıları hafifletebilirsiniz.\n\n 4 adımda kaşınan kırmızı avuç içleri
+\n\n Kaşınan kırmızı avuç içleri ve zaman zaman ayak tabanları, hamileliğin rahatsız edici ve ancak doğumla ortadan kaybolan semptomlarından biridir.
+Normal ve zararsız bir semptom olmakla bilinmekle beraber yaygın bir komplikasyonu da işaret ediyor olabileceği için, rastlarsanız doktorunuza danışmanız önerilir.
+Ağızda metalik bir tat, artan tükürük salgılama, görüş algısında değişimler diğer garip görünen semptomlar gibi, bu semptomun da nedeni değişen hormonlarınızdır.
+Bu semptomlar ancak doğumdan sonra geçeceği için o zamanda kadar vücudunuzda kızarıklığa neden olabilecek aşırı sıcağa maruz kalmak, uzun süreli sıcak banyo yapmak, fazla dar eldiven ya da çorap giymek gibi hareketlerden kaçınmanız önerilir.\n\n İyot takviyesi zamanı
+\n\n İyot bebeğinizin bilişsel fonksiyonlarını destekler. Ayrıca sizin metabolizma ve hücreleriniz için önemlidir. Bu yüzden iyot, dengeli hamilelik diyetinizin vazgeçilmez bir parçasıdır.
+\n\n İyot içeren besinler\n\n Süt ve süt ürünleri
+Deniz ürünleri
+İyot takviyeli tuz
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="yirmibesyirmialti_hafta">25.Hafta Hamilelik \n\n Bebeğiniz kendisini dış dünya için hazırlamaya devam ediyor: boyu yaklaşık 34 cm uzunluğunda ve 670 gr ağırlığında.
+Saçları uzuyor. Vücudu yağ tutmaya başlıyor. Cildi buruş buruş ve yumuşacık.
+Göbek bağı artık daha kalın ve güçlü. Besinleri ve oksijeni bebeğinize aktarıp artıkları dönüştürülmesi için vücudunuza iletiyor.
+Bebeğinizin koordinasyon duygusu gelişiyor. Artık ellerini sıkabiliyor ve ayaklarına uzanabiliyor hatta hıçkırıyor. Üstelik siz bunların hepsini hissedebiliyorsunuz.
+Ciğerleri ilk solunumuna hazırlanıyor.
+Ağzının etrafındaki sinirler gelişiyor. Bu duyu, bebeğinize meme uçlarınızı bulmasında yardımcı olacak.
+Bu aşamada, bebeğinizin işitme yeteneği babasının sesini tanıyacak, bazı ses ve müzikleri duyduğunda rahatlayacak kadar gelişti.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bebeğinizin saçları uzarken sizin saçlarınız da daha dolgun görünmeye başladı. Saçlarınızın çoğaldığını zannediyor olabilirsiniz. Ama aslında saçlarınız çoğalmıyor, sadece, artık dökülmüyor. Bu durumun olabildiğince tadını çıkarmaya bakın çünkü doğumdan sonra saçlarınız tekrar dökülmeye başlayacak.
+Hareketleriniz kısıtlanmaya başladı ama doktorunuza danışarak egzersizlerinize devam etmenizde bir sakınca yok.\n\n 3 adımda son doktor kontrolleri
+Doktorunuz bu aşamada size:
+
+     1. Fiziksel ve duygusal olarak nasıl hissettiğinizi,
+
+               Kasılmaların, vajinal kanama veya akıntı olup olmadığını,
+
+               Baş ağrılarınızın olup olmadığını,
+
+               Korku, kaygı yaşayıp yaşamadığınızı soracak.
+
+       2. Tansiyonunuzu,
+
+               İdrarınızın ağırlığını ve içeriğini
+
+               Eklem yerlerinizdeki şişkinlikleri
+
+               Bebeğinizin kalp atışlarını ve karnınızı
+
+               Bebeğinizin büyüklüğünü ve pozisyonunu
+
+               Kaşık kemiğiniz ile göbek deliğiniz arasındaki mesafeyi ölçüp bebeğinizin gelişim hızını
+
+                ve rahim boynunuzu kontrol edecek.
+
+       3. Erken doğum semptomları gibi dikkat etmeniz gereken durumları anlatacak.
+
+               Doğum tarihiniz yaklaştıkça da doğum başlangıcı semptomları hakkında bilgi verecek.\n\n Son kontrollerde yapılacak testler
+Doktorunuz durumunuza göre aşağıdaki testleri yapılabilir:
+
+Hematokrit/Hemoglobin: Anemiyi tespit eden bu test gebeliğin son üç ayında tekrarlanır.
+
+Diyabet testi: 24 ile 28. hafta arasında yapılır.
+
+Rh Antikor Testi: Eğer Rh-negatif iseniz antikor testi tekrarlanır. Bebeğinizin kanının sizinkine karışması durumunda (Bu düşük bir ihtimal olsa da) kanınızın antikor üretimi engellenebilir. Bu durum bebeğiniz için tehlike yaratır. Fakat eğer bebeğinizin babasının kan grubu da Rh-negatif ise bu işlem gerekmeyecektir.
+
+Cinsel yolla bulaşan hastalıklara karşı yapılan testler: Klamidya, bel soğukluğu, sifilis gibi rahatsızlıklar için yapılan testlerdir. Bu aşamada HIV testini tekrarlamak faydalı olabilir çünkü HIV’nin erken tespiti bebeğe geçme riskini azaltabilir.
+
+Grup B Strep Testi: 35. ile 37. hafta arasında yapılacak rektal ve vajinal testlerle B streptokok olup olmadığınız tespit edilir. Fakat test pozitif olsa da, tedavi süreci hemen başlatılamaz. Çünkü erken müdahale bakterilerin geri dönüşünü tam olarak engelleyemez.
+
+Biyofiziksel Profil Testi: Bu test eğer belli hamilelik sorunları yaşadıysanız veya doğum tarihini geçtiyseniz yapılır.
+
+Hemoroitler: Bu dönemde hamile kadınların yarısından fazlası, rektal bölgede şiş ve kaşınma hissediyor. Bu durum büyüyen rahimin yarattığı baskı ile o bölgede azalan kan dolaşımından kaynaklanıyor.
+
+Hemoroit tehlikeli olmasa da, acı verici olabilir hatta rektal kanamaya yol açabilir.
+
+Bunun yanı sıra kabızlık da hemoroitleri tetikleyebilir. Bu yüzden yeterince lif ve sıvı tükettiğinizden emin olun.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 26.Hafta Hamilelik \n\n 26 haftalık gebelik sürecinde bebeğiniz gelişimini sürdürüyor. En önemlisi de ciğerleri gelişiyor ve kendini dış dünyaya hazırlıyor.
+
+Şuan bebeğinizin boyu 36 cm ve ağırlığı 670 gr.
+Omurgası gittikçe güçleniyor.
+Ciğerleri gelişiyor, dışarıda da nefes almaya hazırlanıyor.\n\n Bedeninizde adım adım neler oluyor?\n\n Hamileliğinizin bu zamanlarında tansiyonunuz biraz yüksek olabilir. Preeklampsi yüksek tansiyondan kaynaklanan bir durumdur ve çoğunlukla 37. haftada görülür. Fakat daha erken de belirebilir. Bu nedenle semptomlarını bilmenizde fayda var:
+Eğer yüzünüzde ve gözlerinizde, eklem yerlerinizde ve ayaklarınızda aşırı şişlik görüyorsanız   doktorunuzu aramanızı öneririz.Bunun yanı sıra daha şiddetli Preeklampsi ile birlikte farklı semptomlar da yaşıyor olabilirsiniz.
+Eğer başınız yoğun ve sürekli bir şekilde ağrıyorsa, çift veya bulanık görmek gibi sorunlarınız varsa, karın bölgenizde gerginlik veya ağrı hissediyorsanız veya istifra ediyorsanız doktorunuza hemen bildiriniz.
+Hamileliğinizin bu zamanlarında ne kadar aktif olursanız, değişen vücudunuza adapte olmanız, doğum esnasında ihtiyacınız olacak güce kavuşmanız, eski kilonuza dönmeniz daha kolay olur.
+Bu anlamda vücudunuzun limitleri içerisinde sağlıklı ve güvenli egzersizler yapmanız önemlidir.
+Günlük basit egzersizler, yürümek, yüzmek ya da suda yapılan sporlar sizi iyi hissettirebilir. Fakat eğer grup içerisinde spor yapıyorsanız, eğitmeninize hamile olduğunuzu söylemeyi ihmal etmeyin. Yaptığınız egzersizin güvenilir olduğundan emin değilseniz doktorunuza danışın.
+\n\n Hamilelik diyabeti\n\n Hamilelik diyabeti hamile kadınların %5’ini etkiler ve vücudun elde ettiği glikozun verimli kullanılmamasından kaynaklanır. Bu durum en çok hamileliğin son üç ayında görülür. Ama doktorunuz diyabet kontrolünüzü hamileliğinizin 28. Haftası civarı yapacak.
+Hamilelik diyabeti genelde sağlıklı diyet ve egzersizle kontrol altına alınabilir: çoğu zaman doğumdan sonra kaybolur.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.
+</string>
+    <string name="yirmiyediyirmisekiz_hafta">27 haftalık gebelik sürecinde bebeğinizin karakteristik özellikleri oturmaya başladı. Vücut fonksiyonları çalışırken gelişmeye devam ediyor.
+
+Şuan bebeğiniz 37 cm boyunda ve 900 gr ağırlığında.
+Yüzünün karakteristik özellikleri tamamen oturdu.
+Ciğerleri, karaciğeri ve bağışıklık sistemi çalışıyor ama gelişmeye devam ediyor.
+Hamileliğinizin son 3 ayında, plasentanız bebeğinizin bağışıklık sistemini antikorlar sunarak güçlendiriyor. Doğumdan sonra, vücudunuz anne sütü yolu ile bebeğinize antikorlar iletmeye devam edecek.
+Bebeğinizin duyuları da gelişiyor. Retina ile birlikte, bebeğinizin gözleri ışığa karşı hassaslaşıyor. Tat algısı artık o kadar hassas ki, amniyotik sıvıya yansıyan tatları bile ayırabiliyor.
+Bebeğiniz düzenli bir uyku uyanıklık döngüsüne sahip. Gözlerini açıp kapatıyor: hatta parmaklarını emebiliyor. Beyin dokusu geliştikçe, beyin aktivitesi de artıyor.\n\n
+Bedeninizde adım adım neler oluyor?\n\n İşte 27. hafta gebelik boyunca yaşanan ve dikkat etmeniz gerekenler..
+
+Son 3 aylık dönemden geçerken, bebeğiniz hızlıca gelişiyor. Tekmeleri ve hareketleri güçlendi. Vücudunuz size birçok ağrı ve sızı yaşatarak bebeğinize uyum sağlamaya çalışıyor.
+Günlük hayatınızda aktif olmanız, vücudunuzun geçirdiği değişim ile baş etmenizi sağlayabilir. Eğer uyku düzeniniz bozulduysa gün içerisinde daha sık uyku molaları verebilirsiniz.
+Bu sıralar mide yanması yaşıyor olabilirsiniz. Bu, mide sıvısının yemek borusuna doğru bastırılmasından kaynaklanıyor. Bebeğiniz büyüdükçe, organlarının alanları kısıtlanıyor. Ve bu kısıtlama sizde mide yanmasına neden oluyor.\n\n Mide yanmasını hafifletmek için öneriler
+\n\n Uyurken vücudunuzun üst kısmını biraz daha yüksekte olmasına dikkat edin.
+Gün içerisinde sık ve küçük öğünler yiyin.
+Sık sık su için.
+Uyumadan önce vücudunuzun yediklerinizi öğütmesi için zaman tanıyın.
+Doktorunuza danışmadan herhangi bir ilaç almayın.\n\n Mide yanmasını engellemek için uzak durulması gereken besinler
+\n\n Kafein içeren içecekler
+Asidik yiyecek ve içecekler
+Acı ve yağlı yemekler
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 28.Hafta Hamilelik \n\n Şuan bebeğiniz 900 gr’ın biraz üzerinde ve 38 cm boyuna ulaştı.
+Gözlerini kırpabiliyor ve karnınızın dışındaki ışığı algılayabiliyor.
+Beyninde milyonlarca nöron gelişiyor ve vücudu dış dünyaya hazırlanmak yağ bağlıyor.
+Kalbi dakikada 140 kere atıyor ve eğer eşiniz kulağını karnınıza dayarsa bu kalp atışlarını rahatlıkla duyabilir. Bebeğinizin büyümesiyle karnınızdaki alan daralıyor ve böylece siz onun her hareketini hissedebiliyorsunuz.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Hamileliğinizin son 3 aylık dönemi başlıyor. Bundan sonra haftada yarım kilo almaya başlayacaksınız.
+Artık doktorunuzu iki haftada bir kere ziyaret edeceksiniz. Ve doğuma bir ay kala her hafta kontrol edilmeye başlayacaksınız. Doktorunuz risk faktörlerinize göre cinsel yol ile bulaşan hastalıkları tespit etmek için tahliller yapacak.
+Bazı anne adayları hemen hemen bu zamanlarda, bacaklarının alt kısmında rahatsız edici bir karıncalanma hissi yaşıyor. Bu durum rahatsız edici olduğu için bacakların hareketsiz kalmasını engelliyor. Eğer bu karıncalanma hissi siz bacaklarınızı hareket ettirdiğinizde geçiyorsa, Huzursuz Bacak Sendromu yaşıyor olabilirsiniz.
+Sindirim sisteminiz hamileliğin son 3 ayında daha yavaş çalışıyor olabilir. Hamilelik hormonları ile büyüyen bebeğinizin yarattığı baskı, şişkinlik ve hazımsızlık yaratabilir.
+              Bu durumu hafifletmek için:
+
+              *Daha az fakat sık yemek tüketin.
+
+              *Yemek yerken ve yedikten sonra bir süre dik oturun.
+
+              *Kızarmış yağlı ürünler, meyve suları ve baharatlı yemekler gibi vücudunuzun kolayca sindiremeyeceği besinlerden uzak durun.
+\n\n 3 adımda Preeklampsi\n\n Preeklampsi, hamile kadınların %5’ini etkileyen ciddi bir rahatsızlıktır. Teşhisi hamileliğin 20. Haftasında, yüksek tansiyon dışında en az bir belirti daha varsa konulur. Bu belirtiler arasında idrarda protein bulunması, ciğer veya böbrek anormallikleri de olabilir.
+
+Çoğu kadında doğuma yakın hafif Preeklampsi semptomları oluşur ama doğru tedavi ile ne anne adayı ne de bebek sorun yaşar. Eğer Preeklampsi şiddetli ise, birçok organı etkileyebilir ve ciddi hasarlar yaratabilir\n\n Preeklampsi semptomları
+\n\n Preeklampsi aniden oluşabilir, bu yüzden semptomlarını bilmek önemlidir. Eğer aşağıdaki semptomlar görülüyorsa bir an önce doktorunuzla iletişime geçmenizi öneririz.
+
+Yüzünüzde ve gözlerinizde, eklem yerlerinizde ve ayaklarınızda aşırı şişlik
+Ani ve hızlı kilo alımı (Haftada 2-2,5 kilo)
+Şiddetli ve sürekli baş ağrısı
+Görüşünüzde çift ya da bulanık görme gibi sorunlar
+Karın bölgenizde gerginlik veya ağrı
+Sürekli kusma, gibi semptomlar yaşıyorsanız hemen doktorunuzu aramanızı öneririz.
+Preeklampsi’nin çok belirgin semptomlar yaşamıyor olsanız da oluşma ihtimali vardır. Yani Preeklampsi olup olmadığınızı doğum öncesi kontrolünüze kadar anlayamayabilirsiniz. Bu yüzden kontrollerinizi ihmal etmemelisiniz.\n\n Preeklampsi risk faktörleri
+\n\n Preeklampsi ilk hamileliklerde daha sık görülür. Yine de, eğer bir kez Preeklampsi yaşadıysanız büyük ihtimalle tekrarlamayacaktır.
+
+\n\n Diğer risk faktörleri\n\n
+Yüksek tansiyon
+Diyabet
+Böbrek hastalıkları
+Lupus
+Ailede daha önce görüldüyse
+Yüksek kilo
+Birden fazla bebek bekliyorsanız
+40 yaşın üzerindeyseniz\n\n Preeklampsi’yi önlemenin bir yolu var mı?\n\n Preeklampsi’nin nasıl engelleneceği henüz bilinmemekle beraber bu alandaki araştırmalar devam ediyor. Bazı risk faktörü taşıyan kadınların düşük dozajlı aspirinden yararlanabildikleri biliniyor. Fakat doktorunuz onaylamadan aspirin dahi olsa hiçbir ilacı kullanmayın.
+
+Doktor kontrollerinizi ihmal etmeyin.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="yirmidokuz_hafta">29.Hafta Hamilelik \n\n Şuan bebeğiniz yaklaşık 40 cm boyunda ve 1,1 kg ağırlığında. Bu haftadan sonra daha da hızlı büyümeye başlayacak.
+Beyni, solunumunu ve vücut ısısını kontrol etmek için yeterince gelişmiş vaziyette.
+Ciğerlerinin karışık yapısı nefes alıp vermesi için yeterince gelişti. Ama hala tek başına işlevini yerine getiremiyor.
+Fark etmiş olsanız gerek: karnınızdaki hareketliliği devam ediyor. Hareketlerinin belli bir ritmi ve düzeni bile oluştu. Mesela, siz yemek yedikten sonra veya dinlendiğinizde daha aktif olabiliyor. Fakat bu süreç içerisinde bebeğinizin hareketlerinin gözlemlediğiniz ritmin dışına çıktığını gözlemlerseniz doktorunuzu aramayı ihmal etmeyin.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Karnınız hızla büyüyor. Ağrıyan eklem yerleriniz, mide ekşimesi ve sıkça oluşan tuvalet ihtiyacınız, rahat uyumanızı etkileyebilir. Sol tarafınıza yatarak, kan dolaşımınızı, sindirim sisteminizi ayrıca ciğer ve böbreklerinizin fonksiyonlarını daha rahat yerine getirmesini sağlayabilirsiniz. Ya da birkaç yastık yardımı ile vücudunuzun pozisyonunu destekleyebilirsiniz. Mesela bacaklarınızın arasına bir yastık koymanız kalçanızı ve belinizi rahatlatmanızı sağlayacaktır.
+Sırtüstü uyumayı tercih ediyorsanız, sol tarafınızı bir yastık ile hafifçe kaldırın. Bunu yapmanız, vücudunuzun alt kısmından kalbinize kan akışını sağlayan Vena Kava adlı venanın basıncını hafifletecektir.
+Gecede birkaç kez tuvalet ihtiyacınız oluşabilir. Bu yüzden tavsiye edilen 2 lt sıvıyı günün daha erken saatlerinde tüketip, tuvalete yatmadan önce gidebilirsiniz.
+Mide ekşimesi ve kabızlık devam ediyor. Progesteron adlı hormon kaslarınızı rahatlatıyor ve bu yüzden sindiriminiz yavaşlıyor. Yavaş sindirim ve daralan karnınız, gaz ve mide ekşimesine neden oluyor. Özellikle de büyük öğünler tüketiyorsanız. Sık ve küçük öğünler şeklinde yerseniz biraz daha rahat edebilirsiniz.
+Hemoroit sıkıntısı yaşıyor olabilirsiniz. Öyle ise soğuk kompresler ve oturma banyoları yararlı olabilir. İlaç kullanmayı düşünüyorsanız önce doktorunuza danışmayı unutmayın.\n\n 30.Hafta Hamilelik \n\n Şuan bebeğiniz yaklaşık 40 cm boyunda ve 1,3 kg ağırlığında.
+Minik ayak tırnakları çıkmaya başlarken, beyni ve akciğerleri olgunlaşmaya devam ediyor.
+Şimdiye kadar bebeğinizin beyin yüzeyi pürüzsüzdü. Fakat şimdi karakteristik oluklar ve çukurlar oluşmaya başladı.
+Artık bebeğinizin vücut sıcaklığını beyni ve yeni yağ hücreleri düzenlemeye başlıyor. Bundan önce bebeğinizin vücudunu kaplayan Laguna denen yumuşak tüyler yok olmaya başladı.
+Bebeğinizin kemik ilikleri, alyuvar hücreleri üretimi görevini üstlendi. Bu bebeğiniz için önemli bir adım çünkü bu onun doğduktan sonra kendi gelişimini sağlayabileceği anlamına geliyor.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bu günlerde biraz yorgunluk hissediyor olabilirsiniz, özellikle uyku problemi yaşıyorsanız. Zaman zaman dengenizi kaybediyor bile olabilirsiniz. Karnınızda büyüyen bebeğinizle birlikte, artık biraz daha ağırlaştınız. Ayrıca hormon değişimleriniz sebebiyle, bağ dokularınız gevşedi ve dengenize destek olan eklemleriniz güçsüz kaldı.
+Ruh hali değişimleriniz devam ediyor. Rahatsızlık veren semptomlar ve hormonal değişimler duygusal iniş çıkışlara sebep oluyor.
+Doğumunuzun nasıl gerçekleşeceği ya da nasıl bir ebeveyn olacağınız konusunda endişelenmeye başlamış olabilirsiniz. Ama bu hislerle baş etmekte zorlanıyorsanız ya da gerginlik ve huzursuzluğunuz artıysa doktorunuza danışabilirsiniz.
+Hamileliğin bu son aşamasında idrar yolları sorunları yaşayabilirsiniz. Özellikle idrar yaparken yanma hissinin yaşandığı sistit görülebilir. İdrar yolları enfeksiyonu geçirdiğinizi düşünüyorsanız geciktirmeden doktorunuza danışın. Bolca su içmeniz ve ihtiyaç hissettikçe tuvalete gitmeniz enfeksiyonu atmak için önemlidir.\n\n Demir takviyesi zamanı
+Demir, hamilelik sırasındaki anahtar besinlerden biridir. Vücudunuzda dolaşan kan hücrelerine oksijen taşır, plasenta yoluyla bebeğinize iletir ve bebeğinizin gelişiminde önemli rol oynar. Bu sebeple hamilelik süresince et, yağlı balıklar ve yumurta gibi demir açısından zengin yiyecekler tüketmek önemlidir.
+Birçok hamile kadın yalnızca beslenme diyetiyle gerekli demir seviyesine ulaşır. Fakat demir seviyeniz düşük çıkarsa doktorunuz demir takviyesi yapmanız tavsiye edecektir.
+Bazı yiyeceklerin demir emilimini engelleyebileceğini unutmamak gerekir. Mesela C Vitamini demir emilimine yardımcı olurken kalsiyum, tam tersi bir etki gösterebilir. Tabi ki bu besinleri ihmal edeceğiniz anlamına gelmiyor. İhtiyacınız olan demiri iyi dengelenmiş bir diyetle alabilirsiniz.\n\n Demir takviyesi için besin önerileri
+\n\n Yağsız et ve sardalya gibi yağlı balıklar
+Brokoli, tere, karalahana gibi koyu yeşil sebzeler
+Kuruyemiş, özellikle kaju
+Bakliyat, nohut, fasulye ve mercimek
+Ekmek, demir ilaveli kahvaltılık gevrek gibi tam buğdaylı ürünler
+Kayısı, üzüm, erik gibi kuru meyveler
+Yumurta
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="otuzotuzdort_hafta">30.Hafta Hamilelik \n\n Şuan bebeğinizin boyu yaklaşık 41 cm ve ağırlığı 1,45 kg. Hala kilo alıyor ama boyunun uzaması biraz yavaşladı.\n\n Hamileliğinizin bir önceki haftası hakkında bilgi sahibi olmak için 30. hafta hamilelik yazımızı okuyabilirsiniz.
+
+Rahminizdeki sıvı miktarı artıyor. Bebeğiniz doğana kadar bu amniyotik sıvıyı içine çekmeye ve yutmaya devam edecek. Ve idrar olarak vücudundan atacak.
+Bebeğinizin göz pigmentleri gelişiyor. Ama gözlerinin gerçek rengine ulaşması doğumdan sonra ki aylarda olacak.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bedeninizde adım adım neler oluyor?\n\n Bebeğiniz hızlı bir şekilde gelişiyor ve kilo almaya devam ediyor. Bu aşamada yorgun ve nefessiz hissetmeniz yaygın ve normal bir durum.
+Bunun yanı sıra nefessiz hissetmek bu aşamada sık yaşanıyor olsa da nefes darlığı bir anemi belirtisi olabilir. Anemi demir eksikliği nedeniyle olur. Daha çok hamilelik süresince yaşanır. Çünkü kanınızda alyuvarlarınızı seyreltecek çok daha fazla sıvı vardır. Anemi, diyetinize demir kaynağı besinler ve yan ürünler ekleyerek kolayca tedavi edilebilir. Bu konuda endişeliyseniz doktorunuzla konuşabilirsiniz.
+Göğüslerinizde Kolostrum yani ilk süt akıntısı fark etmiş olabilirsiniz. Öyleyse, kıyafetlerinizi korumak için sutyeninizin içine emzirme pedi sıkıştırmayı deneyin. Şuan ki sutyeniniz çok sıkıysa emzirme sutyeni alabilirsiniz. Normalde kullandığınız sutyen ölçüsünün bir büyük boyunda bir emzirme sutyeni alın.\n\n
+2 adımda Braxton Hicks\n\n Çoğu kadın hamileliğinin ikinci yarısında yaklaşık 30 saniye süren, düzensiz kasılmalar yaşar. Bu kasılmalara Braxton Hicks denir. Seyrek ve acısızlardır. Diğer yandan bu sık kasılmalar acısız olsa bile erken doğum belirtisi olabilir.
+Bir saat içinde dörtten fazla kasılmanız olursa veya başka erken doğum belirtileri (Vajinal akıntıda artış veya değişme: Sulu, mukusumsu, kanlı, pembe veya çok az kanlı), karın ağrısı veya adet ağrısına benzeyen kramplar, pelvik bölgede baskı artışı, sırtın alt tarafında daha önce hissetmediğiniz bir ağrı fark ederseniz hemen doktorunuzu arayın
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 31.Hafta Hamilelik\n\n Bebeğiniz adım adım büyüyor ve gelişmeye devam ediyoru. Hamileliğin 32. haftasında bebeğinizin durumu ile ilgili yaşananlar aşağıdaki gibidir:
+
+Bebeğiniz artık 42 cm boyunda ve 1,6 kg ağırlığında. Bu aşamada, 4 bebekten 3’ü doğum pozisyonunu almış oluyor.
+Bebeğinizin ciğerleri ve sindirim sistemi dışında tüm organları hazır.
+Uyanık olduğunda, yeni doğmuş bir bebeğin yaptığı birçok şeyi yapabiliyor. Ayaklarını tutup, parmaklarını emebiliyor.
+Kirpikleri, kaşları ve saçları artık görülür vaziyette. Birçok yüz ifadesi yapabiliyor.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Ara sıra, rahminizdeki kasların gerildiğini hissedebilirsiniz. Çoğu kadın doğum yaklaştıkça Braxton Hicks olarak bilinen bu hafif, sahte kasılmaları hisseder. Özellikle de ikinci çocuğuna hamile ise.
+Bu kasılmalar, az su tüketildiğinde daha sık görülür: bu yüzden bolca sıvı tüketmeyi ihmal etmeyin.
+Kan yoğunluğunuz hem kendinizin hem de bebeğinizin ihtiyaçlarını karşılamak için %40-% 50 oranında arttı. Rahminiz diyaframınıza baskı uyguladığı için mide yanması ve nefes darlığı yaşıyor olabilirsiniz.
+Siyatalji de bu sürede sıkça görülen şikâyetlerden biridir. Genelde bebeğinizin siyatik sinirinizi sıkıştıracak açıda konumlanmasından kaynaklanır. Bu yüzden, belinizde ve bacaklarınızda keskin bir ağrı hissedebilirsiniz. Yerde bağdaş kurarak oturmayı veya sandalye yerine jimnastik topu kullanmayı deneyebilirsiniz.
+Eğer otururken ağrı çekiyorsanız, belinizi bir yastık ile destekleyin.  Sol tarafınız üzerinde uyumak faydalı olabilir. Ağrılarınızı hafifletmek için, sırtınıza sıcak veya soğuk kompresler uygulayabilirsiniz. Sırt üstü uyurken belinizin altına bir yastık koymanız rahatlatıcı olabilir.
+Hamileliğin bu aşamasında, kesinlikle ağır yük kaldırmayın ve topuklu ayakkabı giymeyin. Eğer siyatalji ağrısı çoğalıyorsa, doktorunuza haber verin: o sizi bir fizik tedavi uzmanına yönlendirebilir.
+\n\n D Vitamini takviyesi zamanı\n\n Bebeğinizin kemik sağlığı için en önemli besinlerden biri olan D Vitaminini hamileliğinizin son üç ayında, yemeklerinize dâhil etmeniz önemlidir.
+D Vitamini kemik sağlığı için önemli olan fosfor ve kalsiyum değerlerini dengeler.
+Çok nadir görülse de annenin D Vitamini eksikliği, bebeğin kemiklerinin yumuşamasına ve kemik hastalıklarına neden olabilir. Bu süreçte tükettiğiniz D Vitamini, bebeğinizin ilk aylardaki ihtiyacını karşılamasına yardımcı olur.
+Aslında D Vitamini cildiniz güneş ışınları ile temas kurduğunda vücudunuzda üretilir. Eğer güneş ışınları ile kurduğunuz temas yeterli değilse, doktorunuza danışarak D Vitamini takviyesi alabilirsiniz.\n\n 32.Hafta Hamilelik \n\n Şuan bebeğiniz yaklaşık 1,85 kg ağırlığında ve 44 cm boyunda.
+Bebeğiniz duyabiliyor, hissedebilir ve hatta görebiliyor.
+Gözleri ışığı algılayabilir ve buna göre gözbebekleri büyüyüp küçülüyor.
+Bağışıklık sistemi güçleniyor.
+Bebeğinizin cildi biraz daha kalınlaştı ve buruşuk uzaylı görünüşünü hızlıca kaybediyor. İskelet yapısı ve kemikleri sertleşiyor.
+Kafatasındaki kemikler henüz birbirine kaynamadı. Bu durum kemiklerin hareket etmesini ve hafifçe üst üste gelmelerini sağlıyor. Bu bebeğinizin doğum kanalına daha kolay girmesini sağlayacak. (Doğum sırasında kafada oluşan baskı çok fazladır ve bu yüzden çoğu bebek koni görünümlü bir kafayla doğar.) Bu kemikler erken yetişkinliğe kadar tam anlamıyla kaynamaz bu yüzden bebeklik ve çocuklukta beyin büyüdükçe ve diğer dokular genişledikçe kemikler de büyürler.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bebeğiniz karnınızda büyüdükçe farklı hareket etmeye başlıyor olabilirsiniz. Mesela daha önce sallanarak yürürken şimdi paytak paytak yürüyor olabilirsiniz.
+Uyumak şöyle dursun oturmak için kolay bir pozisyon bulmakta bile zorlanıyor olabilirsiniz. Evde ya da dışarda sürekli bir şeylere çarpıyor olabilirsiniz. Bu gayet normal bir durum.
+Parmaklarınızda, bileklerinizde, ellerinizde ağrı ve uyuşukluk hissedebilirsiniz. Vücudunuzdaki tüm diğer dokular gibi bilekleriniz de su toplayabilir ve bu durum Karpal Tüneli’ndeki baskıyı arttırabilir. Bu kanaldaki sinirler sıkıştığında hissizlik: karıncalanma, sızlama, yanma veya keskin bir ağrı yaratabilir.
+Bileğinizi sabit tutmak için bileklik takmayı veya uyurken kolunuzu bir yastık yardımıyla havaya kaldırmayı deneyin. Eğer işiniz tekrarlı el hareketleri gerektiriyorsa (Mesela sürekli klavye kullanmak) sık sık ellerinizi esnemeyi unutmayın.
+Hormonsal değişikliklerle gelen gece yarısı tuvalete koşmalar, bacak krampları, mide ekşimesi ve basketbol topu büyüklüğünde karnınız tabii ki uyumanızı zorlaştıracaktır. 3. Dönem insomniyası kadınların yaklaşık dörtte üçünde görülür. Bu yaklaşan doğumunuz ve bebek gelmeden önce yapmanız gerekenler konusundaki endişelerinizden de kaynaklanabilir.
+Hamileliğin 33.haftasında vücudunuzun dinlenmeye ihtiyacı vardır. Bu yüzden endişelenmek ya da dakikaları saymak size yardımcı olmayacaktır. Hamilelik insomniyası aslında yaklaşan uykusuz geceler için harika bir alıştırmadır.
+Siz de bebeğiniz de büyüyorsunuz. Artık daha fazla enerjiye ihtiyacınız var. Tüketeceğiniz besinlerin miktarı değil kalitesi önemli. Bu dönemde D Vitamini, Demir, LCP, DHA tüketmeniz gereken en önemli besinler.
+Fiziksel ve hormonel değişiklikler yüzünden mide yanması ve hazımsızlık çekiyorsunuz. Fakat aslında mideniz küçüldü çünkü bebeğiniz daha fazla yer kaplıyor. Sık ve küçük öğünler günü daha rahat atlatmanızı sağlayacaktır. Yemeklerinizi yavaş ve çok çiğneyerek yemeye özen gösterin.\n\n Eğer ekşime, mide yanması ve hazımsızlık hissediyorsanız bunları yemekten vazgeçin
+Baharatlı ve yağlı yemekler
+Çikolata
+Turunçgiller
+Kahve
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n
+34.Hafta Hamilelik \n\n Doğuma sadece 6 hafta kaldı. Şuan bebeğinizin boyu yaklaşık 45 cm ve ağırlığı 2 kg’ın biraz altında. Bu fazladan aldığı ağırlığın bir kısmı, sertleşen kemiklerinden geliyor. Sadece kafasındaki kemikler sertleşmiyor: onlar doğumda maruz kalabileceği baskıya uyum sağlayabilmek için bir süre daha yumuşak kalacak.
+Cildi biraz kalınlaştı. Doğumdan sonra vücut ısısını kontrol edecek ve onu sıcak tutacak bir yağ tabakası oluştu. Verniks tabakası (Bebeğin cildini koruyan krem dokusundaki tabaka) kalınlaşıyor ve Lanugo saçları neredeyse tamamen kayboluyor.
+Bebeğinizi dış dünyaya hazırlamak için antikor üretmeye devam ediyorsunuz.
+Bu aşamada çoğu bebek doğum pozisyonunu almış oluyor.
+Eğer karnınızın içini görebilseydiniz, bebeğinizin tırnakları parmak uçlarını geçecek kadar uzun olduğunu görebilirdiniz.
+Eğer erkekse testisleri artık görülebilir.\n\n Bedeninizde adım adım neler oluyor?\n\n Doğum yaklaşıyor: artık doğum çantanızı hazırlamaya başlayabilirsiniz. Ama bebeklerin sadece %5’inin beklenen zamanda doğduğunu da hatırlatmak yararlı olabilir.
+Bebeğiniz doğduktan sonra tüm besinini anne sütünden alacaktır. Bu yüzden emzirme süreci için sağlıklı beslenme alışkanlıkları edinmeniz çok önemli. Hamilelikte olduğu gibi, vücudunuz ilk önce bebeğinizin ihtiyaçlarını karşılayacak. Bu yüzden, ikinizin ihtiyaçlarını da karşılayabilmek için sağlıklı ve dikkatli beslenmelisiniz.
+Emzirirken önemsemeniz gereken başka bir konuda, tükettiğiniz sıvıdır. Emziren annelerin 2,7 litre sıvı tüketmeleri tavsiye edilir. Çay, süt, meyve suyu, çorba da bu rakama dâhildir. Hamileliğinizin son haftalarında bol sıvı tüketmeniz, ayrıca önemlidir. Bu yüzden bu alışkanlığı edinmenizin tam zamanı olduğu söylenebilir.\n\n Son haftalar ve emzirmeye başlangıç dönemi için sağlıklı atıştırmalık önerileri
+\n\n  Domatesli sardalyalı tost
+Uskumru pate kraker ve salatalık
+Taze tuna et yanında patates ve taze fasulye
+Izgara somon salata
+Balık tüketimini haftada 2 porsiyon olarak kısıtlamayı unutmayın.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="otuzbesotuzyedi_hafta">35 haftalık gebelik sürecinde vücudunuz doğuma hazır hale gelmeye başlıyor. Artık doğuma çok kısa bir süre var ve bebeğiniz de gelişim sürecini tamamlamak üzere.
+
+Bebeğinizin boyu şuan yaklaşık 45 cm. Neredeyse doğmaya hazır ve hızla büyüyor.
+Vücudunuz ise çoğalan talepleri yerine getirmeye çalışıyor. Şu sıralar kabız olmaya yatkın olduğunuzu hissedebilirsiniz. Öğünlerinize lif ekleyerek bu durumu dengeleyebilirsiniz.
+Fetal pozisyonda yaptığı dönme, kıvrılma gibi hareketleri karnınızın yüzeyinde görebilirsiniz.
+Ciğerleri ve sinir sistemi son hazırlıklarını tamamlıyor.\n\n Bedeninizde adım adım neler oluyor?\n\n Çok yorgun ve ağır hissediyorsunuz. Ve bu şaşırtıcı değil. Bir zamanlar pelik bölgenizde saklı olan rahiminiz, artık kaburgalarınıza dayanıyor.
+Hamileliğinizin ilk zamanlarında yaşadığınız dengesiz ruh hali geri geliyor.
+Memelerinizden kolostrum olarak tanımlanan sıvı akmaya başlıyor. Bu sıvı, bebeğiniz doğduğunda vücudunuzun ürettiği ilk süt ve çok fazla besin içeriyor. Sutyeninizin içerisine akan sıvıyı tutan, emziren anneler için tasarlanmış özel pedlerden yerleştirebilirsiniz.
+Sık sık çok canlı rüyalar görmeye başlamış olabilirsiniz. Hamilelikte görülen rüyalar, normalden daha tuhaf olabiliyor. Bu etkileyici rüyalar, hamilelikte yaşadığınız değişken hislerin, duyguların ve düşüncelerin yansıması. Vücudunuz ve hayatınız ile ilgili değişiklikler, size korku veya heyecan yaşatabiliyor. Hayal dünyanızdan rüya günlüğü yazarak keyif almaya çalışabilirsiniz.
+Bazı rüyalar büyüleyici olmak yerine ürkütücü olabilir. Doğum veya bebeğiniz ile ilgili gerçekmiş gibi görünen kâbuslar görebilirsiniz. Eşiniz ya da doktorunuzla rüyalarınız hakkında konuşmanız yararlı olacaktır. Onlar da bu rüyaların normal olduğunu teyit edeceklerdir.
+\n\n Lif takviyesi zamanı\n\n Hamileliğin bu zamanları kabız olmaya yatkın olduğunuzu hissedebilirsiniz. Bu durumu öğünlerinize lif ekleyerek dengeleyebilirsiniz.
+İki çeşit lif vardır: Çözülen lifler ve çözülmeyen lifler. Çözülen lifler bağırsaklarda çözülür, diğer tür ise çözülmeden sindirim sisteminden geçer. Lif tüketiminizi yavaşça çoğaltmanız, sindirim sisteminiz için daha doğrudur.
+Bol miktarda sıvı tüketmeniz, yoga ve yürüyüş gibi hafif egzersizler yapmanız tavsiye edilir.
+Bazı demir takviyeleri de kabızlığa neden olabilir. Bu konuya doktorunuza danışabilir, alternatif takviyeler isteyebilirsiniz.
+\n\n Lif tüketimi için besin önerileri\n\n Patates püresi yerine fırında patates
+Portakal suyu içmek yerine, portakal yemek
+Sebze çorbası yerine fasulyeli sebze çorbası
+Körili tavuk ve pilav yerine mercimekli körili tavuk ve kepekli pilav.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 36.Hafta Hamilelik\n\n Bebeğiniz şuan yaklaşık 2,7 kg ve boyu 47 cm.
+Bebeğinizin yanaklarındaki yağ ve güçlü emme kası, yüzünü daha dolgun gösteriyor.
+Alanı dar olduğu için özgürce hareket edemiyor fakat bunu başardığında ellerinin ve ayaklarının izlerini karnınızda görebilirsiniz.
+Doğum pozisyonunu aldı: yani kafası aşağıda.
+Sindirim sistemi anne sütünü sindirmek için hazır.
+Parmak emme, soluma ve yutma gibi aktiviteleri, kaslarını ve organlarını ilk öğününü tüketip sindirmek için hazırladı.
+36. haftada, bebeğiniz nefes almaya hazır.\n\n Bedeninizde adım adım neler oluyor?\n\n Bebeğiniz karnınızda bu kadar yer kaplıyorken, normal pozisyonlarda oturmak, kalkmak, uyumak çok zor.
+Bu dönemde küçük ve sık öğünler tüketmeniz faydalı olabilir. Ama merak etmeyin: bebeğiniz pelik bölgeye yaklaştıkça rahatlayacaksınız. Bu duruma Engajman deniyor ve genelde doğumdan birkaç hafta önce gerçekleşiyor.
+Bebeğinizin pozisyon değişikliği ile birlikte, mesanenize daha fazla baskı uygulanıyor. Bu yüzden, daha sık tuvalet ihtiyacı hissediyor olabilirsiniz. Fakat bu yüzden sıvı tüketiminden kaçınmayınız. Fiziksel aktivitelerden sonar da daha fazla sıvı tüketmeyi ihmal etmeyin.
+Tüketmeniz gereken sıvı miktarının çoğunu günün erken saatlerinde tüketip, uyumadan önce daha az sıvı tüketebilirsiniz. Böylece uykunuzun sıkça bölünmemesini sağlayabilirsiniz.
+Braxton Hicks kasılmalarınız artmış olabilir. Doğumun işaretlerini doktorunuzla tekrar konuşmalı ve hangi belirtileri hissettiğinizde doktorunuzu aramanız gerektiğini öğrenmelisiniz. Normal şartlarda, hamilelik suyunuz gelmeden ve kasılmalar bir dakikayı geçmemişken doktorunuzu aramanız gerekmez. Fakat bebeğinizin hareketlerinde azalma, amniyotik sıvı akıntısı, görüşünüzde sorunlar, vajinal kanama, şiddetli ateş, baş ağrısı veya karın ağrısı hissettiğinizde doktorunuzu aramanız gerekecektir.
+Eğer sorunsuz bir hamilelik geçiriyorsanız son ayınızda uçuşlardan veya uzak yerlere seyahat etmekten kaçının.
+Doğumun işaretlerini doktorunuzla tekrar konuşmalı ve hangi belirtileri hissettiğinizde doktorunuzu aramanız gerektiğini öğrenmelisiniz. Normal şartlarda, hamilelik suyunuz gelmeden ve kasılmalar bir dakikayı geçmemişken doktorunuzu aramanız gerekmez. Fakat bebeğinizin hareketlerinde azalma, amniyotik sıvı akıntısı, görüşünüzde sorunlar, vajinal kanama, şiddetli ateş, baş ağrısı veya karın ağrısı hissettiğinizde doktorunuzu aramanız gerekecektir.
+Eğer sorunsuz bir hamilelik geçiriyorsanız son ayınızda uçuşlardan veya uzak yerlere seyahat etmekten kaçının.
+\n\n Hamilelikte çok sıvı tüketmenin önemi\n\n İnsan vücudunun yaklaşık %’60’ı sudan oluşur ve vücut günde yaklaşık 2 litre su kaybeder.
+
+Sağlıklı kan dolaşımını sağlayabilmek ve atıklardan arınmak için bu kaybedilen sıvının tekrar yerine konması gerekir. Bunun yanı sıra, yeterli sıvı tüketmeniz idrar yollarınızın sağlıklı çalışması ve idrar yolu enfeksiyonlarını önlemek için önemlidir.
+
+\n\n Dehidrasyonun belirtileri\n\n Eğer aşağıdaki semptomları hissediyorsanız, vücudunuz susuz kalmış demektir:
+
+Susuzluk hissi
+Koyu idrar
+Baş dönmesi
+Baş ağrısı
+Yorgunluk
+Kuru ağız, dudak ve göz
+Bu durumunuzu dengelemek için, tekrardan sıvı tüketmeniz gerekir. Meyve suyu gibi tatlı içecekler, kaybettiğiniz şekerin yerini doldurmanıza yardımcı olur. Ve tuzlu bir atıştırmalık, mesela tuzlu çerezler ise vücudunuzun kaybettiği tuzu dengeler.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 37.Hafta Hamilelik \n\n 37 haftalık gebelik sürecine girdiğiniz ve artık doğum çok yakın. Bebeğiniz doğum pozisyonuna hazır ve artık doğum zamanını bekliyor.
+
+Şuan bebeğiniz neredeyse 2,8 kilo ve boyu 48 cm.
+Doğum pozisyonunu aldı.
+Bebeğiniz karnınızın alt bölgesine indikçe, kaburgalarınıza uyguladığı baskı azalıyor: bu nedenle biraz daha rahat hissediyor olmalısınız.
+Sindirim sistemi çalışıyor ve artıkları dışarı veriyor. Bebeğinizin ilk dışkısında hamilelik boyunca biriken artıklar bulunacak. Bu yapışkan yeşil renkli dışkıya mekonyum deniyor.
+Bebeğinizin languo tüylerinin çoğu döküldü.
+Bağışıklık sistemi hala gelişiyor. Doğumdan sonra anne sütü yolu ile antikorlar alıp, bağışıklık sistemini daha da güçlendirecektir.\n\n
+Bedeninizde adım adım neler oluyor?\n\n 37. hafta hamilelik sürecinde artık daha rahatsınız. Sürekli sıcaklıyor ve yorgun hissediyor olabilirsiniz. Bu durum vücudunuzun fazla çalışmasından kaynaklanıyor. Çünkü vücudunuzda, bebeğinizi ve sizi beslemek için ne kadar kan dolaşıyorsa, sizin de o kadar kalori tüketmeniz gerekiyor. Ve bu fazladan kullanılan enerji vücut ısınızı arttırıyor.
+\n\n Ferahlamak için 4 yöntem\n\n Buzdolabınızda jel maskesi bulundurun ve dinlenirken gözlerinizin üzerine koyun.
+Ellerinizi ve bileklerinizi soğuk suya tutun.
+Ferahlatıcı soğuk su spreyi veya küçük bir vantilatör bulundurun.
+Devamlı sıvı tüketin.
+Kendinizi çılgınca temizlik yaparken buluyorsanız, yuva yapma güdünüzün meydana çıktığından emin olabilirsiniz. Bu sizi doğuma hazırlayan bir güdüdür. Her kadın bunu hissetmek zorunda değildir ve siz ağır mobilyaları yerlerinden oynatmadığınız sürece zararsızdır. Kesinlikle ağır şeyler kaldırmamalısınız, çünkü bağlarınız hamilelik nedeniyle yumuşak. Bu yüzden bacaklarınızı burkma veya belinizi incitme riskiniz çok yüksek. Gerektiğinde yardım istemelisiniz.
+Eğer temizlik yapmak istiyorsanız, çamaşır suyu gibi sert kimyasallar kullanmayın.
+Kedi besliyorsanız, zehirlenme riskinden kaçınmak için, tuvaletini siz temizlemeyin.
+Braxton Hicks kasılmaları artık daha sık ve güçlü.
+Vajinal akıntınız da çoğalmış olabilir. Eğer iç çamaşırınızda veya tuvalette ufak miktarda kan görürseniz, doğumunun yaklaş en fazla birkaç gün ötede demektir. Şiddetli veya çok kanamanız varsa, hemen doktorunuzu arayın.
+Bu dönemde uyumak her zamankinden daha zor geliyor olabilir. Eğer mümkünse, gün içinde kendinizi yormayın. Bebeğinizin hareketlerini takip etmeye devam edin ve hareketlerinde bir azalma hissederseniz doktorunuzu arayın.
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.</string>
+    <string name="otuzsekizkirk_hafta">38.Hafta Hamilelik \n\n Artık hamileliğinizin sonuna yaklaştınız ve bebeğiniz hızla büyümeye devam ediyor. 38. hafta hamilelik sürecinde önemlidir. Çünkü bebeğiniz artık kendi toparlamaya ve dış dünyaya uyum sağlamaya uygun bir hale gelmek için hazır sayılır. Hamilelikte 38. hafta da yaşananlar hakkında yazımızın devamında anne ve baba adaylarına bilgi sunuyoruz.\n\n
+Hamileliğinizin bir önceki haftası hakkında bilgi sahibi olmak için 37. hafta hamilelik yazımızı okuyabilirsiniz.
+
+Bebeğiniz şuan yaklaşık 50 cm boyunda ve yaklaşık 2,9 kg ağırlığında. Son birkaç haftayı yatıp kilo almak için kullanıyor olacak.
+
+Vücudundaki tüylerin çoğunluğu döküldü ama bazı bebekler vücutlarında bölge lanugoyla doğar ve bunlar ilk birkaç gün ya da hafta içinde dökülür.
+
+Emmek ve yutmak için kasları geliştiğinden beri amniyotik sıvıyı içine çekiyor ve gereksiz maddeler ince bağırsaklarında toplanıyor.
+
+Bebeğinizin rengi koyu yeşille siyah arası olan ve Mekonyum denen ilk dışkısının içinde ölü deri ve lanugo tüyleri olacak.
+
+Akciğerleri olgunlaşmaya ve daha fazla sürfaktan (Bebeğiniz nefes almaya başladığında hava keselerinin birbirine yapışmasını engelleyecek) üretmeye devam ediyor.
+
+Bu evrede bebeğiniz sesinizi duyabilir. Bu yüzden hem siz hem de eşiniz, onunla sık sık konuşmayı ihmal etmeyin.\n\n
+Bedeninizde adım adım neler oluyor?\n\n Çoğu kadın için sonraki birkaç hafta bekleme oyunudur. Bu zamanı bebeğinizin odası veya halledilmesi gereken ve bebeğinizin doğumundan sonra bir süre ilgilenemeyeceğiniz işler için kullanın.
+
+Özellikle geceleri rahatça uyumanın giderek zorlaştığını fark edebilirsiniz. Gün içinde sıklıkla dinlenin ve ayaklarınızı yükseğe koyun. Şekerleme yapın, okuyun ve yapabiliyorken eşinizle zaman geçirin.
+
+Bebeğinizin gelmesine az kaldı: artık doğum çantanızı hazırlayabilirsiniz. Kişisel ve pratik eşyalar dışında, doğumun herhangi bir anında enerji takviyesine ihtiyacınız olması ihtimaline karşı yanınıza besleyici atıştırmalıklar almak yardımcı olacaktır.
+
+Çok miktarda yemek istemeniz mümkün olmayacak ama besin değeri yüksek bir yiyecekten aldığınız bir iki ısırık devam etmenize yardımcı olabilir. Çantanıza farklı yiyecekler koyun: canınızın ne isteyeceğini veya neye tahammül edebileceğinizi zaman gelene kadar bilmeyeceksiniz.
+
+Susuz kalmamak için yanınıza içecek almayı da unutmayın. Bazı kadınlar spor içeceklerini kullanışlı bulur veya kolay içim için spor matarasında su veya meyve suyu alabilirsiniz.\n\n
+2 adımda Kolostrum\n\n Kolostrum hamileliğinin son 3 ayında göğüslerden akan sarımsı sıvıdır. Yeni doğan bebeğinizi korumak için bol miktarda antikor: daha sonra gelen anne sütüne göre daha fazla protein daha az yağ ve şeker barındırır.
+
+Eğer akıntınız varsa kıyafetlerinizi korumak için sutyeninizin içine emzirme pedi koyabilirsiniz. Göğüste üretilse bile Kolostrum akıntısı bütün kadınların başına gelmez. Eğer olmazsa endişelenmenize gerek yok.\n\n Doktorunuzu aramanız gereken durumlar
+\n\n Son haftalarda ayaklarınızda ve ayak bileklerinizde bazı şişlikler olması normal. Ancak bu şişliklerden daha fazlasını yüzünüzde veya göz çevrenizde görürseniz veya aniden kilo aldıysanız,
+
+Şiddetli ve inatçı baş ağrıları,
+
+Görüşte çift veya bulanık görme gibi bozukluklar,
+
+Noktalar veya parlayan ışıklar görme, ışık hassasiyeti, geçici görme kaybı,
+
+Yoğun üst karın ağrısı veya hassaslık,
+
+Mide bulantısı ve kusma gibi sorunlarınız varsa bunlar Preeklampsi adı verilen ciddi bir durumun belirtileri olabilir: hemen doktorunuzu haberdar edin.\n\n
+Enerji takviyesi zamanı\n\n Sağlıklı, enerji veren yiyecekler almak doğum sırasında enerjinizi arttıracak, emzirme sırasında vücudunuza ve bebeğinize destek sağlayacaktır.\n\n Enerji takviyesi için besin önerileri
+\n\n Muz
+
+Kayısı, üzüm ve diğer kuru meyveler
+
+Tahıl barları
+
+Yulaflı kek
+
+Avuç dolusu fındık
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 39.Hafta Hamilelik \n\n Bebeğiniz şuan 51 cm boyunda ve 3,4 kg ağırlığında.
+Fazla yeri olmadığı için, sadece bir taraftan diğer tarafa hareket edebiliyor.
+9 ay önce tek bir hücreydi, şimdi 200 milyon hücreden oluşan küçük bir insan ve tam 300 kemiğiyle dünyaya gelmesine çok az kaldı. Bu kemikler o büyüdükçe birleşecek ve yakında diğer insanlar gibi 206 tane kemik ile hayatına devam edecek.
+Bu inanılmaz seyahat süresinde, plasentanız gereken besin ve antikorları bebeğinize bağışıklık sistemini oluşturması için sundu. Bu yüzden gelecek 6-12 ayda, bebeğinizin bağışıklık sistemi onu enfeksiyonlardan koruyacak.
+Beyni ve vücudu hala gelişiyor ve çocukluğu boyunca da gelişmeye devam edecek.\n\n Bedeninizde adım adım neler oluyor?
+\n\n Bu hafta ile birlikte doğum yaklaşıyor. Son birkaç gün çok hızlı geçebilir. Sabırsızsanız zaman hiç geçmeyecekmiş gibi de gelebilir.
+Bebeğiniz doğum pozisyonunu almak üzere. Ondan sonra daha rahat nefes alabilmeye başlayacaksınız. Çünkü ciğerlerinize daha az baskı uygulanacak.
+Eğer varisleriniz varsa, bu zamanda daha belirgin olabilirler. Bu progesteron hormonunun damarları rahatlatmasından kaynaklanıyor. Ayrıca bacaklarınız daha fazla yük taşıyor ve vücudunuzda daha fazla kan dolaşıyor.
+Şuan, daha çok doğum ve bebeğinizi karşılamak ile ilgilenseniz de, pek yakında emzirmeye odaklanmanız gerekecek. İçinde yer alan karbonhidratlar, proteinler, LCP’ler dâhil olmak üzere yağlar, prebiyotikler, vitaminler, antikorlar ve nükleotidlerle bebeğinizi besleyecek anne sütünüz, bebeğinizin büyürken değişen ihtiyaçlarına uyum sağlayarak, gelişimi için katkıda bulunacak.\n\n
+Hamileliğin son, emzirmenin ilk haftaları için besin önerileri\n\n Ay ve kabak çekirdeği
+Tam buğday lavaşı
+Besin katkılı kahvaltılık yulaf, yoğurt ve yoğurtlu içecekler
+Kuru meyveler\n\n Doğum belirtileri\n\n Artık her an doğurabilecek durumdasınız yani sürekli doğum belirtilerini gözetliyor olmalısınız. Bu belirtiler arasında: suyun gelmesi, membranın zedelenmesi, ishal ve mide bulantısı, enerji çoğalması, mukus tıpanın ayrılması ve hafif kanlı vajinal akıntı sayılabilir. Eğer vajinal akıntınızda kana rastlıyorsanız bu doğumun 1-2 gün uzaklıkta olduğunu varsayabilirsiniz. Fakat bu kesin bir bilgi olmadığı için kendinizi yine de bu zamanlamaya şartlamayın.
+
+Not: Bilgi niteliğindedir, daha detaylı bilgi için doktorunuza danışınız.\n\n 40.Hafta Hamilelik\n\n 40 hafta içerisinde, tek bir hücreden eşsiz ve çok büyük potansiyeli olan küçük bir insan yetişti.
+Bebeğiniz kafasından kalçasına 51 cm uzunluğunda ve ortalama 3,5 kg ağırlığında.
+Vücudunun %15’i yağdan oluşuyor. 70’i aşkın refleksi çalışır vaziyette.
+Sesinizi tanıyabiliyor.
+Bebeğiniz doğarken plasentanız rahiminizden ayrılacak ve bebeğiniz çıktıktan sonra ufak bir yardım ile vücudunuzdan çıkacak. Bu etimsi, oval görünümlü organın ve göbek bağının görevi bebeğinizin ilk nefesi ile sonlanıyor.
+Eğer hala doğum belirtisi göstermiyorsanız, hayal kırıklığına uğramayın. Hamileliklerin yaklaşık %50’si 40 haftadan uzun sürüyor. Birçok doktor normal şartlarda hamileliğin 42 haftaya kadar uzamasına müsaade ediyor. Eğer doğum kendiliğinden başlamıyorsa, 41 veya 42. haftada doğum doktorunuz tarafından başlatılacak.\n\n
+Doğumdan sonrada LCP’ler ve DHA önemli rol taşır. Bunları anne sütü ile bebeğinize aktarabilmeniz için yeterli miktarda tüketmeniz gerekir. LCP’ler yağ grubudur ve belli besinlerde bulunur. LCP’nin bazı çeşitleri vardır: mesela AA (Omega 6) ve DHA (Omega 3).
+DHA özellikle bebeğinizin beyin gelişimini destekler. Bazı yağlı balıklar DHA içerir ve bu yüzden iyi bir kaynak olarak tanımlanır. Yine de balık tüketiminizin haftada 2 porsiyonu geçmemesine dikkat etmeniz gerekir. Eğer yağlı balık tüketmekten hoşlanmıyorsanız çerez, tohum, koyu yeşil sebzeler gibi başka Omega 3 kaynaklarından yararlanabilirsiniz. Omega 3 için değerli kaynaklar, DHA için ise suni takviyeler mevcut olsa da, doktorunuza danışmadan kullanmanız tavsiye edilmez.
+\n\n Omega 3 kaynağı besinler\n\n Tam tahıllı tost üzeri uskumru pate
+Izgara somon ve buharda pişmiş sebze
+Çerez
+Kahvaltılık tahıllı gevrek</string>
+    <string name="kirkbirinci_hafta">Bazı bebekler geç doğabilir ancak bu durum yakından takip edilmesi gereken bir durumdur. Ultrason ve kalp atımı takipleri ile bebeğin ve annenin bu süreçte iyi olduğunun kontrol altında olması gerekir. Bazı durumlarda doğumun başlatılmasına karar verilebilir. Doktorunuz ile iletişim halinde kalın ve bebeğin hareketlerini takip edin. Geç doğan bebekler onları suya karşı koruyan kremsi tabaka azaldığından ciltleri özellikle avuç içleri ve ayak tabanları kırışık ve tırnakları oldukça uzamış olarak doğarlar. </string>
 </resources>
 
 
